@@ -1,9 +1,11 @@
 {
-  "title": "Eleventy Netlify Boilerplate",
-  "url": "https://eleventy-netlify-boilerplate.netlify.com",
+  "title": "Play This tonight",
+  "url": "https://playthistonight.com",
+  "summary": "A blog that talks about playing games",
+  "source": "https://github.com/danurbanowicz/eleventy-netlify-boilerplate",
   "author": {
-    "name": "Dan Urbanowicz",
-    "email": "dan.urbanowicz@gmail.com",
-    "github": "https://github.com/danurbanowicz"
+    "name": "Stuart Urback",
+    "email": "hello@playthistonight.com",
+    "github": "https://github.com/stuwer"
   }
 }
