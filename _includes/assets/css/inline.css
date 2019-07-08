@@ -1,7 +1,8 @@
 :root {
-	--turkey: #FFF0EB;
+	--turkey: #64b6ac;
 	--white: white;
 	--blue: blue;
+	--black: #484538;
 }
 
 *, *:before, *:after {
@@ -170,7 +171,7 @@ button {
 
 input,
 textarea {
-	border: 1px solid black;
+	border: 1px solid --black;
 }
 
 button {
