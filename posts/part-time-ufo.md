@@ -14,9 +14,9 @@ tags:
   - mobile
   - part time ufo
 ---
+Many games, classic and modern are empowerment fantasies, putting the player in the role of a capable hero shouldering a mighty responsibility. I love that! Empowerment is a comforting, familiar fantasy. But what I admire about Part Time UFO is that it isn’t interested in empowerment. Rather, it makes you feel different, and finds joy in the mundane. The world won’t be saved for your involvement, but it will be made better. One odd job at a time. 
+
 ![Part time UFO reading a magazine in its apartment.](/static/img/img_1512-2.jpeg "The dog is optional, if you could ever say that.")
-
-
 
 Available Here: [iOS](https://apps.apple.com/us/app/part-time-ufo/id1279621108), [Android](https://play.google.com/store/apps/details?id=jp.halegg.nazcaf&hl=en_US)
 
