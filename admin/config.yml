@@ -20,6 +20,18 @@ collections:
       - { label: "Summary", name: "summary", widget: "text" }
       - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
       - { label: "Body", name: "body", widget: "markdown" }
+      - {
+          label: "Author",
+          name: "author",
+          widget: "select",
+          options: ["Stuart Urback", "Dan McAlister"],
+        }
+      - {
+          label: "Author 2",
+          name: "author-2",
+          widget: "relation",
+          collection: "authors",
+        }
   # Our pages e.g. About
   - name: "pages"
     label: "Page"
