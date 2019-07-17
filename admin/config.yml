@@ -31,6 +31,7 @@ collections:
           name: "author-2",
           widget: "relation",
           collection: "authors",
+          searchFields: ["name.first", "name.last"],
         }
   # Our pages e.g. About
   - name: "pages"
