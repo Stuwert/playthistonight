@@ -1,5 +1,5 @@
 ---
-title: Get in touch
+title: Get in Touch
 tags:
   - nav
 navtitle: Contact
