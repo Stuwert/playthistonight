@@ -26,13 +26,6 @@ collections:
           widget: "select",
           options: ["Stuart Urback", "Dan McAlister"],
         }
-      - {
-          label: "Author 2",
-          name: "author-2",
-          widget: "relation",
-          collection: "authors",
-          searchFields: ["name.first", "name.last"],
-        }
   # Our pages e.g. About
   - name: "pages"
     label: "Page"
