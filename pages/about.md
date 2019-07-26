@@ -6,7 +6,7 @@ tags:
   - nav
 navtitle: About
 date: 2017-01-01
-permalink: /example-page-2/index.html
+permalink: /about/index.html
 ---
 
 ## Mission Statement
