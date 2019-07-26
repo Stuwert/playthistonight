@@ -1,11 +1,10 @@
 {
-  "title": "Play This Tonight",
-  "url": "https://playthistonight.com",
-  "summary": "A blog that talks about playing games",
-  "source": "https://github.com/danurbanowicz/eleventy-netlify-boilerplate",
+  "title": "Stacks 11ty Theme",
+  "url": "https://stacks11ty.netlify.com/",
+  "siteUrl": "https://stacks11ty.netlify.com/",
   "author": {
-    "name": "Stuart Urback",
-    "email": "hello@playthistonight.com",
-    "github": "https://github.com/stuwer"
+    "name": "Bradley Taunt",
+    "email": "bradleytaunt@gmail.com",
+    "github": "https://github.com/bradleytaunt"
   }
 }
