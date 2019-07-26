@@ -1,10 +1,10 @@
 ---
 layout: layouts/page.njk
-title: Page Example
+title: About
 description: An example page
 tags:
   - nav
-navtitle: Example Page 2
+navtitle: About
 date: 2017-01-01
 permalink: /example-page-2/index.html
 ---

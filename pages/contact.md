@@ -1,5 +1,5 @@
 ---
-layout: layouts/form.njk
+layout: layouts/base.njk
 title: Get in touch
 section: contact
 date: 2018-01-01
