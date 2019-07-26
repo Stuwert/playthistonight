@@ -1,7 +1,7 @@
 {
-  "name": "Stacks",
+  "name": "Play This Tonight",
   "version": "1.0.0",
-  "description": "A custom eleventy template with personality.",
+  "description": "A website about games.",
   "scripts": {
     "build": "npx eleventy",
     "watch": "npx eleventy --watch",
@@ -9,18 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bradleytaunt/stacks-11ty"
+    "url": "https://github.com/Stuwert/playthistonight"
   },
   "author": {
-    "name": "Bradley Taunt",
-    "email": "bradleytaunt@gmail.com",
-    "url": "https://www.bradleytaunt.com/"
+    "name": "Stuart Urback",
+    "email": "stuart@urback.net",
+    "url": "https://urback.net"
   },
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/bradleytaunt/stacks-11ty/issues"
-  },
-  "homepage": "https://stacks11ty.netlify.com/",
+  "homepage": "https://playthistonight.com",
   "devDependencies": {
     "@11ty/eleventy": "^0.5.0",
     "luxon": "^1.0.0",
