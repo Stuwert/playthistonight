@@ -8,13 +8,13 @@ summary: >-
 tags:
   - post
 ---
-# What is it?
+### What is it?
 
 _Cockroach Poker_ is a game about getting your friends to distrust you about the simplest of facts. Games that tap into our ability to deceive our friends are fun ways to play with the ties that bind us together.  I can still remember playing _[B.S](https://gamerules.com/rules/bullshit-card-game/)_. on 10th grade beach hike.  There was so much rain that we spent a lot more time inside a tent, trying to distract ourselves from the cold and the wet - tents never quite kept as much water out as you hoped. There's nothing quite like the fear and adrenaline of laying down 3 random cards from your hand and confidently calling them all 2s, while your friends look on in fear and consternation, wondering whether or not you have the ice in your veins to lie so boldly. 
 
 _Cockroach Poker_ takes the core of _BS_ - lying to your friends - and leaves the rest.  The deck is smaller, the game is faster, and the moments are more explosive. 
 
-## Which is Why I Love Cockroach Poker
+### Which is Why I Love Cockroach Poker
 
 **It inverts common gaming tropes: there are no winners, and only one loser.** It's a game in which one person is coolly shoved off a ledge while the rest the lying liars watch. 
 
@@ -32,15 +32,15 @@ In _BS_, you would lay down a stack of cards, and look around the table, waiting
 
 Because it's clear who's actively in the game, Cockroach Poker is great spectator sport.  A large majority of the time you are not directly involved in the game, you are watching two people locked in a battle of wits. It's fun to watch other players call and bluff each other, without the pressure of having to make a decision: all the while knowing that it might be you that gets thrown into the fray next.  One of my favorite moments, was knowing that I wanted a particular player to have the card I played, but gave it to a different player, and watching in suspense while it got passed around the table until my target, the last player, called incorrectly, and my hot potato time bomb exploded in their face deliciously.  
 
-# When You Should Play This Game
+### When You Should Play This Game
 
 Cockroach Poker is fast, it only takes about 10-20 minutes to play, so as long as you have a group of at least 4, and some sort of surface to deliver cards on, you can make it happen.  The biggest downside to the game is that it can get a tad aggressive.  You will have to directly lie to your friends.  I enjoy that.  I  find it fun to play with the boundaries of truth and trustworthiness in a safe space. However, that tension isn't as enjoyable for everyone I can also understand where that sort of tension makes you or your friend-group uncomfortable.  Lying might not be a place where you want to go with the people you're with.  If that's the case, Cockroach Poker is probably not for you.  
 
-# Your First Game
+### Your First Game
 
 Once you've decided to play, there's only one more snag you might hit.  Because _Cockroach Poker_ doesn't have any winners, it only has one loser, playing not to lose can trip some people up - it's very different than how the majority of other games are played.  So if you know how to play, but are playing with others who don't, mention that the goal is to correctly deceive and call other players' deceits. Then, deal out the cards, pick a card in your hand, and play the first turn.  Because the cost of losing a round is so low, you don't need to bother playing a practice round to start.  Just dive right in, and play until someone loses.
 
-# Going Further
+### Going Further
 
 Cockroach Poker is not the type of game that I would play over and over again over the course of an evening.  The high of trying to lie to your friends can wear off pretty quickly, even if the strategy remains play after player. So if you're ready to take a step further, I might recommend these games: 
 
