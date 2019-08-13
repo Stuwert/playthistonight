@@ -8,7 +8,7 @@
     "debug": "DEBUG=* npx eleventy"
   },
   "repository": {
-    "type": "npgit",
+    "type": "git",
     "url": "https://github.com/play-this-tonight/blog"
   },
   "author": {
