@@ -1,4 +1,5 @@
 ---
+layout: layouts/page.njk
 title: Games We've Designed
 date: 2017-01-01T00:00:00.000Z
 permalink: /designs/index.html

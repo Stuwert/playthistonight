@@ -1,5 +1,5 @@
 {
-  "name": "Play This Tonight",
+  "name": "play-this-tonight",
   "version": "1.0.0",
   "description": "A website about games.",
   "scripts": {
@@ -8,7 +8,7 @@
     "debug": "DEBUG=* npx eleventy"
   },
   "repository": {
-    "type": "git",
+    "type": "npgit",
     "url": "https://github.com/Stuwert/playthistonight"
   },
   "author": {
@@ -19,17 +19,17 @@
   "license": "MIT",
   "homepage": "https://playthistonight.com",
   "devDependencies": {
-    "@11ty/eleventy": "^0.5.0",
-    "luxon": "^1.0.0",
-    "markdown-it": "^8.4.1",
+    "@11ty/eleventy": "^0.5.4",
+    "markdown-it": "^8.4.2",
     "markdown-it-anchor": "^4.0.0"
   },
   "dependencies": {
-    "clean-css": "^4.1.11",
-    "feather-icons": "^4.7.3",
-    "html-minifier": "^3.5.19",
-    "local-web-server": "^2.6.0",
+    "clean-css": "^4.2.1",
+    "feather-icons": "^4.24.0",
+    "html-minifier": "^3.5.21",
+    "local-web-server": "^2.6.1",
+    "luxon": "^1.17.2",
     "uglify-es": "^3.3.9",
-    "uglify-js": "^3.4.5"
+    "uglify-js": "^3.6.0"
   }
 }
