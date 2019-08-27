@@ -8,7 +8,7 @@ tags:
   - billiards
   - freemiumish
 ---
-If you spend more than 5 minutes with me you'll probably discover me flipping a pen in my hand, absentmindedly clicking a clicker, or twirling my wedding ring on my finger.  I might be addicted to fiddling with objects; I even love the sound of a book page turning.  One of the reasons I love phone games, is because of the inventive ways designers 
+If you spend more than 5 minutes with me you'll probably discover me flipping a pen in my hand, absentmindedly clicking a clicker, or twirling my wedding ring on my finger.  I might be addicted to fiddling with objects; I even love the sound of a book page turning.  One of the reasons I love phone games, is because of the inventive ways designers use the limits of the phone to create immersive experiences.
 
 When people talk about realism in digital spaces, they often attribute this to a visual - 3 dimensional - rendering of reality.  The closer the visuals are to “real life”, the more immersive the game will be.  But there are other ways of generating feedback, and creating joy, with digital games.  Small phone games don’t immediately have the benefit of beautifully displaying those visuals.
 
