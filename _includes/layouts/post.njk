@@ -35,23 +35,13 @@
           {%- endif -%}
         {% endfor %}
       </p>
-
-      {% if tags %}
-        <p>
-          {% for tag in tags %}
-            {%- if tag != "post" -%}
-              {% set tagUrl %}/tags/{{ tag }}/{% endset %}
-              <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
-            {%- endif -%}
-          {% endfor %}
-        </p>
-      {% endif %}
-    </div>
+    {% endif %}
   </div>
+</div>
 </article>
 
 <div class="flex-grid t-center">
-  <a class="flex-grid__item" href="/blog">
-    <h2 class="home-title m-0">← Back to all posts</h2>
-  </a>
+<a class="flex-grid__item" href="/blog">
+  <h2 class="home-title m-0">← Back to all posts</h2>
+</a>
 </div>
