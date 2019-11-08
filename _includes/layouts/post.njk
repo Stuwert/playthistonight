@@ -1,28 +1,39 @@
---- layout: layouts/base-post.njk section: post ---
+--- 
+  layout: layouts/base-post.njk 
+  section: post 
+---
+<h1>{{ title }}</h1>
 
-<article>
-  <h1>{{ title }}</h1>
-  <p>
-    <small>
-      <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time>
+<div class="flex-grid">
+
+  <div class="flex-grid__item flex-grid__item--no-hover flex-grid__item--full-width">
+    <p>
+      <small>
+        <time datetime="{{ date | machinedate }}">{{ date | readableDate }}</time>
       by
       {{ author }}
-    </small>
-  </p>
+      </small>
+    </p>
 
-  <div class="flex-grid">
+    {{ layoutContent | safe }}
 
-    <div class="flex-grid__item flex-grid__item--no-hover flex-grid__item--full-width">
+    <hr/>
 
-      {{ layoutContent | safe }}
-
-      <hr/>
-
-      <p>
-        <small>
-          <time datetime="{{ date | machineDate }}">Published:
+    <p>
+      <small>
+        <time datetime="{{ date | machinedate }}">Published:
             {{ date | readableDate }}</time>
-        </small>
+      </small>
+    </p>
+
+    {% if tags %}
+      <p>
+        {% for tag in tags %}
+          {%- if tag != "post" -%}
+            {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+            <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+          {%- endif -%}
+        {% endfor %}
       </p>
 
       {% if tags %}
