@@ -32,6 +32,6 @@ The relationship between each of the bosses that _Celeste_ encounters (her shado
 
 That connection between the music, the story, and the gameplay helped _Celeste_ hit home for me in a way that other games had not.  _Celeste_ was the first time I felt like the character on the screen reflected back personal struggles I encountered (and still encounter), and so it holds a special place in my heart.  I didn’t just feel like the character was an avatar, I felt like I was a conduit for that character to help accomplish her goals.  
 
-While didn’t force me to reconsider previously held beliefs, but its combination of music, mechanics, and story left me uplifted and empowered.  I came out of Celeste feeling similar to how I feel when I leave a Star Wars film - ready to take on the world.  
+While _Celeste_ didn’t force me to reconsider my previously held beliefs, its combination of music, mechanics, and story left me uplifted and empowered.  I finished my time with the game feeling similar to how I feel when I leave a Star Wars film - ready to take on the world.  
 
 _Celeste is a 2018 release from Matt Makes Games (now called EXOK games), I played it on the Nintendo Switch._
