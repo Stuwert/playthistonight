@@ -26,7 +26,7 @@ A rule is something that dictates what you are allowed to do. An example of this
 
 An algorithm, is a decision that an AI makes in response to an action you take. An example of this might be a chess AI deciding to capture your pawn with its knight.
 
-A traditional Solitaire game is mostly rules, an algorithm (the deck shuffle), will pick the order cards are dealt, but the game is about the player's ability to follow rules to put them into the correct order. A typical RPG is mostly algorithms, it's about the players ability to exploit the algorithm's weaknesses in order to advance. However, the algorithms that underly most RPGs can make them highly inaccessible, because they can take hours of trial and error to learn.
+A traditional Solitaire game is mostly rules, an algorithm (the deck shuffle), will pick the order cards are dealt, but the game is about the player's ability to follow rules to put them into the correct order. A typical RPG is mostly algorithms, it's about the players ability to exploit the algorithm's weaknesses in order to advance. However, the algorithms that underly most RPGs can make them highly unapproachable, because they can take hours of trial and error to learn.
 
 ![character with the weapon equipped facing an incomplete gameboard](/static/img/screenshot-2020-03-27-at-11.52.07-pm.png "Character with Weapon Equipped - Level Incomplete")
 
