@@ -1,11 +1,10 @@
 ---
-title: 'Card of Darkness: A Solitaire RPG'
+title: 'Card of Darkness: A Solitaire-y RPG'
 author: Stuart Urback
 date: 2020-03-28T05:54:18.512Z
 summary: >-
   Card of Darkness by Zach Gage, Pendleton Ward, and Choice Provisions is a
-  mash-up of a solitaire game and an RPG released on Apple Arcade, available for
-  a subscription of $5 a month for any platform.
+  mash-up of a solitaire game and an RPG released on Apple Arcade.
 tags:
   - post
 ---
