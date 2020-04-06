@@ -8,13 +8,13 @@ tags:
   - platformer
   - exploration
 ---
+![Image of Viridian's crew on the ship. One says "Uh oh."](/static/img/uh-oh-high.jpg)
+
 Available: [Steam](https://store.steampowered.com/app/70300/VVVVVV/), [Itch](https://terrycavanagh.itch.io/vvvvvv), [Android](https://play.google.com/store/apps/details?id=air.com.distractionware.vvvvvvmobile&hl=en_US), [iOS](https://apps.apple.com/us/app/vvvvvv/id880645949), [Switch](https://www.nintendo.com/games/detail/vvvvvv-switch/), [Playstation](https://www.playstation.com/en-us/games/vvvvvv-ps4/)
 
 ## What Is It
 
 Imagine if Mario got lost. This doesn’t often happen; most of his games are linear obstacle courses, and even his more freeform ones like *Super Mario Odyssey* make it pretty clear where he should be going. But if Mario did get lost, his immediate goal would shift from “how do I get over this obstacle?” to “where do I go?”. *VVVVVV* is a platformer like a *Mario* game, filled with *Mario*-like obstacles, but its main character is lost. Also, its main character can’t jump. 
-
-![Image of Viridian's crew on the ship. One says "Uh oh."](/static/img/uh-oh-high.jpg)
 
 *VVVVVV* starts with Captain Viridian and their crew (Violet, Vermilion, Victoria, Verdigris, and Vitellary) getting stranded and separated in a different dimension. You take on the role of Captain Viridian, exploring this mysterious place to rescue your friends and find a way back home. And you’ll do so with a strange new power: Captain Viridian can now flip the direction of their own gravity. You may not be able to jump, but you can walk upside-down across the ceiling with the press of a button.  
 
