@@ -63,13 +63,13 @@ module.exports = function (eleventyConfig) {
     });
   });
 
-  eleventyConfig.addNunjucksFilter("getFirstImage", (postContent) => {
+  eleventyConfig.addNunjucksFilter("getFirst", (postContent, htmlEl) => {
     console.log(typeof postContent);
     const {
       window: { document: htmlDoc },
     } = new JSDOM(postContent, "text/html");
 
-    return htmlDoc.querySelector("img");
+    return htmlDoc.querySelector(htmlEl);
   });
 
   // Don't process folders with static assets e.g. images
