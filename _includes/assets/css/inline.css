@@ -116,9 +116,10 @@ table th {
   padding: 10px;
 }
 
-.siteTitle {
+.siteTitle h2 {
   margin: 0;
 }
+
 .siteTitle a {
   text-decoration: none;
   color: var(--green-dark-med);
@@ -126,6 +127,11 @@ table th {
 .tagline {
   color: var(--green-dark-med);
   font-size: 0.8em;
+}
+
+header {
+  align-items: center;
+  width: 850px;
 }
 
 /* The Grid(s) */
@@ -141,7 +147,7 @@ table th {
 .flex-grid--sb {
   justify-content: space-between;
 }
-..flex-grid--col {
+.flex-grid--col {
   flex-direction: column;
 }
 
@@ -223,7 +229,6 @@ table th {
 
 /* Navigation */
 nav ul {
-  display: flex;
   padding: 0;
   list-style: none;
 }
@@ -306,6 +311,9 @@ button {
 }
 
 @media screen and (max-width: 768px) {
+  .siteTitle h2 {
+    text-align: center;
+  }
   body {
     font-size: 16px;
   }
