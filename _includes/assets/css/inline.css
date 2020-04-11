@@ -44,7 +44,7 @@ h6 {
 h1 {
   color: var(--link-color);
   font-size: 60px;
-  margin: 80px 0;
+  margin: 40px 0;
   padding: 0 20px;
   text-align: center;
 }
@@ -224,7 +224,7 @@ nav ul :last-child {
 }
 nav li {
   display: inline-block;
-  font-size: 24px;
+  font-size: 20px;
   margin: 0 0.5em;
 }
 nav li a,
@@ -310,7 +310,7 @@ button {
 
   h1 {
     font-size: 30px;
-    margin: 40px 0;
+    margin: 20px 0;
   }
 
   p,

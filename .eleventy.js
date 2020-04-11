@@ -54,6 +54,12 @@ module.exports = function (eleventyConfig) {
     });
   });
 
+  eleventyConfig.addNunjucksFilter("dataSort", (collection, dataKey) => {
+    return collection.sort((a, b) => {
+      return a.data[dataKey] - b.data[dataKey];
+    });
+  });
+
   // Don't process folders with static assets e.g. images
   eleventyConfig.addPassthroughCopy("static/img");
   eleventyConfig.addPassthroughCopy("admin");
