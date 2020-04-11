@@ -12,7 +12,7 @@ module.exports = function(eleventyConfig) {
   });
 
   // Date formatting (machine readable)
-  eleventyConfig.addFilter("machineDate", dateObj => {
+  eleventyConfig.addFilter("machinedate", dateObj => {
     return DateTime.fromJSDate(dateObj).toFormat("yyyy-MM-dd");
   });
 
@@ -68,8 +68,9 @@ module.exports = function(eleventyConfig) {
     permalink: false
   };
 
-  eleventyConfig.setLibrary("md", markdownIt(options)
-    .use(markdownItAnchor, opts)
+  eleventyConfig.setLibrary(
+    "md",
+    markdownIt(options).use(markdownItAnchor, opts)
   );
 
   return {
