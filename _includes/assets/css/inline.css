@@ -1,6 +1,17 @@
 :root {
-  --brand-color: #ffe79a;
-  --link-color: #ef5a5a;
+  --green-light: #eaf5f4;
+  --green-med-light: #82c7bf;
+  --green-med: #2fa295;
+  --green-dark-med: #147066;
+  --green-dark: #030e0d;
+  --purple-light: #ecebee;
+  --purple-med-light: #8d8a9e;
+  --purple-med: #2e294e;
+  --purple-dark-med: #151324;
+  --purple-dark: #050408;
+
+  --brand-color: var(--purple-light);
+  --link-color: var(--green-med);
 }
 
 *,
