@@ -8,11 +8,15 @@
     {% set post = collections.posts | sort(attribute = "date") | last %}
     <a class="flex-grid__item" href="{{ post.url | url }}">
         <h2 class="home-title">{{ post.data.title }}</h2>
+        <p>
+            <time datetime="{{ post.data.date | machinedate }}">
+                <small>{{ post.data.date | readableDate }} by {{ post.data.author }}</small>
+            </time>
+        </p>
         {% set image = post.data.content | getFirstImage %}
         {% if image %}
             <img src="{{image.src}}" alt="{{image.alt}}"/>
         {% endif %}
-        <span>{{ post.data.author }}</span>
         {% if post.data.summary %}
             <p class="home-summary">
                 {{ post.data.summary }}
@@ -23,6 +27,6 @@
 
 <div class="flex-grid t-center">
     <a class="flex-grid__item" href="/blog">
-        <h2 class="home-title m-0">Read all posts →</h2>
+        <h2 class="home-title m-0">All Posts →</h2>
     </a>
 </div>
