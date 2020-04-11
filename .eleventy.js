@@ -4,6 +4,7 @@ const UglifyJS = require("uglify-es");
 const htmlmin = require("html-minifier");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSEO = require("eleventy-plugin-seo");
+const { JSDOM } = require("jsdom");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
@@ -60,6 +61,15 @@ module.exports = function (eleventyConfig) {
     return collection.sort((a, b) => {
       return a.data[dataKey] - b.data[dataKey];
     });
+  });
+
+  eleventyConfig.addNunjucksFilter("getFirstImage", (postContent) => {
+    console.log(typeof postContent);
+    const {
+      window: { document: htmlDoc },
+    } = new JSDOM(postContent, "text/html");
+
+    return htmlDoc.querySelector("img");
   });
 
   // Don't process folders with static assets e.g. images
