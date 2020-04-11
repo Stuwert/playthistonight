@@ -116,12 +116,23 @@ table th {
   padding: 10px;
 }
 
+.siteTitle {
+  margin: 0;
+}
+.siteTitle a {
+  text-decoration: none;
+  color: var(--green-dark-med);
+}
+.tagline {
+  color: var(--green-dark-med);
+  font-size: 0.8em;
+}
+
 /* The Grid(s) */
 .flex-grid {
   display: flex;
   flex-shrink: 0;
   justify-content: center;
-  margin: 0 auto;
   max-width: 1400px;
 }
 .flex-grid--wrap {
@@ -229,6 +240,7 @@ nav li {
 }
 nav li a,
 nav li a:visited {
+  color: var(--green-dark-med);
   opacity: 0.6;
   text-decoration: none;
   transition: 0.3s ease all;

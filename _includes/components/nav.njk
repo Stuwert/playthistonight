@@ -1,6 +1,5 @@
-<nav>
-  <h2 class="flex-break">{{metadata.title}}</h3>
-  <ul class="flex-break">
+<nav class="flex-break">
+  <ul>
     {%- for nav in collections.nav | dataSort('priority') -%}
       <li>
         <a href="{{ nav.url | url }}" {% if nav.url == page.url %} data-current="current item" {% endif %}>{{ nav.data.navtitle }}</a>

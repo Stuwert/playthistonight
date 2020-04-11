@@ -5,9 +5,10 @@
 
 	<body>
 
-		<div class="flex-grid flex-grid--sb flex-break p-60 m-20 w-100">
+		<header class="flex-grid flex-grid--sb flex-break p-60 m-20 w-100">
+			{% include "components/siteTitle.njk" %}
 			{% include "components/nav.njk" %}
-		</div>
+		</header>
 
 		{{ layoutContent | safe }}
 

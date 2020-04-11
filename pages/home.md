@@ -4,8 +4,6 @@ title: Welcome
 priority: 1
 permalink: /
 navtitle: Home
-tags:
-  - nav
 ---
 
 # Welcome

@@ -1,9 +1,9 @@
 ---
 layout: layouts/blog.njk
-title: Blog
+title: Recommendations
 priority: 2
 tags:
   - nav
-navtitle: Blog
+navtitle: Recommendations
 permalink: /blog/index.html
 ---
