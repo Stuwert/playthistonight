@@ -134,6 +134,18 @@ header {
   width: 950px;
 }
 
+.home:hover {
+  color: auto;
+}
+
+.home {
+  color: var(--green-med);
+}
+
+.main-link:hover {
+  font-weight: bold;
+}
+
 /* The Grid(s) */
 .flex-grid {
   display: flex;
