@@ -43,7 +43,6 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addFilter("getFirst", (postContent, htmlEl) => {
-    console.log(typeof postContent);
     const {
       window: { document: htmlDoc },
     } = new JSDOM(postContent, "text/html");

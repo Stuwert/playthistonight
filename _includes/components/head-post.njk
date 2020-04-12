@@ -21,4 +21,6 @@
     {{ js | jsmin | safe }}
   </script>
   {% seo "" %}
+  {% set img = layoutContent | getFirst('img') %}
+  <meta property="og:image" content="{{ img.src }}"/>
 </head>
