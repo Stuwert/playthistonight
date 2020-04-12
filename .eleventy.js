@@ -3,9 +3,12 @@ const CleanCSS = require("clean-css");
 const UglifyJS = require("uglify-es");
 const htmlmin = require("html-minifier");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
+const pluginSEO = require("eleventy-plugin-seo");
+const { JSDOM } = require("jsdom");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
+  eleventyConfig.addPlugin(pluginSEO, require("./_data/metadata.json"));
 
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
 
@@ -33,6 +36,18 @@ module.exports = function (eleventyConfig) {
     }
     return minified.code;
   });
+  eleventyConfig.addFilter("dataSort", (collection, dataKey) => {
+    return collection.sort((a, b) => {
+      return a.data[dataKey] - b.data[dataKey];
+    });
+  });
+
+  eleventyConfig.addFilter("getFirst", (postContent, htmlEl) => {
+    const {
+      window: { document: htmlDoc },
+    } = new JSDOM(postContent, "text/html");
+    return htmlDoc.querySelector(htmlEl);
+  });
 
   // Minify HTML output
   eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
@@ -51,6 +66,12 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addCollection("posts", function (collection) {
     return collection.getAllSorted().filter(function (item) {
       return item.inputPath.match(/^\.\/posts\//) !== null;
+    });
+  });
+
+  eleventyConfig.addCollection("designs", function (collection) {
+    return collection.getAllSorted().filter(function (item) {
+      return item.inputPath.match(/^\.\/designs\//) !== null;
     });
   });
 

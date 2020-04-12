@@ -1,6 +1,6 @@
-<nav>
-  <ul class="flex-break">
-    {%- for nav in collections.nav | sort(attribute="date") -%}
+<nav class="flex-break ">
+  <ul>
+    {%- for nav in collections.nav | dataSort('priority') -%}
       <li>
         <a href="{{ nav.url | url }}" {% if nav.url == page.url %} data-current="current item" {% endif %}>{{ nav.data.navtitle }}</a>
       </li>

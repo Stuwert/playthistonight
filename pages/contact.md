@@ -2,9 +2,13 @@
 layout: layouts/contact.njk
 title: Get in touch
 section: contact
-date: 2018-01-01
+priority: 100
+navtitle: Contact Us!
 permalink: /contact/index.html
+tags:
+  - nav
 ---
+
 The contact form on this page uses
 [Netlify Forms](https://www.netlify.com/docs/form-handling/) to process
 submissions, and saves them in your Netlify account where you can optionally

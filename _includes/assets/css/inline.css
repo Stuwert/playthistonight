@@ -44,7 +44,7 @@ h6 {
 h1 {
   color: var(--link-color);
   font-size: 60px;
-  margin: 80px 0;
+  margin: 40px 0;
   padding: 0 20px;
   text-align: center;
 }
@@ -116,12 +116,41 @@ table th {
   padding: 10px;
 }
 
+.siteTitle h2 {
+  margin: 0;
+}
+
+.siteTitle a {
+  text-decoration: none;
+  color: var(--green-dark-med);
+}
+.tagline {
+  color: var(--green-dark-med);
+  font-size: 0.8em;
+}
+
+header {
+  align-items: center;
+  width: 950px;
+}
+
+.home:hover {
+  color: auto;
+}
+
+.home {
+  color: var(--green-med);
+}
+
+.main-link:hover {
+  font-weight: bold;
+}
+
 /* The Grid(s) */
 .flex-grid {
   display: flex;
   flex-shrink: 0;
   justify-content: center;
-  margin: 0 auto;
   max-width: 1400px;
 }
 .flex-grid--wrap {
@@ -130,7 +159,7 @@ table th {
 .flex-grid--sb {
   justify-content: space-between;
 }
-..flex-grid--col {
+.flex-grid--col {
   flex-direction: column;
 }
 
@@ -212,7 +241,6 @@ table th {
 
 /* Navigation */
 nav ul {
-  display: flex;
   padding: 0;
   list-style: none;
 }
@@ -224,11 +252,12 @@ nav ul :last-child {
 }
 nav li {
   display: inline-block;
-  font-size: 24px;
+  font-size: 20px;
   margin: 0 0.5em;
 }
 nav li a,
 nav li a:visited {
+  color: var(--green-dark-med);
   opacity: 0.6;
   text-decoration: none;
   transition: 0.3s ease all;
@@ -294,6 +323,9 @@ button {
 }
 
 @media screen and (max-width: 768px) {
+  .siteTitle h2 {
+    text-align: center;
+  }
   body {
     font-size: 16px;
   }
@@ -310,7 +342,7 @@ button {
 
   h1 {
     font-size: 30px;
-    margin: 40px 0;
+    margin: 20px 0;
   }
 
   p,

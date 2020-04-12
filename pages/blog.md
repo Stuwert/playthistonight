@@ -1,9 +1,9 @@
 ---
 layout: layouts/blog.njk
-title: Blog
+title: Recommendations
+priority: 2
 tags:
   - nav
-navtitle: Blog
-date: 2017-01-01
+navtitle: Game Recs
 permalink: /blog/index.html
 ---
