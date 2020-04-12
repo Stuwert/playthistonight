@@ -8,9 +8,9 @@ const { JSDOM } = require("jsdom");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
+  eleventyConfig.addPlugin(pluginSEO, require("./_data/metadata.json"));
 
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
-  eleventyConfig.addPlugin(pluginSEO, require("./_data/metadata.json"));
 
   // Date formatting (human readable)
   eleventyConfig.addFilter("readableDate", (dateObj) => {
@@ -36,6 +36,19 @@ module.exports = function (eleventyConfig) {
     }
     return minified.code;
   });
+  eleventyConfig.addFilter("dataSort", (collection, dataKey) => {
+    return collection.sort((a, b) => {
+      return a.data[dataKey] - b.data[dataKey];
+    });
+  });
+
+  eleventyConfig.addFilter("getFirst", (postContent, htmlEl) => {
+    console.log(typeof postContent);
+    const {
+      window: { document: htmlDoc },
+    } = new JSDOM(postContent, "text/html");
+    return htmlDoc.querySelector(htmlEl);
+  });
 
   // Minify HTML output
   eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
@@ -57,19 +70,10 @@ module.exports = function (eleventyConfig) {
     });
   });
 
-  eleventyConfig.addNunjucksFilter("dataSort", (collection, dataKey) => {
-    return collection.sort((a, b) => {
-      return a.data[dataKey] - b.data[dataKey];
+  eleventyConfig.addCollection("designs", function (collection) {
+    return collection.getAllSorted().filter(function (item) {
+      return item.inputPath.match(/^\.\/designs\//) !== null;
     });
-  });
-
-  eleventyConfig.addNunjucksFilter("getFirst", (postContent, htmlEl) => {
-    console.log(typeof postContent);
-    const {
-      window: { document: htmlDoc },
-    } = new JSDOM(postContent, "text/html");
-
-    return htmlDoc.querySelector(htmlEl);
   });
 
   // Don't process folders with static assets e.g. images

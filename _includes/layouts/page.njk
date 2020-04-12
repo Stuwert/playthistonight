@@ -9,6 +9,15 @@ section: page
 
     {{ layoutContent | safe }}
 
+    {% if subcollection %}
+      {% for item in collections[subcollection] %}
+        <h2>
+          <a href="{{item.data.externalUrl}}" >{{item.data.title}}</a>
+        </h2>
+        <p>{{item.data.summary}}</p>
+      {% endfor %}
+    {% endif %}
+
   </div>
 
 </div>

@@ -15,6 +15,7 @@ Play This Tonight wants to be part of the trend that makes talking about and pla
 
 - Stuart Urback
 - Dan McAlister
+- Stacy Moore
 
 ### Website
 
