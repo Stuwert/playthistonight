@@ -39,3 +39,13 @@ collections:
       - { label: "Tags", name: "tags", widget: "hidden", default: "nav" }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Nav Priority", name: "priority" }
+  - name: "designs"
+    label: "Design"
+    folder: "designs"
+    create: true # Change to true to allow editors to create new pages
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "External Url", name: "externalurl", widget: "string" }
+      - { label: "Navigation Title", name: "navtitle", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }

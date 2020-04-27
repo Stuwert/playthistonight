@@ -151,7 +151,6 @@ header {
   display: flex;
   flex-shrink: 0;
   justify-content: center;
-  max-width: 1400px;
 }
 .flex-grid--wrap {
   flex-wrap: wrap;
