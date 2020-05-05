@@ -34,7 +34,7 @@ I recently started playing *Lovers In A Dangerous Spacetime* with a friend who l
 
 ## What Are Its Limitations?
 
-![Screenshot of Lovers In A Dangerous Spacetime. Cute animals back up as reactor explodes. ](/static/img/img_0418-2.jpeg "It's a useful technology, but it's not flawless. ")
+![Screenshot of Lovers In A Dangerous Spacetime. Cute animals back up as reactor explodes. ](/static/img/img_0418-2.jpeg "It's a useful technology, but not a flawless one.")
 
 Remote Play Together is essentially a video stream from the host computer to your friends' devices, and like any video stream, lag and stuttering are a risk. Most of my games have been stable, but your group's internet connection is going to be a factor in how playable your game is. 
 
