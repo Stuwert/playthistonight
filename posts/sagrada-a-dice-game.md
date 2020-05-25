@@ -18,7 +18,7 @@ You will score at the end of the game based on a variety of criteria, having row
 
 # The Physical Game
 
-The first time I played Sagrada used the physical game. I found myself enjoying the game conceptually but disappointed by its execution. The components were small, the dice were smaller than your average 6 sided die (probably to save on cost and space), but it resulted in making it hard to manipulate the pieces into their proper orientation, and all too easy to accidentally bump or drop a die into the wrong configuration.
+The first time I played Sagrada using real dice and cardboard. I found myself enjoying the game conceptually but disappointed by its execution. The components were small, the dice were smaller than your average 6 sided die (probably to save on cost and space), but it resulted in making it hard to manipulate the pieces into their proper orientation, and all too easy to accidentally bump or drop a die into the wrong configuration.
 
 With some games, waiting between turns can be a lot of fun. You can smack talk your opposition. try to figure out how you might respond, or enjoy discussing an interesting concept related to the game. In Sagada, with all of the pieces laid out, there was no suspense to see what other players had built (or any visceral reaction from seeing it).
 
