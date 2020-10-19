@@ -8,6 +8,11 @@ tags:
   - mystery
   - adventure
   - visual novel
+  - video game review
+  - Nintendo DS
+  - PS4
+  - PS Vita
+  - Windows
 ---
 ![An arm with a bracelet on the wrist. The bracelet has a screen showing the number five.](/static/img/ca038dc7-7251-44ee-b190-75680d3cb131.jpeg)
 
@@ -55,4 +60,4 @@ I found the True Ending on my sixth play-through, and I didn’t stumble across 
 
 But *Nine Hours, Nine Persons, Nine Doors* is fortunately much more than its ending. It’s a unique, clever puzzle that plays best with a pile of notes and diagrams. It rewards careful attention and understanding its characters. It’s an ambitious trip that doesn’t quite nail the landing, but I’m still thankful for the experience I had getting there. 
 
-*PILEDIVER is a review series where I play through the many, many games in my backlog. Thank you for reading.*
+*Pilediver is a review series where I play through the many, many games in my backlog. Thank you for reading.*
