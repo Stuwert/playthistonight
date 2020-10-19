@@ -1,5 +1,5 @@
 ---
-title: "PILEDIVER Review: Donut County"
+title: "Pilediver Review: Donut County"
 author: Dan McAlister
 date: 2020-10-11T01:56:28.614Z
 summary: Be a hole. Wreck the place.
@@ -11,11 +11,8 @@ tags:
   - switch
   - xbox
   - ps4
+  - pilediver
 ---
-
-
-
-
 ![A bird on a motor scooter looking at a small hole in the ground. The words "Donut County" arc across the image.](/static/img/54d83d8c-4acd-4e1e-a057-0a9701ddd539.jpeg)
 
 Score: 3/5
@@ -48,4 +45,4 @@ I’ll remember their dynamic more than I’ll remember the property destruction
 
 ![Cars drive off of a backed up highway and into a massive hole.](/static/img/8d3cf986-d06c-4b1c-a9ff-b98384004a71.png)
 
-*PILEDIVER is a review series where I play through the many, many games in my backlog. Thank you for reading.*
+*Pilediver is a review series where I play through the many, many games in my backlog. Thank you for reading.*
