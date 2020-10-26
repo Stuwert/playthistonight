@@ -54,7 +54,7 @@ One was the act of doing the thing, and two was the act of learning to do the th
 
 I think *Lonely Mountains* is fun for the same reason I think sports is fun, for the same reason I think other pursuits like knitting, or piano are fun.  Learning control over different physical motions is a skill, and it’s something that is easy to forget has to be practiced.  But it’s that practice we can develop new skills through understanding the way our bodies work and the way they relate to the world.  It’s what Ian Bogost calls an inversion of the ground, which is what makes games fun.  It’s the feel, the relationship between our actions and our senses that guides us to helping understand what we are capable of.  I could not exactly tell you the physical motions I’m going through when I throw a baseball or when I’m careening down a mountain in *Downhill*, but I can easily feel my way through it.
 
-I've never mountain bikes, and I don't intend to.  But the game connected with me, and specifically with the part of me that used to play baseball.  The motions of going through the same section of a mountain course over and over again reminded me of times with my pitching coach, learning how to throw the ball faster.  It felt right.  It felt like I unlocked an understanding about myself.
+I've never mountain biked, and I don't intend to.  But the game connected with me, and specifically with the part of me that used to play baseball.  The motions of going through the same section of a mountain course over and over again reminded me of times with my pitching coach, learning how to throw the ball faster.  It felt right.  It felt like I unlocked an understanding about myself.
 
 ## The Value of Repetition and Flow
 
