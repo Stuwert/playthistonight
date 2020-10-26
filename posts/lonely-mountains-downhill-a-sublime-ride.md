@@ -11,8 +11,6 @@ tags:
   - playstation
   - xbox
 ---
-# Lonely Mountains: Downhill
-
 ## Enter Lonely Mountains
 
 *Lonely Mountains* is a game about downhill mountain biking.  Developed by Megagon Industries and released in 2019, available on Switch, Xbox, PlayStation and PC.  You are a rider on a bike, at the top of a mountain, and your goal is to get down it quickly and with as few crashes as possible.  You have to learn how to brake, turn, drift, jump, and avoid obstacles to get to the bottom. There are checkpoints on the way down which you will restart at anytime you crash. Often you are trying to complete an objective like minimizing crashes or getting down the mountain as fast as possible.
