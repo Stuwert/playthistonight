@@ -2,8 +2,9 @@
 title: Lonely Mountains Downhill, A Sublime Ride
 author: Stuart Urback
 date: 2020-10-26T06:47:49.643Z
-summary: A game about mountain biking. Enjoyable for people who never intend to
-  mountain bike!
+summary: A sparse, beautiful game about challenging yourself to bike down a
+  mountain that gives you the room to be introspective and grow without
+  unnecessary structure.
 tags:
   - switch
   - pc
