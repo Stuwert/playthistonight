@@ -5,11 +5,13 @@ date: 2020-11-25T19:02:01.207Z
 summary: Horror, Action, and Camp
 tags: []
 ---
+
+
+![Leon and Ashley running down a hallway.](/static/img/5ca3319a-e469-41a6-9c59-59f8b2c9fc7a.jpeg)
+
 Score: 5/5
 
 Available: PC, Nintendo Switch, PlayStation 4, Xbox One
-
-![Leon and Ashley running down a hallway.](/static/img/5ca3319a-e469-41a6-9c59-59f8b2c9fc7a.jpeg)
 
 *Resident Evil 4*‘s Leon Kennedy is an action hero, mostly. After surviving a zombie virus outbreak in *Resident Evil 2,* he’s been recruited by the US government to save the president’s daughter from a mysterious cult in Spain. He’s got a briefcase full of firearms and grenades, and when enemies pull away from a fight he responds, “Where’s everyone going? Bingo?” He’s all charm and swagger, no fear.
 
@@ -41,4 +43,4 @@ While Leon swaggered through the story, my actual play was cautious. I monitored
 
 I had often ended my play sessions feeling ragged, pausing an experience that had me constantly on edge. But now that it’s through, I’m seeing things more from Leon and Ada’s confident perspective. For all its moments of horror, *Resident Evil 4* made me feel like an action hero who survived.
 
-*Pilediver is a review series where I play through the many, many games in my backlog. This piece originally appeared on Play This Tonight. Thank you for reading.*
+*Pilediver is a review series where I play through the many, many games in my backlog. Thank you for reading.*
