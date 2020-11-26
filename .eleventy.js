@@ -1,5 +1,4 @@
 const { DateTime } = require("luxon");
-const CleanCSS = require("clean-css");
 const UglifyJS = require("uglify-es");
 const htmlmin = require("html-minifier");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
@@ -20,11 +19,6 @@ module.exports = function (eleventyConfig) {
   // Date formatting (machine readable)
   eleventyConfig.addFilter("machinedate", (dateObj) => {
     return DateTime.fromJSDate(dateObj).toFormat("yyyy-MM-dd");
-  });
-
-  // Minify CSS
-  eleventyConfig.addFilter("cssmin", function (code) {
-    return new CleanCSS({}).minify(code).styles;
   });
 
   // Minify JS
@@ -78,7 +72,7 @@ module.exports = function (eleventyConfig) {
   // Don't process folders with static assets e.g. images
   eleventyConfig.addPassthroughCopy("static/img");
   eleventyConfig.addPassthroughCopy("admin");
-  eleventyConfig.addPassthroughCopy("_includes/assets/");
+  eleventyConfig.addPassthroughCopy({ "_includes/assets/": "assets/"} );
 
   /* Markdown Plugins */
   let markdownIt = require("markdown-it");

@@ -24,7 +24,7 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: "Avenir", -apple-system, "SF UI Text", "Avenir Next",
+  font-family: "marbachlig", -apple-system, "SF UI Text", "Avenir Next",
     "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
@@ -38,7 +38,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Open Sans", "Helvetica", sans-serif;
+  font-family: "marbachlig", "Helvetica", sans-serif;
 }
 
 h1 {
@@ -298,7 +298,7 @@ button {
   padding: 1em;
   margin-bottom: 1em;
   font-size: 1rem;
-  font-family: "Avenir", "Avenir Next", sans-serif;
+  font-family: "marbachlig", "Avenir Next", sans-serif;
 }
 
 input,
@@ -377,7 +377,7 @@ code[class*="language-"],
 pre[class*="language-"] {
   color: #ccc;
   background: none;
-  font-family: Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
+  font-family: "marbachlig", Monaco, "Andale Mono", "Ubuntu Mono", monospace;
   text-align: left;
   white-space: pre;
   word-spacing: normal;

@@ -4,18 +4,16 @@
   <meta name="robots" content="index,follow">
   <title>{{ title }} | {{ metadata.title }}</title>
   <link rel="icon" href="{{ metadata.siteUrl }}/static/img/favicon.png" type="image/png">
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:800" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/fonts/marbach_light_macroman/index.css' | url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/index.css' | url }}">
+
   {% if description %}
     <meta name="description" content="{{ description | safe }}">
   {% endif %}
-  {% set css %}
-  {% include "assets/css/inline.css" %}
-  {% endset %}
-  <style>
-    {{css | cssmin | safe}}
-  </style>
   {% seo "" %}
   <!-- Fathom - beautiful, simple website analytics -->
-  <script src="https://cdn.usefathom.com/script.js" data-site="PJHXPNYF" defer></script>
+  {% if process.env.production %}
+    <script src="https://cdn.usefathom.com/script.js" data-site="PJHXPNYF" defer></script>
+  {% endif %}
   <!-- / Fathom -->
 </head>
