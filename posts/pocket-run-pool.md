@@ -3,10 +3,10 @@ title: Pocket Run Pool
 author: Stuart Urback
 date: 2019-08-27T05:16:59.484Z
 summary: A game that uses clever design tricks to feel like pool.
-tags:
-  - mobile
-  - billiards
-  - freemiumish
+writingType: review
+platforms:
+  - iOS
+  - Android
 ---
 If you spend more than 5 minutes with me you'll probably discover me flipping a pen in my hand, absentmindedly clicking a clicker, or twirling my wedding ring on my finger.  I might be addicted to fiddling with objects; I even love the sound of a book page turning.  One of the reasons I love phone games, is because of the inventive ways designers use the limits of the phone to create immersive experiences.
 

@@ -4,11 +4,14 @@ author: Dan McAlister
 date: 2019-09-09T00:21:48.464Z
 summary: >-
   Horizon Chase is an arcade racing game that makes competition feel deeply
-  personal. 
-tags:
-  - Horizon Chase
-  - Mobile Game
-  - Racing Game
+  personal.
+writingType: review 
+genres: 
+  - Racing
+platforms:
+  - iOS
+  - Android
+  - Nintendo Switch
 ---
 _Horizon Chase_ is an arcade racing game that makes competition feel deeply personal. 
 

@@ -3,8 +3,11 @@ title: VVVVVV
 author: Dan McAlister
 date: 2020-04-06T15:19:05.983Z
 summary: 'A minimalist exploration adventure. '
-tags:
-  - indie
+writingType: review
+platforms: 
+  - Windows
+  - Mac
+genres:
   - platformer
   - exploration
 ---

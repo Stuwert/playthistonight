@@ -9,7 +9,9 @@
 
         {{ layoutContent | safe }}
 
-        {% include "components/moreArticles.njk" %}
+        {% if (writingType == 'review') %}
+            {% include "components/moreArticles.njk" %}
+        {% endif %}
 
         {% include "components/footer.njk" %}
 

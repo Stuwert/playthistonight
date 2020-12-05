@@ -9,11 +9,17 @@ summary: >-
   harmoniously to create a wondrous environment. From the moment it starts, Gris
   steadily builds into a complex and powerful gaming experience that is sure to
   leave you touched and inspired. 
-tags:
+writingType: review
+genres: 
   - platformer
-  - ios
-  - switch
-  - pc
+platforms:
+  - iOS
+  - Nintendo Switch
+  - Windows
+  - Mac
+  - PS4
+  - Android
+
 ---
 While scrolling through the endless selection of indie games, I found myself stopped on a hauntingly beautiful, watercolor-style image for a game called Gris. The image was a portrait of a girl, with a single tear streaming down her cheek,  her eyes directed downward in sorrow. The game description from Nomada Studio, the makers of Gris, explains that it is about ‘a hopeful young girl lost in her own world, dealing with a painful experience in her life.  The player helps Gris grow by solving puzzles and challenges, which move her through the seven stages of grief and return color to her black and white world. ‘Her progress through sorrow is manifested in her dress, which grants new abilities to better navigate her faded reality’. Storytelling through playable artwork? I was intrigued. 
 

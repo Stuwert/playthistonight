@@ -68,11 +68,12 @@ module.exports = function (eleventyConfig) {
     return content;
   });
 
-  eleventyConfig.addFilter("getRelatedPosts", function(values, { tags: tagsForCurrentPost, title: titleOfCurrentPost}) {
+  eleventyConfig.addFilter("getRelatedPosts", function(values, { tags: tagsForCurrentPost, title: titleOfCurrentPost, writingType: writingTypeOfCurrentPost }) {
     if (!tagsForCurrentPost) return [];
 
-    return values.filter( ({data: { tags, title } }) => {
+    return values.filter( ({data: { tags, title , writingType} }) => {
       if (title === titleOfCurrentPost) return false;
+      if (writingType !== writingTypeOfCurrentPost) return false;
 
       return !!tagsForCurrentPost.find( (tag) => {
         if (['posts', 'post'].includes(tag)) return false;

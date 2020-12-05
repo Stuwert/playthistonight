@@ -5,8 +5,7 @@ date: 2019-11-06T00:50:25.081Z
 summary: >-
   Octodad: Dadliest Catch evokes humor and heart by taking an absurd scenario
   seriously.
-tags:
-  - Octodad
+writingType: review
 ---
 _Octodad: Dadliest Catch_ evokes humor and heart by taking an absurd scenario seriously.
 

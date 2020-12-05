@@ -4,9 +4,15 @@ author: Stuart Urback
 date: 2020-04-12T23:27:20.576Z
 summary: Kingdom Rush is a tower defense game for mobile and desktop with cute
   characters and a fun story.
-tags:
-  - mobile
+genres: 
   - strategy
+  - tower defense
+platforms:
+  - iOS
+  - Android
+  - Windows
+  - Mac
+  - Nintendo Switch
 ---
 Kingdom rush is available for [iOS](https://itunes.apple.com/us/app/kingdom-rush/id516378985?mt=8&at=11l5VB&ct=KR_ironWeb), [Android](https://play.google.com/store/apps/details?id=com.ironhidegames.android.kingdomrush), [Nintendo Switch](https://www.nintendo.com/games/detail/kingdom-rush-frontiers-switch/), and [Mac App Store](https://geo.itunes.apple.com/us/app/kingdom-rush-hd/id838989419?mt=12&at=11l5VB&ct=KR_ironWeb).
 

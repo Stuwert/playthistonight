@@ -25,5 +25,6 @@ collections:
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Summary", name: "summary", widget: "text" }
       - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Platform", name: "platform", widget: "list", options: [ "Nintendo Switch", "Windows", "Mac", "Apple Arcade" , "iOS", "PS4", "PS5", "Xbox", "Android", "Tabletop", "Stadia", "Luna" ] }
+      - { label: "Platforms", name: "platforms", widget: "list", options: [ "Nintendo Switch", "Windows", "Mac", "Apple Arcade" , "iOS", "PS4", "PS5", "Xbox", "Android", "Tabletop", "Stadia", "Luna", "Wii", "Wii U", "PS3", "Nintendo DS", "PS Vita", "Xbox One", "Xbox Series S/X", "Steam" ] }
       - { label: "Writing Type", name: "writingType", widget: "select", default: ["review"], options: ["article", "review"]}
+      - { label: "Vertical", name: "vertical", widet: "list" }

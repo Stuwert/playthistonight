@@ -5,8 +5,9 @@ date: 2020-03-28T05:54:18.512Z
 summary: >-
   Card of Darkness by Zach Gage, Pendleton Ward, and Choice Provisions is a
   mash-up of a solitaire game and an RPG released on Apple Arcade.
-tags:
-  - post
+writingType: article
+platforms:
+- Apple Arcade
 ---
 ![Card of Darkness Title Screen - An image of the adventurer in front of a multi-colored rainbow with cards and characters surrounding them](/static/img/screenshot-2020-03-27-at-11.51.10-pm.png "Title Screen")
 

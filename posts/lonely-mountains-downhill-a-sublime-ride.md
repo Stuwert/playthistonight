@@ -5,11 +5,13 @@ date: 2020-10-26T06:47:49.643Z
 summary: A sparse, beautiful game about challenging yourself to bike down a
   mountain that gives you the room to be introspective and grow without
   unnecessary structure.
-tags:
-  - switch
-  - pc
-  - playstation
-  - xbox
+platforms:
+  - Nintendo Switch
+  - Windows
+  - Mac
+  - PS4
+  - Xbox
+writingType: review
 ---
 ## Enter Lonely Mountains
 
