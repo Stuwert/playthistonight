@@ -3,10 +3,15 @@ title: Apple Arcade, 1 Year In
 author: Stuart Urback
 date: 2020-10-20T04:26:19.144Z
 summary: A collection of great games that is not quite a service.
-tags:
+tags: 
   - iOS
   - Apple
   - Mobile
+platforms:
+  - iOS
+  - Apple
+  - Mobile
+writingType: review
 ---
 On [a recent episode]([https://podcasts.apple.com/us/podcast/amazon-announces-ring-security-drone-new-echo-devices/id430333725?i=1000492552149]) of *The Vergecast*, Apple Arcade was compared derisively to other game subscription services like Google Stadia or Amazon Luna. I initially reacted to this with frustration. Not because Apple deserves any level of protection, but because Apple Arcade represents an interesting niche that’s focused on making premium games for mobile, arguably the largest gaming platform in the world, accessible to a wide swath of people.
 

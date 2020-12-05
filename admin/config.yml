@@ -10,7 +10,7 @@ media_folder: "static/img" # Media files will be stored in the repo under images
 collections:
   # Our blog posts
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
-    label: "Post" # Used in the UI
+    label: "Reviews" # Used in the UI
     folder: "posts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
@@ -20,32 +20,10 @@ collections:
           label: "Author",
           name: "author",
           widget: "select",
-          options: ["Stuart Urback", "Dan McAlister", "Stacy Elle"],
+          options: ["Stuart Urback", "Dan McAlister", "Stacy Moore"],
         }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Summary", name: "summary", widget: "text" }
-      - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
       - { label: "Body", name: "body", widget: "markdown" }
-  # Our pages e.g. About
-  - name: "pages"
-    label: "Page"
-    folder: "pages"
-    create: false # Change to true to allow editors to create new pages
-    slug: "{{slug}}"
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Permalink", name: "permalink", widget: "string" }
-      - { label: "Navigation Title", name: "navtitle", widget: "string" }
-      - { label: "Tags", name: "tags", widget: "hidden", default: "nav" }
-      - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Nav Priority", name: "priority" }
-  - name: "designs"
-    label: "Design"
-    folder: "designs"
-    create: true # Change to true to allow editors to create new pages
-    slug: "{{slug}}"
-    fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "External Url", name: "externalurl", widget: "string" }
-      - { label: "Navigation Title", name: "navtitle", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Platform", name: "platform", widget: "list", options: [ "Nintendo Switch", "Windows", "Mac", "Apple Arcade" , "iOS", "PS4", "PS5", "Xbox", "Android", "Tabletop", "Stadia", "Luna" ] }
+      - { label: "Writing Type", name: "writingType", widget: "select", default: ["review"], options: ["article", "review"]}

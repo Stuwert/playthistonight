@@ -16,10 +16,22 @@ module.exports = function (eleventyConfig) {
     return DateTime.fromJSDate(dateObj).toFormat("dd LLL yyyy");
   });
 
+  eleventyConfig.addFilter("keys", (thing) => Object.keys(thing).join(", "))
+
   // Date formatting (machine readable)
   eleventyConfig.addFilter("machinedate", (dateObj) => {
     return DateTime.fromJSDate(dateObj).toFormat("yyyy-MM-dd");
   });
+
+  // Get the first n elements of an array
+  eleventyConfig.addFilter("head", (array, n) => {
+    if( n < 0 ) {
+      return array.slice(n);
+    }
+
+    return array.slice(0, n);
+  });
+
 
   // Minify JS
   eleventyConfig.addFilter("jsmin", function (code) {
@@ -55,6 +67,21 @@ module.exports = function (eleventyConfig) {
     }
     return content;
   });
+
+  eleventyConfig.addFilter("getRelatedPosts", function(values, { tags: tagsForCurrentPost, title: titleOfCurrentPost}) {
+    if (!tagsForCurrentPost) return [];
+
+    return values.filter( ({data: { tags, title } }) => {
+      if (title === titleOfCurrentPost) return false;
+
+      return !!tagsForCurrentPost.find( (tag) => {
+        if (['posts', 'post'].includes(tag)) return false;
+
+        return tags.includes(tag);
+      })
+    })
+  });
+
 
   // only content in the `posts/` directory
   eleventyConfig.addCollection("posts", function (collection) {

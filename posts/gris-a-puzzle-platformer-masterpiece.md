@@ -1,6 +1,6 @@
 ---
 title: 'Gris: A Puzzle-Platformer Masterpiece'
-author: Stacy Elle
+author: Stacy Moore
 date: 2019-09-16T19:59:51.222Z
 summary: >-
   Despite its brevity, Gris is far and away one of my favorite games of all
