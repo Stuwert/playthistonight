@@ -5,11 +5,12 @@ date: 2019-08-13T01:51:48.221Z
 summary: >-
   I love strategy games. I’m also bad at them. Hoplite gives me space to love
   strategy, and be bad at it. 
-tags:
-  - ios
-  - android
-  - mobile
-  - hoplite
+writingType: review
+genres:
+  - roguelike
+platforms:
+  - iOS
+  - Android
 ---
 I love strategy games. I’m also bad at them. _Hoplite_ gives me space to love strategy, and be bad at it. 
 

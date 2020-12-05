@@ -1,5 +1,4 @@
 const { DateTime } = require("luxon");
-const CleanCSS = require("clean-css");
 const UglifyJS = require("uglify-es");
 const htmlmin = require("html-minifier");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
@@ -17,15 +16,22 @@ module.exports = function (eleventyConfig) {
     return DateTime.fromJSDate(dateObj).toFormat("dd LLL yyyy");
   });
 
+  eleventyConfig.addFilter("keys", (thing) => Object.keys(thing).join(", "))
+
   // Date formatting (machine readable)
   eleventyConfig.addFilter("machinedate", (dateObj) => {
     return DateTime.fromJSDate(dateObj).toFormat("yyyy-MM-dd");
   });
 
-  // Minify CSS
-  eleventyConfig.addFilter("cssmin", function (code) {
-    return new CleanCSS({}).minify(code).styles;
+  // Get the first n elements of an array
+  eleventyConfig.addFilter("head", (array, n) => {
+    if( n < 0 ) {
+      return array.slice(n);
+    }
+
+    return array.slice(0, n);
   });
+
 
   // Minify JS
   eleventyConfig.addFilter("jsmin", function (code) {
@@ -62,6 +68,22 @@ module.exports = function (eleventyConfig) {
     return content;
   });
 
+  eleventyConfig.addFilter("getRelatedPosts", function(values, { tags: tagsForCurrentPost, title: titleOfCurrentPost, writingType: writingTypeOfCurrentPost }) {
+    if (!tagsForCurrentPost) return [];
+
+    return values.filter( ({data: { tags, title , writingType} }) => {
+      if (title === titleOfCurrentPost) return false;
+      if (writingType !== writingTypeOfCurrentPost) return false;
+
+      return !!tagsForCurrentPost.find( (tag) => {
+        if (['posts', 'post'].includes(tag)) return false;
+
+        return tags.includes(tag);
+      })
+    })
+  });
+
+
   // only content in the `posts/` directory
   eleventyConfig.addCollection("posts", function (collection) {
     return collection.getAllSorted().filter(function (item) {
@@ -78,7 +100,7 @@ module.exports = function (eleventyConfig) {
   // Don't process folders with static assets e.g. images
   eleventyConfig.addPassthroughCopy("static/img");
   eleventyConfig.addPassthroughCopy("admin");
-  eleventyConfig.addPassthroughCopy("_includes/assets/");
+  eleventyConfig.addPassthroughCopy({ "_includes/assets/": "assets/"} );
 
   /* Markdown Plugins */
   let markdownIt = require("markdown-it");

@@ -3,12 +3,13 @@ title: "Pilediver Review: Nine Hours, Nine Persons, Nine Doors"
 author: Dan McAlister
 date: 2020-10-19T22:30:09.772Z
 summary: A mystery, a sinking ship, a lot of math.
-tags:
-  - pilediver
+writingType: review
+vertical: piledriver
+genres:
   - mystery
   - adventure
   - visual novel
-  - video game review
+platforms:
   - Nintendo DS
   - PS4
   - PS Vita

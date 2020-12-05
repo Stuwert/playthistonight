@@ -5,9 +5,8 @@ date: 2019-10-10T00:49:05.320Z
 summary: >-
   Fingle is a tablet game that reaches out of the device to make you
   uncomfortable.
-tags:
-  - Fingle
-  - iOS
+writingType: review
+platforms:
   - iPad
 ---
 _Fingle_ is a tablet game that reaches out of the device to make you uncomfortable.

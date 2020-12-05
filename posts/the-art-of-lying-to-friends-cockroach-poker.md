@@ -5,8 +5,11 @@ date: 2019-07-26T04:03:22.575Z
 summary: >-
   In which our fearless author tries to convince you that lying to your friends
   is a good thing.
-tags:
-  - post
+writingType: review
+platforms:
+  - Tabletop
+genres:
+  - bluffing
 ---
 ### What is it?
 

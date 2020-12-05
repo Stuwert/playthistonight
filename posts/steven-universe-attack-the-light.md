@@ -6,12 +6,12 @@ summary: >-
   Steven Universe: Attack The Light is a Role-Playing Game (RPG) for mobile
   devices that’s perfect for fans of the show, fans of RPGs, and folks who are
   new to both. 
-tags:
-  - Steven Universe
-  - ios
-  - android
-  - mobile
-  - RPG
+writingType: review
+platforms: 
+  - iOS
+  - Android
+genres:
+  - rpg
 ---
 *Steven Universe: Attack The Light* is a Role-Playing Game (RPG) for mobile devices that’s perfect for fans of the show, fans of RPGs, and folks who are new to both. 
 

@@ -3,15 +3,15 @@ title: "Pilediver Review: Donut County"
 author: Dan McAlister
 date: 2020-10-11T01:56:28.614Z
 summary: Be a hole. Wreck the place.
-tags:
-  - video game review
-  - donut county
-  - ios
-  - pc
-  - switch
-  - xbox
-  - ps4
-  - pilediver
+writingType: review
+vertical: piledriver
+platforms:
+  - iOS
+  - Windows
+  - Mac
+  - Xbox
+  - PS4
+  - Nintendo Switch
 ---
 ![A bird on a motor scooter looking at a small hole in the ground. The words "Donut County" arc across the image.](/static/img/54d83d8c-4acd-4e1e-a057-0a9701ddd539.jpeg)
 

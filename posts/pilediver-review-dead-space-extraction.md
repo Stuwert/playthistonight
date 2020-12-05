@@ -3,7 +3,11 @@ title: "Pilediver Review: Dead Space Extraction"
 author: Dan McAlister
 date: 2020-10-30T02:57:57.190Z
 summary: "An interesting take on the rail shooter, but one that largely doesn’t work. "
-tags: []
+writingType: review
+vertical: piledriver
+platforms: 
+  - Wii
+  - PS3
 ---
 ![A necromorph facing down the player.](/static/img/f5c66881-d177-4ef8-affe-3986883a57f0.jpeg)
 

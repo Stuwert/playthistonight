@@ -3,10 +3,12 @@ title: Ring Fit Adventure
 author: Dan McAlister
 date: 2020-03-06T14:10:49.984Z
 summary: It's fitness! It's an adventure! I love it!
-tags:
-  - nintendo switch
+writingType: review
+genres:
   - fitness
   - rpg
+platforms:
+  - Nintendo Switch
 ---
 ## What Is It
 

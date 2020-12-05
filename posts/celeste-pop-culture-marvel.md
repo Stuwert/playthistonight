@@ -5,10 +5,13 @@ date: 2019-11-18T20:59:51.222Z
 summary: >-
   Celeste, like other great pop cultural media, elevates common tropes through
   impeccable execution and the combination of gameplay, music, and story.
-tags:
-  - Celeste
-  - Platformer
+writingType: article
+platforms:
   - Nintendo Switch
+  - PS4
+  - Xbox
+  - Mac
+  - Windows
 ---
 Talking about resonance can be challenging.  Often it gets used in the place of “good”.  It’s easy to fall back into substituting resonance for a simple “I liked that”.  But it’s also possible for something to be resonant even if you don’t like it.  Something can hit at your soul, even if you wish it didn’t.  It’s when a single concept is expressed simultaneously through multiple mediums that something clicks inside your brain so you can “just” understand what’s going on.  Resonance is also a groove.  And grooves are good because you can go fast in them, but they also lock you into a single lane.  
 

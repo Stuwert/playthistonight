@@ -3,7 +3,17 @@ title: "Pilediver Review: Resident Evil 4"
 author: Dan McAlister
 date: 2020-11-25T19:02:01.207Z
 summary: Horror, Action, and Camp
-tags: []
+writingType: review
+vertical: piledriver
+genres:
+  - mystery
+  - adventure
+  - visual novel
+platforms: 
+  - PC
+  - Nintendo Switch
+  - PlayStation 4
+  - Xbox One
 ---
 
 

@@ -4,9 +4,9 @@ author: Stuart Urback
 date: 2020-11-24T05:06:31.840Z
 summary: Good Job!'s mix of humor, easy-going puzzles and fun art direction led
   to the perfect fit for a time spent in lock down and COVID-uncertainty.
-tags:
-  - post
-  - Switch
+writingType: review
+platforms:
+  - Nintendo Switch
 ---
 On paper, *Good Job!* should not be fun.  A game about completing menial labor around a corporate office: plugging in wi-fi outlets, cleaning up spills, arranging furniture is not the stuff that streams are made of. In fact, it’s easy to imagine a pandemic-free world where *Good Job!* is relegated to the bin of indies with interesting ideas but not much longevity.  But this game was perfect for a moment when lockdowns became the norm and the sense of normality slipped away.  It’s a perfect fit of comfortable puzzles, awkward hilarity, wrapped up in an undercurrent of “rage against the system” that matched my emotional state at the time. As a result, it managed to become one of the few games I would complete in 2020.
 
