@@ -10,7 +10,7 @@ media_folder: "static/img" # Media files will be stored in the repo under images
 collections:
   # Our blog posts
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
-    label: "Reviews" # Used in the UI
+    label: "Posts" # Used in the UI
     folder: "posts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
@@ -24,7 +24,7 @@ collections:
         }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Summary", name: "summary", widget: "text" }
-      - { label: "Body", name: "body", widget: "markdown" }
-      - { label: "Platforms", name: "platforms", widget: "list", options: [ "Nintendo Switch", "Windows", "Mac", "Apple Arcade" , "iOS", "PS4", "PS5", "Xbox", "Android", "Tabletop", "Stadia", "Luna", "Wii", "Wii U", "PS3", "Nintendo DS", "PS Vita", "Xbox One", "Xbox Series S/X", "Steam" ] }
+      - { label: "Platforms", name: "platforms", widget: "list", multiple: true, options: [ "Nintendo Switch", "Windows", "Mac", "Apple Arcade" , "iOS", "PS4", "PS5", "Xbox", "Android", "Tabletop", "Stadia", "Luna", "Wii", "Wii U", "PS3", "Nintendo DS", "PS Vita", "Xbox One", "Xbox Series S/X", "Steam" ] }
       - { label: "Writing Type", name: "writingType", widget: "select", default: ["review"], options: ["article", "review"]}
-      - { label: "Vertical", name: "vertical", widet: "list" }
+      - { label: "Part of a Series?", name: "vertical", widget: "list", options: ["piledriver"] }
+      - { label: "Body", name: "body", widget: "markdown" }
