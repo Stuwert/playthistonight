@@ -69,17 +69,16 @@ module.exports = function (eleventyConfig) {
     return content;
   });
 
-  eleventyConfig.addFilter("getRelatedPosts", function(values, { tags: tagsForCurrentPost, title: titleOfCurrentPost, writingType: writingTypeOfCurrentPost }) {
-    if (!tagsForCurrentPost) return [];
+  eleventyConfig.addFilter("getRelatedPosts", function(posts, { platforms: platformsForCurrentPost, title: titleOfCurrentPost, writingType: writingTypeOfCurrentPost }) {
+    if (!platformsForCurrentPost) return [];
 
-    return values.filter( ({data: { tags, title , writingType} }) => {
+    return posts.filter( ({data: { platforms, title , writingType} }) => {
       if (title === titleOfCurrentPost) return false;
       if (writingType !== writingTypeOfCurrentPost) return false;
+      if (!platforms || !platforms.length) return false;
 
-      return !!tagsForCurrentPost.find( (tag) => {
-        if (['posts', 'post'].includes(tag)) return false;
-
-        return tags.includes(tag);
+      return !!platformsForCurrentPost.find( (platformInCurrentPost) => {
+        return platforms.includes(platformInCurrentPost);
       })
     })
   });

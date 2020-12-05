@@ -1,4 +1,4 @@
-{%- set relatedPosts = collections.posts | getRelatedPosts({ tags: tags, title: title, writingType: writingType }) | head(3) %}
+{%- set relatedPosts = collections.posts | getRelatedPosts({ platforms: platforms, title: title, writingType: writingType }) | head(3) %}
 
 {% if relatedPosts.length %}
   <div class="flex-grid">
