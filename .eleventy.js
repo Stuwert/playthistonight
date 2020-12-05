@@ -16,6 +16,7 @@ module.exports = function (eleventyConfig) {
     return DateTime.fromJSDate(dateObj).toFormat("dd LLL yyyy");
   });
 
+  // Helps debug accessible data from njk file  
   eleventyConfig.addFilter("keys", (thing) => Object.keys(thing).join(", "))
 
   // Date formatting (machine readable)
