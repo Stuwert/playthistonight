@@ -12,8 +12,24 @@ module.exports = (eleventyConfig) => {
     })
   });
 
-  // eleventyConfig.addCollection("platforms", function() {
-  //   return customPlatforms;
-  // })
+  eleventyConfig.addCollection("platformList", function() {
+    return customPlatforms;
+  })
+
+  eleventyConfig.addCollection("tagList", function(collection) {
+    let tagSet = new Set();
+    collection.getAll().forEach(function(item) {
+      if( "tags" in item.data ) {
+        const tags = item.data.tags.filter((item) => !["all", "nav", "post", "post"].includes(item));
+
+        for (const tag of tags) {
+          tagSet.add(tag);
+        }
+      }
+    });
+
+    // returning an array in addCollection works in Eleventy 0.5.3
+    return [...tagSet];
+  });
 
 }

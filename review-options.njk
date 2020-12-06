@@ -1,0 +1,19 @@
+---
+permalink: /reviews/
+layout: layouts/base.njk
+---
+<h1>Game Reviews</h1>
+
+<h2>Genres</h2>
+
+{% for tag in collections.tagList %}
+  {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+  <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }} ({{ collections[tag].length }})</a>
+{% endfor %}
+
+<h2>Platforms</h2>
+
+{% for tag in collections.platformList %}
+  {% set tagUrl %}/reviews/{{ tag }}/{% endset %}
+  <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }} ({{ collections[tag].length }})</a>
+{% endfor %}
