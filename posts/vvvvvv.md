@@ -7,7 +7,7 @@ writingType: review
 platforms: 
   - Windows
   - Mac
-tags:
+genres:
   - platformer
   - exploration
 ---

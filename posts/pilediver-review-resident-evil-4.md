@@ -5,7 +5,7 @@ date: 2020-11-25T19:02:01.207Z
 summary: Horror, Action, and Camp
 writingType: review
 vertical: piledriver
-tags:
+genres:
   - mystery
   - adventure
   - visual novel
