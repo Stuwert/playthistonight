@@ -27,4 +27,6 @@ collections:
       - { label: "Platforms", name: "platforms", widget: "select", multiple: true, options: [ "Nintendo Switch", "Windows", "Mac", "Apple Arcade" , "iOS", "PS4", "PS5", "Xbox", "Android", "Tabletop", "Stadia", "Luna", "Wii", "Wii U", "PS3", "Nintendo DS", "PS Vita", "Xbox One", "Xbox Series S/X", "Steam" ] }
       - { label: "Writing Type", name: "writingType", widget: "select", default: ["review"], options: ["article", "review"]}
       - { label: "Part of a Series?", name: "vertical", widget: "select", options: ["piledriver"] }
+      - { label: "Genre", name: "tags", widget: "list" }
       - { label: "Body", name: "body", widget: "markdown" }
+      

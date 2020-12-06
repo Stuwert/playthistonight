@@ -6,7 +6,7 @@ summary: >-
   Horizon Chase is an arcade racing game that makes competition feel deeply
   personal.
 writingType: review 
-genres: 
+tags: 
   - Racing
 platforms:
   - iOS

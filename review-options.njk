@@ -1,0 +1,32 @@
+---
+permalink: /reviews/
+layout: layouts/base.njk
+---
+<h1>Find a Game To Play</h1>
+
+<h2>Genres</h2>
+
+{% for tag in collections.tagList %}
+  {% set tagUrl %}/reviews/{{ tag }}/{% endset %}
+  <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }} ({{ collections[tag].length }})</a>
+{% endfor %}
+
+<h2>Platforms</h2>
+
+{% for tag in collections.platformList %}
+  {% set tagCount = collections[tag].length %}
+  {% if (tagCount > 0) %}
+    {% set tagUrl %}/reviews/{{ tag }}/{% endset %}
+    <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }} ({{ tagCount }})</a>
+  {% endif %}
+{% endfor %}
+
+<h2>Post Series</h2>
+
+{% for tag in collections.verticalList %}
+  {% set tagCount = collections[tag].length %}
+  {% if (tagCount > 0) %}
+    {% set tagUrl %}/reviews/{{ tag }}/{% endset %}
+    <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }} ({{ tagCount }})</a>
+  {% endif %}
+{% endfor %}
