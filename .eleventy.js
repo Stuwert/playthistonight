@@ -4,19 +4,16 @@ const htmlmin = require("html-minifier");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSEO = require("eleventy-plugin-seo");
 const { JSDOM } = require("jsdom");
+const loadCustomCollections = require('./utilities/loadCustomCollections')
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSEO, require("./_data/metadata.json"));
 
+  // loadCustomCollections(eleventyConfig)
+
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
 
-  eleventyConfig.addCollection("myCollectionName", function(collectionApi) {
-    // get unsorted items
-    const test = collectionApi.getAll();
-
-    console.log(test);
-  });
 
   // Date formatting (human readable)
   eleventyConfig.addFilter("readableDate", (dateObj) => {

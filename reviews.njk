@@ -1,15 +1,10 @@
 --- 
-  pagination: 
-    data: collections 
-    size: 1 
-    alias: tag 
-    filter: 
-      - all 
-      - nav 
-      - post 
-      - posts 
-    permalink: /tags/{{ tag }}/ 
-    layout: layouts/base.njk 
+pagination: 
+  data: collections 
+  size: 1 
+  alias: tag
+permalink: /reviews/{{ tag }}/ 
+layout: layouts/base.njk 
 ---
 
 <h1>Tagged “{{ tag }}”</h1>
