@@ -75,7 +75,9 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("getRelatedPosts", function(posts, { platforms: platformsForCurrentPost, title: titleOfCurrentPost, writingType: writingTypeOfCurrentPost }) {
     if (!platformsForCurrentPost) return [];
 
-    return posts.filter( ({data: { platforms, title , writingType} }) => {
+    return posts.filter( ({data: { platforms, title , writingType, negative: isNegative } }) => {
+      // Defaults to not sharing negative reviews
+      if (isNegative) return false;
       if (title === titleOfCurrentPost) return false;
       if (writingType !== writingTypeOfCurrentPost) return false;
       if (!platforms || !platforms.length) return false;

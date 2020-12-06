@@ -8,6 +8,7 @@ vertical: piledriver
 platforms: 
   - Wii
   - PS3
+negative: true
 ---
 ![A necromorph facing down the player.](/static/img/f5c66881-d177-4ef8-affe-3986883a57f0.jpeg)
 
