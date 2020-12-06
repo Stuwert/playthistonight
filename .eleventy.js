@@ -11,6 +11,13 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
 
+  eleventyConfig.addCollection("myCollectionName", function(collectionApi) {
+    // get unsorted items
+    const test = collectionApi.getAll();
+
+    console.log(test);
+  });
+
   // Date formatting (human readable)
   eleventyConfig.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj).toFormat("dd LLL yyyy");
