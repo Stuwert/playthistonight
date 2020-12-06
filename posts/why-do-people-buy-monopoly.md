@@ -10,7 +10,6 @@ platforms:
   - iOS
   - Android
 writingType: review
-vertical: piledriver
 ---
 *Monopoly* feels ubiquitous; it’s as visible in living rooms as chess sets are in hotel lobbies.  While the game might be everywhere, it’s striking how most conversations revolve around having to play with family or friends — the stretches of boredom, the randomness. Which led me to the question, do people actually enjoy playing? *Monopoly* isn’t on the cusp of becoming a major e-sport (*Magic the Gathering)* and it does not have a major motion picture being developed for it (*Catan*), yet it still has the cultural power as “that game everyone plays with family”.  As pop culture moves towards a greater appreciation of indie and more complex titles, *Monopoly* persists. 
 

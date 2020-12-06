@@ -4,6 +4,7 @@ const htmlmin = require("html-minifier");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSEO = require("eleventy-plugin-seo");
 const { JSDOM } = require("jsdom");
+const { truncate } = require('./utilities/truncate')
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
@@ -15,6 +16,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj).toFormat("dd LLL yyyy");
   });
+
+  eleventyConfig.addFilter("truncateAt", truncate)
 
   // Helps debug accessible data from njk file  
   eleventyConfig.addFilter("keys", (thing) => Object.keys(thing).join(", "))
@@ -69,17 +72,18 @@ module.exports = function (eleventyConfig) {
     return content;
   });
 
-  eleventyConfig.addFilter("getRelatedPosts", function(values, { tags: tagsForCurrentPost, title: titleOfCurrentPost, writingType: writingTypeOfCurrentPost }) {
-    if (!tagsForCurrentPost) return [];
+  eleventyConfig.addFilter("getRelatedPosts", function(posts, { platforms: platformsForCurrentPost, title: titleOfCurrentPost, writingType: writingTypeOfCurrentPost }) {
+    if (!platformsForCurrentPost) return [];
 
-    return values.filter( ({data: { tags, title , writingType} }) => {
+    return posts.filter( ({data: { platforms, title , writingType, negative: isNegative } }) => {
+      // Defaults to not sharing negative reviews
+      if (isNegative) return false;
       if (title === titleOfCurrentPost) return false;
       if (writingType !== writingTypeOfCurrentPost) return false;
+      if (!platforms || !platforms.length) return false;
 
-      return !!tagsForCurrentPost.find( (tag) => {
-        if (['posts', 'post'].includes(tag)) return false;
-
-        return tags.includes(tag);
+      return !!platformsForCurrentPost.find( (platformInCurrentPost) => {
+        return platforms.includes(platformInCurrentPost);
       })
     })
   });
