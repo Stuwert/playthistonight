@@ -13,6 +13,8 @@ writingType: review
 ---
 *Monopoly* feels ubiquitous; it’s as visible in living rooms as chess sets are in hotel lobbies.  While the game might be everywhere, it’s striking how most conversations revolve around having to play with family or friends — the stretches of boredom, the randomness. Which led me to the question, do people actually enjoy playing? *Monopoly* isn’t on the cusp of becoming a major e-sport (*Magic the Gathering)* and it does not have a major motion picture being developed for it (*Catan*), yet it still has the cultural power as “that game everyone plays with family”.  As pop culture moves towards a greater appreciation of indie and more complex titles, *Monopoly* persists. 
 
+![Monopoly app board with two dice in the center](/static/img/screenshot-2020-12-06-at-11.12.33-am.png "Monopoly Board and Dice")
+
 People tend to assume I don’t recommend *Monopoly* because I dislike it, or think it’s bad but it’s simpler than that: I don’t recommend it because I don’t think people will enjoy it. But *Monopoly* holds a soft spot in my heart. It was one of the first games I tried convincing my family to create a regular game night to play.  It was one of the first games I formally studied in college, for a class on American consumer culture.  I even designed a drinking game on top of it during my senior year of college.
 
 While *Monopoly* hasn’t been around for the centuries or millennia of other games like Cribbage, Hearts, or Chess, it has been around for a long time, long enough to span multiple generations and become a tradition. As the story goes, it started life as The Landlord’s game by Elizabeth Magie in 1904, an example of the dangers of capitalism.  The goal was to convince people that the dangers of land ownership were real, but the excitement of the design won out.  Playing at being a capitalist was just too fun. It was purchased by the Parker Brothers in 1935 and caught on during the Great Depression as families were looking for an escape out of their dire situation. If you’d like to learn more, I’d highly recommend 99 Percent Invisible’s [The Landlord’s Game](https://99percentinvisible.org/episode/the-landlords-game/) episode or [Monopoly: The World’s Most Famous Game](https://www.amazon.com/Monopoly-Philip-Orbanes/dp/0306815745 "Monopoly: the World’s Most Famous Game") by Philip Orbanes.
@@ -22,6 +24,8 @@ It would be easy to equate the success with the weight of the world’s largest 
 ## Playing a Monopoly Feels Like Being A Capitalist
 
 If you look at *Monopoly* primarily as a competitive economic experience where people are matching wits to try to destroy each other, the randomness and length feel crushing and un-fun. But *Monopoly* gets played because play-acting as a real estate capitalist is fun.  Throughout the game players get to wheel and deal with high stakes trades, experience the whims of the chances of the market (the roll of the dice), and feel the thrill of victory and defeat is a compelling story. Compared to other, more modern experiences, with mathematical precision and balance, where each player decision leads to success or defeat, *Monopoly* is looser, more random, but still very fun. 
+
+![Race car with 200 monopoly money below it](/static/img/screenshot-2020-12-06-at-11.12.56-am.png "Getting Paid")
 
 It might sound trivial, but the act of counting money is a fun part of what it means to play *Monopoly*.  Most modern games have shrunk this role by counting in units of 1, 3, and 5.  *Monopoly* goes big, with $100 and $500 bills.  Making change, exchanging cash for that property card, organizing your cash into the right denominations was fun. There was even a version of *Monopoly* that used a credit card swipe mechanism to track money instead of the cash.  While that might seem like a potential efficiency win, I suspect it was more about cashing in on that feeling of the swipe and “cha-ching” moment to reinforce the feeling of being a big spender. 
 
@@ -56,6 +60,8 @@ Games that are flexible and give a wide berth for players to experiment and do w
 ## In Conclusion
 
 *Monopoly* is a flawed giant.  It’s certainly propped up by the weight of history and a large multi-national corporation’s marketing, but it also has a number of intrinsic qualities that make it a sticky game, likely to be remembered (and passed down) even if it’s not a game that crafts incredible stories or strategic experiences.  *Monopoly* is a great example of the depth and breadth that games have to offer, of the challenges that games have that are unique to the medium, and the opportunity for shared cultural experiences to evolve even as they remain similar to experiences.  
+
+![The top left corner of the board, with the T-Rex, the Dog, and the Battleship](/static/img/screenshot-2020-12-06-at-11.11.39-am.png "Movin' Along")
 
 #### One more thing
 
