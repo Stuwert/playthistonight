@@ -1,15 +1,21 @@
 --- 
 pagination: 
-  data: collections 
+  data: collections
   size: 1 
-  alias: tag
-permalink: /reviews/{{ tag }}/ 
+  alias: title
+  filter: 
+    - tags
+    - designs
+    - all
+    - posts
+    - post
+permalink: /reviews/{{ title }}/ 
 layout: layouts/base.njk 
 ---
 
-<h1>Tagged “{{ tag }}”</h1>
+<h1>Reviews about {{ title }}</h1>
 
-{% set postslist = collections[tag] %}
+{% set postslist = collections[title] %}
 {% include "components/postslist.njk" %}
 
 <div class="flex-grid t-center">

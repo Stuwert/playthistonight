@@ -12,24 +12,8 @@ module.exports = (eleventyConfig) => {
     })
   });
 
-  eleventyConfig.addCollection("genreList", function(collection) {
-    let genreList = new Set();
-    collection.getAll().forEach(function(item) {
-      if( "tags" in item.data ) {
-
-        // These are technically tags but they get turned into genres
-        for (const tag of tags) {
-          genreList.add(tag);
-        }
-      }
-    });
-
-    // returning an array in addCollection works in Eleventy 0.5.3
-    return [...genreList];
-  });
-
-  eleventyConfig.addCollection("platformList", function() {
-    return customPlatforms;
-  })
+  // eleventyConfig.addCollection("platforms", function() {
+  //   return customPlatforms;
+  // })
 
 }

@@ -10,7 +10,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSEO, require("./_data/metadata.json"));
 
-  // loadCustomCollections(eleventyConfig)
+  loadCustomCollections(eleventyConfig)
 
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
 
