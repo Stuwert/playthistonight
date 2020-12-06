@@ -4,6 +4,7 @@ const htmlmin = require("html-minifier");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSEO = require("eleventy-plugin-seo");
 const { JSDOM } = require("jsdom");
+const { truncate } = require('./utilities/truncate')
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
@@ -15,6 +16,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj).toFormat("dd LLL yyyy");
   });
+
+  eleventyConfig.addFilter("truncateAt", truncate)
 
   // Helps debug accessible data from njk file  
   eleventyConfig.addFilter("keys", (thing) => Object.keys(thing).join(", "))
