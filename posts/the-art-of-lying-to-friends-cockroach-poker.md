@@ -8,7 +8,7 @@ summary: >-
 writingType: review
 platforms:
   - Tabletop
-tags:
+genres:
   - bluffing
 ---
 ### What is it?

@@ -2,7 +2,11 @@
 layout: layouts/contact.njk
 title: Get in touch
 section: contact
+priority: 100
+navtitle: Contact Us!
 permalink: /contact/index.html
+tags:
+  - nav
 ---
 
 The contact form on this page uses

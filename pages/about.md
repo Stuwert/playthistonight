@@ -2,7 +2,7 @@
 title: About
 permalink: /about/index.html
 navtitle: About
-priority: 1
+priority: 4
 tags:
   - nav
 ---
