@@ -20,7 +20,7 @@
   {% set img = layoutContent | getFirst('img') %}
   <meta property="og:image" content="{{ img.src }}"/>
   <!-- Fathom - beautiful, simple website analytics -->
-  {% if process.env.production %}
+  {% if (process.env.ELEVENTY_ENV == 'production') %}
     <script src="https://cdn.usefathom.com/script.js" data-site="PJHXPNYF" defer></script>
   {% endif %}
   <!-- / Fathom -->
