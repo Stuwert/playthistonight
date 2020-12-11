@@ -4,6 +4,11 @@ layout: layouts/base.njk
 ---
 <h1>Find a Game To Play</h1>
 
+<h2 class="home t-center">Series</h2>
+
+{% set taglist = collections.verticalList %}
+{% include "components/taglist.njk" %}
+
 <h2 class="home t-center">Platforms</h2>
 
 {% set taglist = collections.platformList %}
@@ -12,9 +17,4 @@ layout: layouts/base.njk
 <h2 class="home t-center">Genres</h2>
 
 {% set taglist = collections.tagList %}
-{% include "components/taglist.njk" %}
-
-<h2 class="home t-center">Series</h2>
-
-{% set taglist = collections.verticalList %}
 {% include "components/taglist.njk" %}

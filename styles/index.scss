@@ -180,6 +180,13 @@ header {
   width: calc(100% - 40px) !important;
 }
 
+.flex-grid__item.flex-grid__item--small-item {
+  max-width: calc(50% - 20px) !important;
+  width: calc(20% - 20px) !important;
+  padding: 10px 5px;
+  margin: 20px; 
+}
+
 .flex-grid__item--no-hover:hover {
   background: white;
   box-shadow: 0 30px 50px 0 rgba(0, 0, 0, 0.3);
@@ -188,6 +195,8 @@ header {
 .flex-grid__item--no-hover p {
   margin: 0 0 20px 0;
 }
+
+
 
 /* Widths */
 .w-100 {
