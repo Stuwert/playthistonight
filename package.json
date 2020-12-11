@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A website about games.",
   "scripts": {
-    "build": "npx eleventy",
+    "build": "ELEVENTY_ENV=production npx eleventy",
     "watch": "npx eleventy --watch",
     "debug": "DEBUG=* npx eleventy",
     "eleventy:dev": "npx eleventy --serve --watch",
