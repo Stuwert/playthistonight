@@ -1,0 +1,26 @@
+--- 
+pagination: 
+  data: collections
+  size: 1 
+  alias: title
+  filter: 
+    - tags
+    - designs
+    - all
+    - posts
+    - post
+    - platformList
+permalink: /reviews/{{ title }}/ 
+layout: layouts/base.njk 
+---
+
+<h1>{{ title | capitalizeFirst }} Games</h1>
+
+{% set postslist = collections[title] %}
+{% include "components/postslist.njk" %}
+
+<div class="flex-grid t-center">
+  <a class="flex-grid__item" href="{{ '/blog' | url }}">
+    <h2 class="home-title m-0">← See all posts</h2>
+  </a>
+</div>

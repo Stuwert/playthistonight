@@ -4,7 +4,7 @@ author: Dan McAlister
 date: 2020-03-06T14:10:49.984Z
 summary: It's fitness! It's an adventure! I love it!
 writingType: review
-genres:
+tags:
   - fitness
   - rpg
 platforms:

@@ -6,7 +6,7 @@ summary: >-
   I love strategy games. I’m also bad at them. Hoplite gives me space to love
   strategy, and be bad at it. 
 writingType: review
-genres:
+tags:
   - roguelike
 platforms:
   - iOS

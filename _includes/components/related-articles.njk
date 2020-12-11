@@ -4,7 +4,7 @@
   <h2 class='t-center'>Other Games You Might Enjoy</h2>
   <div class="flex-grid flex-grid--wrap">
     {% for post in relatedPosts %}
-      <a class="flex-grid__item" href="{{ post.url | url }}">
+      <a onclick="window.fathom.trackGoal('GRRDHPXA', 0);" class="flex-grid__item" href="{{ post.url | url }}">
         <h2 class="home-title">{{ post.data.title }}</h2>
         {% set image = post.templateContent | getFirst("img") %}
         {% if false %}

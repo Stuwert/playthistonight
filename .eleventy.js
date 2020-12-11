@@ -4,18 +4,23 @@ const htmlmin = require("html-minifier");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 const pluginSEO = require("eleventy-plugin-seo");
 const { JSDOM } = require("jsdom");
-const { truncate } = require('./utilities/truncate')
+const { truncate } = require('./utilities/truncate');
+const loadCustomCollections = require('./utilities/loadCustomCollections');
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSEO, require("./_data/metadata.json"));
 
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
+  loadCustomCollections(eleventyConfig);
 
   // Date formatting (human readable)
   eleventyConfig.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj).toFormat("dd LLL yyyy");
   });
+
+  // From: https://flaviocopes.com/how-to-uppercase-first-letter-javascript/
+  eleventyConfig.addFilter("capitalizeFirst", (str) => str.charAt(0).toUpperCase() + str.slice(1));
 
   eleventyConfig.addFilter("truncateAt", truncate)
 
