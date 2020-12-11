@@ -10,7 +10,7 @@ summary: >-
   steadily builds into a complex and powerful gaming experience that is sure to
   leave you touched and inspired. 
 writingType: review
-genres: 
+tags: 
   - platformer
 platforms:
   - iOS

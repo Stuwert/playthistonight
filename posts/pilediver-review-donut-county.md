@@ -12,6 +12,7 @@ platforms:
   - Xbox
   - PS4
   - Nintendo Switch
+negative: true
 ---
 ![A bird on a motor scooter looking at a small hole in the ground. The words "Donut County" arc across the image.](/static/img/54d83d8c-4acd-4e1e-a057-0a9701ddd539.jpeg)
 

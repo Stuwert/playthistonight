@@ -98,24 +98,6 @@ pre {
   padding: 10px;
 }
 
-table {
-  border-collapse: collapse;
-  display: table;
-  margin: 2em 0;
-  width: 100%;
-}
-table tr,
-table td {
-  text-align: left;
-}
-table tr {
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-}
-table td,
-table th {
-  padding: 10px;
-}
-
 .siteTitle h2 {
   margin: 0;
 }
@@ -196,13 +178,6 @@ header {
 .flex-grid__item--full-width {
   max-width: 650px;
   width: calc(100% - 40px) !important;
-}
-
-.flex-grid__item--small-item {
-  width: calc(20% - 20px) !important;
-  max-width: calc(50% - 20px) !important;
-  padding: 15px 5px;
-  margin: 10px;
 }
 
 .flex-grid__item--no-hover:hover {

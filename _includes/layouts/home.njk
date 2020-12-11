@@ -2,7 +2,6 @@
   layout: layouts/base.njk 
   section: home     
 ---
-
 <h1>Latest Post</h1>
 <div class="flex-grid flex-grid--wrap w-100">
     {% set post = collections.posts | sort(attribute = "date") | last %}
