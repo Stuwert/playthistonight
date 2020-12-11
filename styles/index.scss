@@ -181,8 +181,8 @@ header {
 }
 
 .flex-grid__item.flex-grid__item--small-item {
-  max-width: calc(50% - 20px) !important;
-  width: calc(20% - 20px) !important;
+  width: calc(20% - 20px);
+  max-width: calc(40% - 20px);
   padding: 10px 5px;
   margin: 20px; 
 }
