@@ -1,7 +1,9 @@
 ---
 layout: layouts/blog.njk
 title: Recommendations
-priority: 2
-navtitle: Game Recs
+priority: 3
+navtitle: All Articlesc
 permalink: /blog/index.html
+tags:
+  - nav
 ---

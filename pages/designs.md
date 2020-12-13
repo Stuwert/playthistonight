@@ -1,6 +1,6 @@
 ---
 title: Games We've Designed
-priority: 3
+priority: 2
 subcollection: designs
 permalink: /designs/index.html
 navtitle: Our Designs
