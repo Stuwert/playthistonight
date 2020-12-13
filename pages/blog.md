@@ -1,8 +1,8 @@
 ---
 layout: layouts/blog.njk
-title: Recommendations
+title: All Articles
 priority: 3
-navtitle: All Articlesc
+navtitle: All Articles
 permalink: /blog/index.html
 tags:
   - nav
