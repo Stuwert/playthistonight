@@ -13,13 +13,15 @@ writingType: review
 ---
 After much cajoling and recommending, I finally watched *Schitt’s Creek* this summer. Once I got past my struggle with watching people in awkward situations, what stuck out to me was how the show handled relationships. While it poked fun at the challenges of having wealth and losing it, it treated the relationships between characters sincerely. The problems that arose were caused by the falability of humans, the poor habits arising out of wealth, and miscommunication from cultural misunderstandings. It felt humane.
 
-![]()
+![](/static/img/img_0082.jpg "Carto Title Screen")
 
 *Carto* felt the same. This is an achievement for a 2d puzzler, putting it alongside *Journey* or *Thomas Was Alone* in its focus on relationships at the center of the story. The game tells the story of a young girl named Carto who gets separated from her grandmother on a grand adventure when a storm collides with their airship. Carto has to travel through many foreign lands and cultures to find her way back to her grandmother. 
 
 ## The Mechanics
 
 *Carto*, the game, accomplishes this through a tile laying mechanic similar to the one found in the board game *Carcassonne*. The only rule is that tiles have to be matched against tiles with similar edges: water to water, grass to grass, road to road, etc. As you walk around the different domains you’ll discover more tiles to lay down that will move the story forward. Most of the puzzles in the game require manipulating the tiles in unexpected ways to unlock new areas, or combining them in a specific pattern. This will unlock new tiles or reveal new characters. It’s hard to go into too much detail here without spoiling them, but I found them enjoyable and novel to discover.
+
+![](/static/img/img_0080.jpg "Example of the Carto Screen")
 
 I only found myself on Google once to get an answer I needed. I appreciated that the game was not here to make me overcome a daunting task, or unlock a specially hidden combination in order to continue the story. Solving the small puzzles made me feel smart in a warm-fuzzy sort of way instead of a conqueror of the world sort of way. And that felt right for the aesthetic of the game. 
 
@@ -28,6 +30,8 @@ I only found myself on Google once to get an answer I needed. I appreciated that
 ## The Story of the Game
 
 What’s great about the story of *Carto* is that it doesn’t have the main character face an evil character who’s trying to take her new friends or her grandmother away. There’s no apocalypse, conquering, or drama to be found, just a problem to solve. She meets a challenge that is familiar and mundane (a storm) and she has to work with other people to overcome it. That doesn’t make the puzzles any easier, but it centers the story with more grounding. The different people she meets help her on her quest, exploring the world, but she (and you as the player), must solve the puzzles on her/your own to progress.
+
+![](/static/img/img_0081.jpg "Some Carto Dialogue")
 
 There's nowhere more clear with this than the first world, where you learn your soon to be friend is about to be sent away due to a tradition to explore and find a new home. She will never see her family again and is sad about this. A lot of the dialogue with her is about coming to terms with this fact, but without the angst of a typical “rebelling against and modifying tradition” or the shattered family trope with fighting or yelling. There is frustration, but everyone is open about their sadness and hope. As a result it's calm and uplifting even with a melancholy undercurrent. 
 
