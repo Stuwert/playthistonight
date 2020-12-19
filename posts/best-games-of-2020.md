@@ -94,4 +94,4 @@ I wrote an entire review of this, so it shouldn’t come as a surprise that *Lon
 
 But I realized that anything I took away from the game would be the result of my own actions.  As Ian Bogost says in [Shit Crayons](http://bogost.com/writing/shit_crayons/), humans are capable of spinning endless situations into positives, but it doesn’t make the situations themselves any better. It would be easy to read this as a critique of *Lonely Mountains*, that I believe the game would be better if it had tried to find a mirror for me to look at. That’s not my intent. The technical brilliance in *Lonely Mountains* is meditative rather than transformative. In 2020 I looked for something more. I looked to a game that tried to imagine a better world.
 
-[That the game is *Carto*.](https://playthistonight.com/posts/carto:-game-of-2020/)
+[That game is *Carto*.](https://playthistonight.com/posts/carto:-game-of-2020/)
