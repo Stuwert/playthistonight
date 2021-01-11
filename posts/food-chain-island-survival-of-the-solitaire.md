@@ -10,7 +10,7 @@ writingType: review
 ---
 # Food Chain Island
 
-FCI, published by Button Shy games, is a solitaire game in their series of wallet-sized games. All games in the series come in the same container, a plastic wallet. It’s an interesting concept that’s attracted quite a few big names in the design space. This game, designed by Scott Almes (creator of the Tiny... series) is an solitaire contribution to the Button Shy series. 
+_Food Chain Island_, published by Button Shy games, is a solitaire game in their series of wallet-sized games. All games in the series come in the same container, a plastic wallet. It’s an interesting concept that’s attracted quite a few big names in the design space. This game, designed by Scott Almes (creator of the Tiny... series) is an solitaire contribution to the Button Shy series. 
 
 ![On the left, 2 blue cards representing the sea creatures. On the right 16 cards in a 4x4 grid representing the land creatures.](/static/img/img_0206.jpg "The Food Chain Island Board")
 
