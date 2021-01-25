@@ -12,7 +12,7 @@ platforms:
   - Mac
 writingType: review
 ---
-Some games do something small are large that’s worthy of repetition. Some games tell an incredible. And some games just hit all of the right notes. *Golf Peaks* is one of those games.  If I had any experience with golf there are any number of clever puns or jokes I could make. Alas, I do not. But the rough contours of *Golf Peaks* line up with my understanding of golf, which provides an easy metaphor to slip into and understand the game. 
+Some games do something small are large that’s worthy of repetition. Some games tell an incredible story. And some games just hit all of the right notes. *Golf Peaks* is one of those games.  If I had any experience with golf there are any number of clever puns or jokes I could make. Alas, I do not. But the rough contours of *Golf Peaks* line up with my understanding of golf, which provides an easy metaphor to slip into and understand the game. 
 
 There are some games that ignite my curiosity, where I want to figure out what secrets they have to unlock. There are other games that feature intriguing mechanics that I want to emulate or explore. There’s nothing ground breaking about *Golf Peaks* and that’s one of the things I most love about it. It doesn’t ask much of me, so the moments of delight it gives feel especially nice.
 
@@ -21,7 +21,6 @@ There are some games that ignite my curiosity, where I want to figure out what s
 It’s easy to talk about the concrete elements of design. It’s fun to point out how the UX for the game lends itself to easy use and understanding. How the metaphors of golf work surprisingly well. But it’s easy to overlook the physicality of the work. The space looks like a playground. At once small and approachable and durable. I can imagine myself running around and bouncing off the walls. This sets a playful tone for my experience and means the game feels expansive in my mind.
 
 ![A golf peaks board in the center of the screen. Mostly tan tiles with slopes towards the bottom, and a cliff on either side.](/static/img/img_0297-2.jpeg "A Golf Peaks Board")
-
 
 The goal is to get the golf ball from your starting spot into the hole. Each round you have a number of cards to use to do so. Once your cards run out the round ends. This way, the number of cards represents a sort of "par" number. You succeed if you are under or at par.
 
