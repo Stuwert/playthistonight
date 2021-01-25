@@ -10,12 +10,6 @@
   <link rel="stylesheet" href="{{ '/assets/fonts/marbach_light_macroman/index.css' | url }}">
   <link rel="stylesheet" href="{{ '/assets/css/index.css' | url }}">
 
-  {% set js %}
-  {% include "assets/js/inline.js" %}
-  {% endset %}
-  <script>
-    {{ js | jsmin | safe }}
-  </script>
   {% seo "" %}
   {% set img = layoutContent | getFirst('img') %}
   <meta property="og:image" content="{{ img.src }}"/>
