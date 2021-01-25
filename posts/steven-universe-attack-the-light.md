@@ -27,13 +27,13 @@ All of these qualities come out in the game’s story and dialogue. But remarkab
 
 ## Why I Love It
 
-![Image of Steven telling Pearl, "The first rule of RPGs...treasure can be anywhere!"](/static/img/IMG_2235-2.jpeg "The perfect introductory RPG.")
+![Image of Steven telling Pearl, "The first rule of RPGs...treasure can be anywhere!"](/static/img/IMG_2235-2.webp "The perfect introductory RPG.")
 
 In *Steven Universe: Attack the Light*, most of the combat mechanics express something about the characters and their relationships to each other. First, a primer: like in most RPGs, you the player control all four members of your party at once. Every turn in combat, you’re given five “stars” that can be spent on any unit’s action. More powerful actions cost more stars, so you have to strategically allocate your resources.
 
 For instance: Pearl’s basic attacks are efficient, targeting single enemies and expending only one star. Amethyst is more reckless: her attack hits all foes at once for low damage, and consume 3 stars. All four party members start with basic maneuvers that expand over time, giving you more options that always compliment the characters’ personality and style.
 
-![Image of a battle scene, with Garnet charging up an attack. ](/static/img/IMG_2247-2.png "Attacks are all based on timing, and evocative of each character. ")
+![Image of a battle scene, with Garnet charging up an attack. ](/static/img/IMG_2247-2.webp "Attacks are all based on timing, and evocative of each character. ")
 
 This sense of character is even expressed in the most mundane places. Rather than start every character at level 1, only Steven starts as a level 1 adventurer, while his guardians, who have been adventuring for millenia, start at level 9001. And you’ll periodically need to take sides in minor disputes between characters. I found myself stepping between Pearl and Amethyst on more than one strategic discussion, more often siding with Amethyst because I felt she needed more emotional support. These discussions effectively develop characters, and allocate experience to the characters you side with, even if they have little impact on the direction of the story.
 
@@ -41,7 +41,7 @@ Also worth mentioning is how thoughtful the developers have been in developing a
 
 ## Getting Started
 
-![Image of Steven telling Pearl, "Dangerous things can still be cute..."](/static/img/IMG_2239-2.jpeg "The best art reflects life. ")
+![Image of Steven telling Pearl, "Dangerous things can still be cute..."](/static/img/IMG_2239-2.webp "The best art reflects life. ")
 
 The game offers two difficulty levels. As an experienced player, I breezed through *Attack the Light* on the normal difficulty, but “Diamond” difficulty removes visual cues used to help time attacks and blocks, making it difficult to recommend for a first time player. Regardless, the earlier stages are going to be easier, so use that time to assess each character’s strengths and weaknesses, which will help your decision making when things get really tough.
 

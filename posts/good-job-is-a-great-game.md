@@ -10,7 +10,7 @@ platforms:
 ---
 On paper, *Good Job!* should not be fun.  A game about completing menial labor around a corporate office: plugging in wi-fi outlets, cleaning up spills, arranging furniture is not the stuff that streams are made of. In fact, it’s easy to imagine a pandemic-free world where *Good Job!* is relegated to the bin of indies with interesting ideas but not much longevity.  But this game was perfect for a moment when lockdowns became the norm and the sense of normality slipped away.  It’s a perfect fit of comfortable puzzles, awkward hilarity, wrapped up in an undercurrent of “rage against the system” that matched my emotional state at the time. As a result, it managed to become one of the few games I would complete in 2020.
 
-![Basic office space with color coded floors, chairs, and desks.](/static/img/2020041111281300-d696f166b39f21d053e294e03172915d.jpg "Menial Office Task")
+![Basic office space with color coded floors, chairs, and desks.](/static/img/2020041111281300-d696f166b39f21d053e294e03172915d.webp "Menial Office Task")
 
 *Good Job!*  was designed by Paladin Studios and published in Spring 2020 by Nintendo exclusively for the Nintendo Switch. It is (roughly speaking) an isometric puzzle game where the player completes 4 or 5 puzzles per level, with 9 levels in total.  Each level is a floor on a small skyscraper and the player is almost literally “climbing the corporate ladder”.  It’s a game where the puzzles, theme, and humor combine into a package worth more than the sum of each part. 
 
@@ -24,7 +24,7 @@ You might decide that this is unacceptable, and restart the level.  Or, instead,
 
 
 
-![A Bunch of workers stacked on top of each other getting wifi](/static/img/2020112114371200-d696f166b39f21d053e294e03172915d.jpg "Stacked Wifi")
+![A Bunch of workers stacked on top of each other getting wifi](/static/img/2020112114371200-d696f166b39f21d053e294e03172915d.webp "Stacked Wifi")
 
 *Ok so I didn't quite get all 30, but I got close.*
 
@@ -32,13 +32,13 @@ This captures the brilliance of *Good Job!*. Succeed or fail, the game rewards a
 
 The game evokes feelings of the banality of an office with its water coolers, fake potted plants, plain art and utilitarian equipment, and then lets you tear it apart.  It also allows for whimsy with fun uniforms that you can collect along the way. And at the end of each level it gives you the [highest score of one of three categories (per Destructoid)](https://www.destructoid.com/stories/review-good-job--585148.phtml), the quickest completion time, the fewest items broken, or the total cost of items broken (less cost is better).
 
-![Man with hands behind head with office in the background. Checkmark with a B ranking.](/static/img/2020040519204800-d696f166b39f21d053e294e03172915d.jpg "Good Job! Rating")
+![Man with hands behind head with office in the background. Checkmark with a B ranking.](/static/img/2020040519204800-d696f166b39f21d053e294e03172915d.webp "Good Job! Rating")
 
 ## Why It Works
 
 While in the strictest sense *Good Job!* is a puzzle game, I wouldn’t recommend it to fans of the genre, or recommend people who hate puzzles to stay away from it. For most the levels, there aren’t “puzzles” to unlock or deeper understandings about the system/world to tap into.  Instead of teaching you specific concepts, the game gives you a basic goal and then a lot of space to accomplish it however your heart desires.  It’s that constrained freedom that spoke to me.  The task was narrow enough for my brain to have something specific to latch onto, but the possibility space was so wide that I could let go and try whatever random thought popped into my head.
 
-![A purple office has shattered bots, a giant spherical bolder next to a serene waterfall.](/static/img/2020040415540400-d696f166b39f21d053e294e03172915d.jpg "Destroyed Meditation Center")
+![A purple office has shattered bots, a giant spherical bolder next to a serene waterfall.](/static/img/2020040415540400-d696f166b39f21d053e294e03172915d.webp "Destroyed Meditation Center")
 
 *And here's me destroying a meditation center.*
 
@@ -52,6 +52,6 @@ The game is also quite generous, and there are few moments where I found myself 
 
 If you own a Nintendo Switch, the answer is: “Right now!”.  The game is so comfortable and comforting, even as you cause wanton destruction of an office building.  The game has enough content to keep you entertained, but not so much content that you’re bored before the end.
 
-![Red background with image of entire office layout, excited man with A rating and score information to the right.](/static/img/2020041100004300-d696f166b39f21d053e294e03172915d.jpg "Good Job! with A grade.")
+![Red background with image of entire office layout, excited man with A rating and score information to the right.](/static/img/2020041100004300-d696f166b39f21d053e294e03172915d.webp "Good Job! with A grade.")
 
 If you’ve completed this game and are looking for the next adventure, there are two games that jump to mind.  One is the aforementioned *Untitled Goose Game* which is equally cheeky, but with more of a stealth bent.  If co-operative puzzle solving is more your speed *Human Fall Flat* is a great time either online or couch co-op, with similar hi-jinks and physical humor.

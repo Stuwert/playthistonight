@@ -12,7 +12,7 @@ platforms:
 ---
 ## What Is It
 
-![Picture of the player character holding a double-sided baseball bat while robots advance on her. ](/static/img/bot-battingsmll.jpeg "One of many mini-games in Ring Fit Adventure.")
+![Picture of the player character holding a double-sided baseball bat while robots advance on her. ](/static/img/bot-battingsmll.webp "One of many mini-games in Ring Fit Adventure.")
 
 *Ring Fit Adventure* is Nintendo’s latest ﬁtness game for it’s Switch console. It follows in the tradition of the Wii Fit series of exercise games, but also breaks from its predecessors in an important way: where Wii Fit was a more straightforward ﬁtness app, *Ring Fit Adventure* is a fantasy quest that you play through by exercising.  
 
@@ -26,13 +26,13 @@ The game uses two pieces of hardware to make this adventure possible: an electro
 
 As you run through the game’s gauntlets, there are targets you can hit by aiming your ring and squeezing to shoot a burst of air. Half of the monsters are based on ﬁtness equipment like yoga mats and kettlebells, and the game slowly introduces a cast of ﬁtness-obsessed characters like Abdonis and Scarecruel. At one point, Ring told me to hold a yoga tree pose to “disguise myself as a tree” until some threatening birds ﬂew away. I’ve never done that in a game before, nor in life. Now when I meet someone threatening, I know to disguise myself as a tree. 
 
-![Image of a player character doing a yoga tree pose to disguise himself as a tree. ](/static/img/tree-pose-small.jpeg "Fooled 'em!")
+![Image of a player character doing a yoga tree pose to disguise himself as a tree. ](/static/img/tree-pose-small.webp "Fooled 'em!")
 
 ## Getting Started
 
 When you start your adventure, the game will ask you about your ﬁtness experience, and it uses your answer to calibrate how hard the exercises will be. In most cases, a higher diﬃculty translates to more reps. Answer honestly, but also don’t sweat getting in over your head; the game will ask you how the last workout felt each time you boot it up, and is very ﬂexible in adjusting diﬃculty up and down. 
 
-![Image of a player doing squats to fight a monster shaped like a kettle bell. ](/static/img/squat-battle-small.jpeg)
+![Image of a player doing squats to fight a monster shaped like a kettle bell. ](/static/img/squat-battle-small.webp)
 
 Fitness difficulty is only one of the challenges here, since Ring Fit Adventure is also a roleplaying game. You’ll have an advantage in battle if you can strategically select the best exercises for the situation, but if you’re not interested in strategy you can have the game randomly select exercises for you. And if the random exercises lead to lost battles, try doing some of the many side-quests the game has on oﬀer. I play them to satisfy my completionist streak, and as a result my character is pretty overpowered to the point of making most strategy moot. 
 
@@ -42,4 +42,4 @@ The game has an end...I assume? I’ve been playing a few times a week since Nov
 
 As much as I’ve enjoyed my time with *Ring Fit Adventure*, I’m also excited for it to come to an end. I feel the most valuable thing this game provides the player is inertia. It can be hard starting up a new ﬁtness routine, especially if you haven’t been in the habit lately, but the gamiﬁcation here is fun and encouraging, and with frequent tips on nutrition and other forms of exercise, the game never loses sight of the player’s well-being outside of the game. By the time I ﬁnish this adventure, I’ll feel more ready and conﬁdent to try other kinds of exercise. I’m guessing most players would feel the same.
 
-![Image of the player character running toward monsters. ](/static/img/path-to-monsters-small.jpeg)
+![Image of the player character running toward monsters. ](/static/img/path-to-monsters-small.webp)

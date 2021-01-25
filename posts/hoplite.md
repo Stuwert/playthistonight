@@ -18,7 +18,7 @@ Available Here: [iOS](https://apps.apple.com/us/app/hoplite/id782438457), [Andro
 
 ## What Is It?
 
-![Image of a game level. The hoplite soldier is at the bottom, and the level is filled with enemies and lava. There is one upgrade shrine and one staircase leading to the next level. ](/static/img/battle-scene.png "Levels are randomized, and increasingly challenging. ")
+![Image of a game level. The hoplite soldier is at the bottom, and the level is filled with enemies and lava. There is one upgrade shrine and one staircase leading to the next level. ](/static/img/battle-scene.webp "Levels are randomized, and increasingly challenging. ")
 
 _Hoplite_ is a strategy game for one player. You control a hoplite, a kind of classical-era soldier, descending through levels of the underworld. Each level plays out like a simple board game filled with hazards and monsters. Every turn you choose one action for your hoplite, like moving, leaping, or throwing your spear. After you take an action, all of the enemies take their own actions to corner and attack you. The goal of each level is to clear enemies from the board and safely reach the stairs, leading you downward to a more difficult floor. Your overarching goal is to descend 16 floors and retrieve the mythical Fleece of Yendor. 
 
@@ -30,13 +30,13 @@ Roguelikes are known for being hard, but their real defining features are perman
 
 Play-throughs of _Hoplite_ are short, usually lasting 10 to 30 minutes. Thanks to this brevity, failure doesn’t feel like the huge setback it can be in other roguelikes. It also accelerates the game’s feedback loop; it’s easier to analyze and learn from what went right and wrong in a 10 minute play session than a 2 hour one. I may be bad at strategy, but playing Hoplite feels like my failures are valuable learning experiences. I’m measurably growing as a player, and each play-through has the potential for new lessons.
 
-![Game Over screen displaying the text "You have died. Killed by a demon wizard. Progress score: 27. Victory and turn count bounus: none. Total Score: 27. Bottom button says "OK."](/static/img/you-have-died.png "Bummer.")
+![Game Over screen displaying the text "You have died. Killed by a demon wizard. Progress score: 27. Victory and turn count bounus: none. Total Score: 27. Bottom button says "OK."](/static/img/you-have-died.webp "Bummer.")
 
 ## Your First Game.
 
 Each level you conquer gives you the option of upgrading your hoplite in a different way. For the first few play-throughs, I recommend focusing your upgrades on a single area rather than making a jack-of-all trades character. Balanced characters can be effective, but when you fail it’s harder to isolate why it is that you failed. But if, for example, you solely upgrade your spear throwing ability, you’ll learn more about when your spear is effective and when it isn’t. This approach teaches you more about the individual mechanics, which you can then apply to more balanced-character play-throughs. 
 
-![Menu of upgrade options for your hoplite. Reads: "You have found an altar of Apollo." Upgrades available are "Divine Restoration, heals completely." "Fortitude, increases maximum health." "Greater Energy,increases maximum energy." "Sweeping Bash, affects targets in an arc." "Reaction, bashing propels you backward."](/static/img/upgrade-example.png "Each upgrade altar gives you different upgrade options.")
+![Menu of upgrade options for your hoplite. Reads: "You have found an altar of Apollo." Upgrades available are "Divine Restoration, heals completely." "Fortitude, increases maximum health." "Greater Energy,increases maximum energy." "Sweeping Bash, affects targets in an arc." "Reaction, bashing propels you backward."](/static/img/upgrade-example.webp "Each upgrade altar gives you different upgrade options.")
 
 ## Going Further.
 

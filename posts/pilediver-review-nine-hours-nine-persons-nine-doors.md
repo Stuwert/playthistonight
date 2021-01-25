@@ -15,7 +15,7 @@ platforms:
   - PS Vita
   - Windows
 ---
-![An arm with a bracelet on the wrist. The bracelet has a screen showing the number five.](/static/img/ca038dc7-7251-44ee-b190-75680d3cb131.jpeg)
+![An arm with a bracelet on the wrist. The bracelet has a screen showing the number five.](/static/img/ca038dc7-7251-44ee-b190-75680d3cb131.webp)
 
 Score: 4/5
 
@@ -29,19 +29,19 @@ This is why I approached *[Nine Hours, Nine Persons, Nine Doors](http://thenonar
 
 But I played the game, and I replayed it, again and again, and I got the true ending. And I was stunned. Not because the true ending blew my mind (more on that later), but because finding that true ending required me to study and better understand the journey I was having. Even the dead ends I hit were valuable, teaching me more about a mystery that couldn’t be understood from a single experience. *Nine Hours, Nine Persons, Nine Doors* isn’t perfect, but it is special, and what it gets right is central to its atypical structure. 
 
-![Man looking in the mirror. He asks “What the hell is a Nonary Game!? Goddamnit!”](/static/img/1796c401-af72-4657-a9a6-e153a6a54484.jpeg "We were all thinking it.")
+![Man looking in the mirror. He asks “What the hell is a Nonary Game!? Goddamnit!”](/static/img/1796c401-af72-4657-a9a6-e153a6a54484.webp "We were all thinking it.")
 
 You play as Junpei, a college student who gets kidnapped by a madman named Zero. He wakes up in a passenger cabin aboard a sinking cruise ship and is forced to play a dangerous “Nonary Game” with eight other people. The vessel is filled with doors emblazoned with big red numbers, and if the nine people can’t find the number nine door within nine hours, they’ll be dragged down with the ship. Also, they’re all wearing numbered bracelets, and they all have bombs in their bodies that will detonate if they break the rules. What follows is a lot of sleuthing, puzzling, drama, and math. 
 
 The game splits itself between two genres. Behind each of the ship’s numbered doors are escape room-style puzzles that play out like classic point-and-click adventures in miniature. Junpei and his comrades pick through passenger cabins, kitchens, recreational areas and cargo holds for keys that will grant access to more of the ship, as well as clues and puzzles that will get them out of the given locked room. In between these escape room sections are extended scenes of visual novel narration and dialogue, as well as some major decisions for the player. The numbered doors act as forks in the narrative: if the five door and four door are next to one another, choosing the five door means not seeing what is past the four door. You don’t know where the doors lead, it’s a shot in the dark. Furthermore, the numbered doors only accept certain combinations of characters based on how their numbered bracelets add up with one another.
 
-![A man and woman standing in front of a door with a big red 3. Man says “Look, if you trust anybody in this game, you’re gonna lose.”](/static/img/aa9b502d-8a5e-4d6f-80a4-22cf4dd02828.jpeg "Go team!")
+![A man and woman standing in front of a door with a big red 3. Man says “Look, if you trust anybody in this game, you’re gonna lose.”](/static/img/aa9b502d-8a5e-4d6f-80a4-22cf4dd02828.webp "Go team!")
 
 Dilemmas like choosing doors frequently throw the characters into conflict, and it turns out that being locked in a death trap provokes a lot of conversation. When the group finds a set of three new numbered doors, the character Lotus suggests leaving someone behind. It’s out of left field, but it comes from a place of logic: Lotus has already done the math for these doors, and there’s no combination of doors and party members that would get everyone through to the next area. Meanwhile, June compassionately argues they should keep searching for alternatives, that maybe there’s information they’re unaware of. Scenes like this pull an already tense situation even tighter, and underscore the deadly atmosphere of the ship itself. 
 
 While big group conversations often spur conflict and debate, the smaller escape room sections provide opportunities for quiet, one-on-one dialogue with the few characters able to accompany you. Sometimes it’s as simple as a character remarking that a puzzle reminds them of a rare medical condition, and other times it’s a deep dive into a traumatic experience in a character’s past. The scenes in these escape rooms show more vulnerability, allowing characters to open up about their lives, and you begin to connect the dots on why these specific people were brought onto this ship.
 
-![Man and woman looking at computer screen. Woman asks “What, you’ve never heard of prosopagnosia?”](/static/img/cf7c34df-e07b-40cf-bd9a-5d9e8b5f0eaa.jpeg "Why don’t the male characters dress like that? A mystery I never solved.")
+![Man and woman looking at computer screen. Woman asks “What, you’ve never heard of prosopagnosia?”](/static/img/cf7c34df-e07b-40cf-bd9a-5d9e8b5f0eaa.webp "Why don’t the male characters dress like that? A mystery I never solved.")
 
 The puzzles in the escape rooms are well thought out and intuitive. They require exploration and critical thinking, but I never felt as completely stuck as I did in classic point-and-click adventure games. These challenges vary from figure-out-the-right-piano-melody charming to strap-someone-in-an-electric-chair creepy, and they beg a constant question: why are we being put through these weird puzzles on this death trap ship?
 
@@ -53,7 +53,7 @@ The narrative sections fare better on the replay, because the game lets you fast
 
 But keeping track of puzzle solutions and speeding through dialogue did accelerate the process, and I hit my second ending, also BAD, much faster. At this point, I was curious; the story was involving, the atmosphere creepy and dangerous, but the experience felt arbitrary since I didn’t have any information to inform those choices, I didn’t see a reason to choose one door over another. I felt less like a detective solving a mystery and more like a wanderer without a map.
 
-![Woman crying. A man asks “Do any of you know what the fuck is going on here?!”](/static/img/35fbf96c-9b30-4a72-9c13-6862b50f7060.jpeg "Junpei’s asking the right questions here.")
+![Woman crying. A man asks “Do any of you know what the fuck is going on here?!”](/static/img/35fbf96c-9b30-4a72-9c13-6862b50f7060.webp "Junpei’s asking the right questions here.")
 
 But as I kept playing, kept testing new choices, my perspective changed. As I learned more about the outcomes of individual choices, my decisions became more informed. Actually, there is a reason to choose this door over that door. There is a way to anticipate that bad outcome, and to stop it. Fast-forwarding through text felt different, like flying through a record of what had happened, understanding it differently. There’s a reason that *Nine Hours, Nine Persons, Nine Doors* can’t be understood from a single experience, and that reason is central to the mystery itself.
 

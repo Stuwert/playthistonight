@@ -14,7 +14,7 @@ platforms:
   - Nintendo Switch
 negative: true
 ---
-![A bird on a motor scooter looking at a small hole in the ground. The words "Donut County" arc across the image.](/static/img/54d83d8c-4acd-4e1e-a057-0a9701ddd539.jpeg)
+![A bird on a motor scooter looking at a small hole in the ground. The words "Donut County" arc across the image.](/static/img/54d83d8c-4acd-4e1e-a057-0a9701ddd539.webp)
 
 Score: 3/5
 
@@ -28,13 +28,13 @@ Then you find a tennis ball, or a wad of paper, or a small plant. Skip the large
 
 Moving on, you’ll find that your “donut” can accommodate increasingly large objects. Books, tires, birdcages. That stool looks like it can fit, even with the person sitting on top. You’ll eventually swallow up boulders, trees, pottery studios and homes, as small scale rummaging turns into total property obliteration. 
 
-![A hole growing bigger, knocking over tables and smashing pots.](/static/img/e8d540eb-d760-43dc-b04a-27f3461a58f1.jpeg)
+![A hole growing bigger, knocking over tables and smashing pots.](/static/img/e8d540eb-d760-43dc-b04a-27f3461a58f1.webp)
 
 Believe it or not, BK’s “work” is not universally appreciated, and the job of explaining that to him falls on his friend Mira. Mira shares a lot of similarities with BK: they both work at the same donut shop, neither shows much enthusiasm for the job, and they’re both quick to laugh, at least over text. But Mira is not a raccoon, nor are the dozen or so townspeople who begin the game in a dark pit “nine hundred ninety-nine feet” below town. Now, how do you think they get there?
 
 In dialogue that plays out in this abyss, we see Mira and the townspeople confront BK over his actions. But BK always deflects: that wasn’t me, I was just doing my job, maybe we’re all better off in a dark pit (I’m writing this in 2020, so that last one is pretty understandable). And each conversation is followed by a flashback, a playable level of what happened, of how exactly BK destroyed that person’s life. 
 
-![BK surrounded by the townspeople. BK says "I'M the victim!!!"](/static/img/3ebf36f9-f6b9-427a-87c1-4a45300bb048.jpeg)
+![BK surrounded by the townspeople. BK says "I'M the victim!!!"](/static/img/3ebf36f9-f6b9-427a-87c1-4a45300bb048.webp)
 
 But for all the conflict and objections raised in the dialogue scenes, there’s no real tension to the gameplay sections of stealing people’s stuff. The rummaging of *Donut County* is enjoyable; I had fun sifting through belongings, popping up refuse, knocking over benches stacked with clay pots and watching them smack the ground and shatter. But there’s also little to stop you, or push back against you. Mira wants BK to recognize how much he’s hurt others, but the main gameplay scenes don’t reflect this viewpoint. The characters rarely signal annoyance, despair, or much of anything as their belongings are seized and destroyed. They’ll stare blankly as a growing, ominous pit swallows up their car and sofa, and only express mild surprise as they themselves topple into the unknown.
 
@@ -44,6 +44,6 @@ I’ll remember their dynamic more than I’ll remember the property destruction
 
 *Donut County* shifts toward the end of the game, introducing an antagonism in its gameplay through characters that *do* mind you stealing their things, and they act accordingly. The final levels show what the game could have been, and it’s much better for it. But for most of the game’s brief runtime (just over 2 hours), *Donut County* is an undemanding and enjoyable hangout. I had fun, but I also wish the game took more after Mira than BK. 
 
-![Cars drive off of a backed up highway and into a massive hole.](/static/img/8d3cf986-d06c-4b1c-a9ff-b98384004a71.png)
+![Cars drive off of a backed up highway and into a massive hole.](/static/img/8d3cf986-d06c-4b1c-a9ff-b98384004a71.webp)
 
 *Pilediver is a review series where I play through the many, many games in my backlog. Thank you for reading.*

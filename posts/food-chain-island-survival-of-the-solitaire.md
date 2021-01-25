@@ -12,7 +12,7 @@ writingType: review
 
 _Food Chain Island_, published by Button Shy games, is a solitaire game in their series of wallet-sized games. All games in the series come in the same container, a plastic wallet. It’s an interesting concept that’s attracted quite a few big names in the design space. This game, designed by Scott Almes (creator of the Tiny... series) is an solitaire contribution to the Button Shy series. 
 
-![On the left, 2 blue cards representing the sea creatures. On the right 16 cards in a 4x4 grid representing the land creatures.](/static/img/img_0206.jpg "The Food Chain Island Board")
+![On the left, 2 blue cards representing the sea creatures. On the right 16 cards in a 4x4 grid representing the land creatures.](/static/img/img_0206.webp "The Food Chain Island Board")
 
 The game consists of dealing all 16 cards (numbered 0 to 15) into a 4x4 grid, face up. The goal of the game is for the player to get the laid out cards from 16 individual piles into 3 or fewer stacks. The rules are simple. Each turn the player stacks cards with larger numbers on top of adjacent cards with smaller numbers. The game calls this eating. But there’s a twist, cards may only eat cards that are up to 3 smaller than them. This means a 12 can eat a 11, 10 or 9, but not an 8 or smaller. This restriction turns the obvious “most to least” strategy into a careful set of steps to puzzle over. There’s one more twist to help and challenge players. Each card has a special ability which must activate after a card eats.
 
@@ -20,7 +20,7 @@ The game consists of dealing all 16 cards (numbered 0 to 15) into a 4x4 grid, fa
 
 Single player games are in the middle of a renaissance. It started a couple of years ago, but has picked up in popularity as the pandemic wears on. Because war games have no hidden information they’ve been some of the first games to feature solo modes. Economic games, with indirect competition, often have single player variants. Players in these try to score a high score rather than out-score an opponent. But the smaller sub-genre, solitaire games, has seen less exploration. At first I hesitated to differentiate solitaire and solo games. I thought solitaire (or solitary) was another way of describing a single person playing a game. I learned that solitaire describes stacking and arranging a deck of shuffle cards. The distinction between solo games and solitaire games, therefor, seems important.
 
-![The 3 card is displayed. It is a mouse eating an ant. The ability text reads "Move on animal 1-2 spaces".](/static/img/img_0205.jpg "A single land creature.")
+![The 3 card is displayed. It is a mouse eating an ant. The ability text reads "Move on animal 1-2 spaces".](/static/img/img_0205.webp "A single land creature.")
 
  
 
@@ -34,9 +34,9 @@ That’s what makes the innovation of Food Chain Island so enjoyable. The stacki
 
 Two of my favorite sequences are what I call “the pile-on” and “the checkers” maneuver. The “pile on” involves a stack surrounded by four other cards. The sequence of numbers means that you are able to eat the center card with each of the surrounding ones. This leaves one remaining. The “checkers” maneuver involves taking a single card and eating three smaller cards. Both are satisfying because they are hard to pull off and also eliminate many piles from the board.
 
-![5 land creatures are arranged in a "plus" shape where 4 creatures are adjacent to the central one.](/static/img/img_0203.jpg "The pile on")
+![5 land creatures are arranged in a "plus" shape where 4 creatures are adjacent to the central one.](/static/img/img_0203.webp "The pile on")
 
-![Five land creatures are arranged in 2 rows with 4 cards on the top row, and 1 card on the bottom row to the far right. They are ordered 7, 6, 5, 4 on the top. 3 on the bottom.](/static/img/img_0204.jpg "A \"checker\"s set up.")
+![Five land creatures are arranged in 2 rows with 4 cards on the top row, and 1 card on the bottom row to the far right. They are ordered 7, 6, 5, 4 on the top. 3 on the bottom.](/static/img/img_0204.webp "A \"checker\"s set up.")
 
 The other challenge solitaire games have is their direct competition with digital games. Playing alone means competing against a phone game, a computer game, a Nintendo Switch game, or even twitter. Because Food Chain Island is only 16 cards to shuffle and deal it’s easy to start a game. The lack of friction brings it to the table when other more involved games might stay on the shelf.
 

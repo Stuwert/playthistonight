@@ -17,7 +17,7 @@ Available: [iPad](https://apps.apple.com/us/app/fingle/id490109661)
 
 The easy comparison is _Twister,_ a party game about tangled bodies. Players take turns maneuvering their hands and feet to randomly assigned positions that tangle players up amongst themselves. _Twister_ was invented in the 60s, and has been delightfully inappropriate for decades. But now we have computers, smartphones, tablets. Can this new-age technology also be used innapropriately? Enter _Fingle._
 
-![Image of game space, depicting white and yellow targets on a retro 70's background.](/static/img/img_0095-2-2.jpg "Fingle's Game View")
+![Image of game space, depicting white and yellow targets on a retro 70's background.](/static/img/img_0095-2-2.webp "Fingle's Game View")
 
 Each level of _Fingle_ contains two sets of target icons, one for each player. The goal of the game is for each player to keep their fingertips touching all of their targets; if you maintain that contact for several seconds, you’ll advance to the next level. While _Twister_ is concluded with the players’ inevitable failure, progression through _Fingle_ is predicated on the players’ cooperation and success. 
 
@@ -35,7 +35,7 @@ _Fingle’s_ personality is amplified by the way it’s play escapes the confine
 
 While _Twister_ may create tension amongst players by putting them in awkward positions, _Fingle_ does the same while commenting, suggesting, coloring the experience. _Twister_ maintains a thin layer of deniability. “It’s just colored dots and wholesome fun,” it pleads, in the strained voice of a people-pleaser. _Fingle_ makes subtext explicit and colored. It says “SWEET RUBBIN’” when you beat a level. 
 
-![Three in game tips are displayed. They read, "If your fingers don't bend that way, try bending your mind instead. Scientific fact: 83% of our Fingle statistics have been made up, especially this one. Reading this gives you the perfect time to practice your sexy look. ](/static/img/image-20-2.jpg "The game has many helpful tips.")
+![Three in game tips are displayed. They read, "If your fingers don't bend that way, try bending your mind instead. Scientific fact: 83% of our Fingle statistics have been made up, especially this one. Reading this gives you the perfect time to practice your sexy look. ](/static/img/image-20-2.webp "The game has many helpful tips.")
 
 By being commanding, suggestive, and overt, _Fingle_ leaves the iPad and controls the space around it. It’s digital _Twister_ with flirty cheering and a disregard for pretense. I love it.
 
@@ -47,4 +47,4 @@ _Fingle_ is not a trust-building game. This is a game that centers physical cont
 
 Have fun with it! Pull it out at parties, or on a date night. Play without talking. Play it in private and public spaces, see how that changes the experience. It has some holiday themed levels, so space your _Fingle_-ing throughout the year. Or, don’t. _Fingle_ may be loud and opinionated, but you can’t let it tell you want to do about everything. _Fingle_ it out for yourself.
 
-![Image of victory screen that reads "Oooh...Nice!"](/static/img/img_0089-2-2.jpg "Thanks for cheering me on, Fingle!")
+![Image of victory screen that reads "Oooh...Nice!"](/static/img/img_0089-2-2.webp "Thanks for cheering me on, Fingle!")

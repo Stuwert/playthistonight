@@ -20,7 +20,7 @@ There are some games that ignite my curiosity, where I want to figure out what s
 
 It’s easy to talk about the concrete elements of design. It’s fun to point out how the UX for the game lends itself to easy use and understanding. How the metaphors of golf work surprisingly well. But it’s easy to overlook the physicality of the work. The space looks like a playground. At once small and approachable and durable. I can imagine myself running around and bouncing off the walls. This sets a playful tone for my experience and means the game feels expansive in my mind.
 
-![A golf peaks board in the center of the screen. Mostly tan tiles with slopes towards the bottom, and a cliff on either side.](/static/img/img_0297-2.jpeg "A Golf Peaks Board")
+![A golf peaks board in the center of the screen. Mostly tan tiles with slopes towards the bottom, and a cliff on either side.](/static/img/img_0297-2.webp "A Golf Peaks Board")
 
 The goal is to get the golf ball from your starting spot into the hole. Each round you have a number of cards to use to do so. Once your cards run out the round ends. This way, the number of cards represents a sort of "par" number. You succeed if you are under or at par.
 
@@ -28,7 +28,7 @@ Each card represents a type of movement the ball can make, either straight throu
 
 Each course also has different terrain which will change how the ball moves. There’s the basic grass terrain which the ball will move through at the expected clip, if you pick a 3 and putt across grass, the ball will move 3 spaces. Other terrain which will show up like sand, which stops the movement of the ball, ice which keeps the ball moving, or water which resets the ball to the last safe tile it touched. The combination of the tiles and the cards creates your “lay” for the puzzle determining how you will have to maneuver to shape the game. 
 
-![A close-up view of a golfball on a single sand tile, surrounded by clay and quicksand.](/static/img/img_0299-2.jpeg "The golf ball on a sand tile")
+![A close-up view of a golfball on a single sand tile, surrounded by clay and quicksand.](/static/img/img_0299-2.webp "The golf ball on a sand tile")
 
 The grids are laid out like checkerboards, usually no more than 8x8 (I didn’t check every puzzle), but sometimes small, or strangely shaped. There might be spots missing that you have to avoid. There are also different levels of the terrain, so you might try to navigate the ball up or down the course, and that navigation might require moving up or down, and the terrain adjustment is sometimes smooth and sometimes not. 
 
@@ -36,7 +36,7 @@ The grids are laid out like checkerboards, usually no more than 8x8 (I didn’t 
 
 Cards in a golf game seems like a strange combination. The concept of “cards” as a game design tool is in vogue right now. It’s not hard to see why, cards are recognizable to a broad spectrum of people, regardless of how many (or few) games they play. Cards also come preloaded with concepts that are recognizable. We shuffle them, draw them into our hand, and discard them to name a few. Used well, a card can communicate a lot of information about how the player is supposed to behave. 
 
-![The golf peaks card at the bottom of the screen. There are four cards. From left to right 1 putt, 1 chip, 3 chip, 1 chip + 1 putt](/static/img/img_0298-2.jpeg "The Golf Peaks Cards")
+![The golf peaks card at the bottom of the screen. There are four cards. From left to right 1 putt, 1 chip, 3 chip, 1 chip + 1 putt](/static/img/img_0298-2.webp "The Golf Peaks Cards")
 
 At the same time, cards are often over utilized. It’s easy enough to make anything a card, especially digitally.  *Golf Peaks* does not fall into this trap. The metaphor of the card works well to explain how the game functions and communicate its limits. Firstly, you are “dealt” a card of hands at the start of every puzzle. This is what you have to work with. Every time you play a card that “discards” that card for the puzzle, meaning you can’t use it again. And as I mentioned earlier, the cards themselves are discrete, each card represents a specific pattern you activate as a player. As you play cards to move your options become restricted. 
 
@@ -48,7 +48,7 @@ The other delightful part about *Golf Peaks* is that it’s a puzzle game about 
 
 *Golf Peaks* doesn't ask this of me. It prefers exploration over deduction. Rather than penalizing a player for an incorrect move, it provides a helpful rewind and restart button. There are few cards (typically around 5 but no more than 10) which means trying out different combinations of movements is quick. This means I spend less energy trying to build a picture in my head and more time selecting moves and trying them out. It's less brain burning and more guess and check. 
 
-![The 4th level of Golf peaks, there is a 3x4 grid of levels to select, 12 in total.](/static/img/img_0296-2.jpeg "The Golf Peaks Menu")
+![The 4th level of Golf peaks, there is a 3x4 grid of levels to select, 12 in total.](/static/img/img_0296-2.webp "The Golf Peaks Menu")
 
 This means it's possible to "brute force" the game by trying every possible combination to find the solution. But that requires enough effort that it wouldn't be that much fun. It's the type of design problem I appreciate the authors didn't spend time trying to solve. If I want to brute force it, that's a personal choice I can make. 
 

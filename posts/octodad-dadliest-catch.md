@@ -15,7 +15,7 @@ Available: [PC](https://store.steampowered.com/app/224480/Octodad_Dadliest_Catch
 
 _Octodad: Dadliest Catch_ is an octopus simulator that is also a dad simulator. You play as Octodad, an octopus who has somehow concealed his cephalopod identity from his human wife and inexplicably human children. Most of the game plays over the course of a single day spent with your family, where you must work to pass yourself off as human while you perform mundane tasks. 
 
-![Image of Octodad getting married. ](/static/img/img_0129-2.png)
+![Image of Octodad getting married. ](/static/img/img_0129-2.webp)
 
 _Octodad_ finds play in everyday scenarios that most take for granted. Repeating our rituals day to day, they become second nature and rote, like how when you’ve driven to work so often, you no longer remember the trip. But as an octopus, gangly and clumsy, these simple motions become harrowing. You have to fulfill your role as a dad while concealing your octopus identity from strangers and loved ones; make too many mistakes, knock over too many cereal boxes in the grocery store, and you’ll be exposed for the fraud you are. 
 
@@ -23,7 +23,7 @@ _Octodad_ finds play in everyday scenarios that most take for granted. Repeating
 
 What makes Octodad so special is in how it overcomplicates the basic actions we take for granted to evoke feelings of otherness and paranoia. The early scenarios are common family experiences, like making coffee and mowing the lawn. But because moving even one arm requires two thumb sticks and a button, you have to approach your interactions delicately.  It’s easy to swing a tentacle wildly out of place, and difficult to swerve it back in before anyone notices. 
 
-![Octodad walking across a living room, while his daughter asks "Dad where do rainbows come from?"](/static/img/img_0134-2.png)
+![Octodad walking across a living room, while his daughter asks "Dad where do rainbows come from?"](/static/img/img_0134-2.webp)
 
 By making its controls so complex and sensitive sensitive, it draws your attention to the simplest actions we take for granted and creates inevitable self-consciousness in those actions. And since your awareness of your own clumsy body is so heightened, it follows that others must be so focused on you too, right? Right? 
 

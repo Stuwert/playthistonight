@@ -10,7 +10,7 @@ platforms:
   - PS3
 negative: true
 ---
-![A necromorph facing down the player.](/static/img/f5c66881-d177-4ef8-affe-3986883a57f0.jpeg)
+![A necromorph facing down the player.](/static/img/f5c66881-d177-4ef8-affe-3986883a57f0.webp)
 
 
 Score: 2/5
@@ -26,7 +26,7 @@ The game starts with something not usually found in arcade-inspired games: a goo
 
 The game’s ten levels shift the player between different point-of-view characters, most of whom are part of a core team of survivors. They’re all flat archetypes: McNeill (good cop) is there to be inoffensive. Weller (gruff cop) is there to tell Lexine “Sorry, sweetheart, but you can’t come with us ” so that McNeill can stick up for her. Lexine (“sweetheart”) is love-interested in McNeill. As for Eckhardt (company executive), I jotted down “definitely evil” as soon as we met and I never needed to update my notes on him after that. There are some other figures who drift into the plot as needed, but they’re all cannon fodder, usually dispatched within minutes of arriving. It conditioned me not to emotionally invest in any “new friends”, and to not be scared for them either.  When a fresh character’s head rolled past me in a later chapter, I just laughed.  
 
-![Lexine telling the other characters “Would you two stop arguing for God’s sakes?”](/static/img/7d537d74-310d-477d-90b2-a095701f4092.jpeg "They’re not a fun group.")
+![Lexine telling the other characters “Would you two stop arguing for God’s sakes?”](/static/img/7d537d74-310d-477d-90b2-a095701f4092.webp "They’re not a fun group.")
 
 While the details of the story are uninteresting, the execution holds a lot of promise. The game’s camera, rather than scanning smoothly like a classic rail shooter or Disneyland automoton attraction, mimics a terrified human motion. It bobs to accommodate a strained, rapid breath. It looks forward, then snaps back; what was that darting shadow? A necromorph knocks your character to the ground, creating something rare in a game, an upward perspective from a flat back. In a story bereft of interest, the camera operator is giving their all. 
 

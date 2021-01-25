@@ -40,25 +40,25 @@ They’re either games that I felt I would never put in the top-5, but wanted to
 
 # 5. Fall Guys
 
-![](/static/img/screenshot-5-.png "Falling Fall Guy")
+![](/static/img/screenshot-5-.webp "Falling Fall Guy")
 
 Certain games are games you can carry a conversation while enjoying. In baseball vernacular, it’s what you’d call a pastime. *Falls Guys* is a pastime for me. It’s a game where you control a bean character/person through an obstacle course (think Wipeout meets American Ninja Warrior). Starting with 60 competitors, you either race to the finish or try to be the last one(s) standing. Each level waves of opponents are eliminated until only 1 player remains. 
 
 Mechanically, it feels almost possible to play *Fall Guys* with only two commands: move and jump. Before I figured out the controls I was mostly limited to those anyway. There are some occasions where you’re have to dive or cling to a wall, though those come up less frequently. Its simplicity means it’s easy to learn, but there are enough moves that you can develop skill while you play. Dan, my frequent playing collaborator is much more adept with controls so he often makes it into later rounds while I failed early and often.
 
-![](/static/img/screenshot-8-.png "Fall Guys Running")
+![](/static/img/screenshot-8-.webp "Fall Guys Running")
 
 Even when losing, *Fall Guys* is a fun game to spectate and play with friends.  It’s easy enough to have idle conversations while the game is ongoing.  Playing the game meant staying in touch and forming new, fun memories while talking about how our weeks went. 
 
 I would like to see more battle royale games with concepts outside of shooting. This is where the success of games like *Fortnite* has a positive impact on the overall industry. Because *Epic*, the makes of *Fortnite*, also own *Unreal Engine* (a premier game engine), many of the toolsets used to create royale games have become accessible to teams with fewer resources. But *Fall Guys* simplicity masks design complexity that isn’t obvious to see. Games that might be fun in person can drag or feel unfair against an anonymous (if adorable) hoard of enemies. Finding an engaging combination of speed, multi-player elimination, and skill seems like a fun area for future games to explore. 
 
-![](/static/img/screenshot-7-.png "Overview of the Course")
+![](/static/img/screenshot-7-.webp "Overview of the Course")
 
 Playing over the summer, when online games were the main ways I interacted with friends, *Fall Guys* presented a genuine way for me to connect. It's complex and active enough to be engaging but not so complex as to become a game of silent intensity, without discussion or chatter.
 
 # 4. Wavelength
 
-![](/static/img/img_0079.jpg "Wavelength, Screen Closed")
+![](/static/img/img_0079.webp "Wavelength, Screen Closed")
 
 In a pandemic-free world, *Wavelength* might have been my game of the year. It was the first game I brought with me to a company retreat. I played it again a month later at a going away party. Each time it brought hilarity and insight. It was a game that held up even though we would play for hours each time. 
 
@@ -66,7 +66,7 @@ For a party game, *Wavelength* is surprisingly hard to explain. It has a similar
 
 This might be easy if the secret is towards one end or the other.  You might say sauna, if it’s on the hot side, or igloo if it’s on the cold side. But what if it’s on the 60% hot. What do you say then? You might say “lukewarm coffee” but will players think that’s actually 60% cold, instead? The uncertainty leads to deep conversations about how players see the world, and the reveal at the end of the round ends with drama as the screen is flipped back to show whether guessers were wrong or right.
 
-![](/static/img/img_0078.jpg "Wavelength, Screen Opened")
+![](/static/img/img_0078.webp "Wavelength, Screen Opened")
 
 The other thing that surprised me about *Wavelength* was how often we’d ditch the rules and play collaboratively, taking turns trying to get the group to guess, rather than competing in teams. I usually dislike “conversation starter” type games immensely, because I think they’re feeble attempts at faking social interaction without a lot of support from the “game” in terms of how that’s supposed to happen.  *Wavelength* is the right amount of structure (it’s clear what the clue-giver is supposed to do, and what the clue-guessers are supposed to do), with uncertainty (who knows what anyone else is thinking) to bring excitement and insight.  
 
@@ -74,7 +74,7 @@ The other thing that surprised me about *Wavelength* was how often we’d ditch 
 
 *Good Sudoku* almost didn’t make the list. It’s a re-imagining of Sudoku by Zach Gage and Jack Schlesinger. It contains a lot of UI and UX tweaks that make it easier to see some of the core concepts of Sudoku. At the bottom of the screen there is a number pad and some notation options. The notation options allow you to mark, highlight, or cross out numbers on the grid. If you tap on a number by itself, it will shade the other areas of the board, illuminating patterns more easily.
 
-![Good Sudoku board in yellow, with #2 selected, some are crossed out, some numbers are selected.](/static/img/screenshot-2020-12-11-at-8.00.00-am.png "Good Sudoku Display")
+![Good Sudoku board in yellow, with #2 selected, some are crossed out, some numbers are selected.](/static/img/screenshot-2020-12-11-at-8.00.00-am.webp "Good Sudoku Display")
 
 I’ve had an off-and-on relationship with this game. When it was released over the summer I played it non-stop. The combination of new notation system, haptic feedback when it auto-filled a space, and the bright colors made me feel fast while playing the game. It’s take on teaching the rules helped me learn new concepts and got me excited about a world of Sudoku puzzles I hadn’t thought of before.
 
@@ -88,7 +88,7 @@ For the moments when I felt stressed and trapped, when I wanted **anything else*
 
 # 2. Lonely Mountains: Downhill
 
-![Crossing the checkpoint of a downhill ride with a personal best time displaying.](/static/img/checkpoint.jpg "Lonely Mountains: Downhill")
+![Crossing the checkpoint of a downhill ride with a personal best time displaying.](/static/img/checkpoint.webp "Lonely Mountains: Downhill")
 
 I wrote an entire review of this, so it shouldn’t come as a surprise that *Lonely Mountains* made it almost to the peak, as it were. It’s a great game. [Go read the review](https://playthistonight.com/posts/lonely-mountains-downhill-a-sublime-ride/). Listening to podcasts while playing this game became an important part of my daily routine for a few months.   The game gave me the opportunity to develop a skill, riding down the mountain.  It did so through precise feedback that helped me learn and grow in its systems while my brain pondered and turned thoughts over. The game’s rigorous implementation of feedback created an immersive experience. 
 

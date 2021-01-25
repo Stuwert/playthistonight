@@ -17,7 +17,7 @@ writingType: review
 
 Many games, classic and modern are empowerment fantasies, putting the player in the role of a capable hero shouldering a mighty responsibility. I love that! Empowerment is a comforting, familiar fantasy. But what I admire about Part Time UFO is that it isn’t interested in empowerment. Rather, it makes you feel different, and finds joy in the mundane. The world won’t be saved for your involvement, but it will be made better. One odd job at a time.
 
-![Part time UFO reading a magazine in its apartment.](/static/img/img_1512-2.jpeg "The dog is optional, if you could ever say that.")
+![Part time UFO reading a magazine in its apartment.](/static/img/img_1512-2.webp "The dog is optional, if you could ever say that.")
 
 Available Here: [iOS](https://apps.apple.com/us/app/part-time-ufo/id1279621108), [Android](https://play.google.com/store/apps/details?id=jp.halegg.nazcaf&hl=en_US)
 
@@ -33,7 +33,7 @@ Part Time UFO is joyfully tactile mobile game. Action is simple. and the flying 
 
 I also dig the supportive atmosphere. All of the characters you help are rooting for you, and it makes for a lovely, laid back play experience. Excitement derives from trying to do your best in adverse circumstances, not from adversarial characters. It can be tough to try to reassemble wobbly museum sculptures or stack fidgety cheerleaders in a pyramid, but quick levels means mistakes give way to iteration and improvement. If you don’t do well the first time, the game and its characters never stop supporting you, and they’re positively jubilant when you’re successful. Part Time UFO is a game that values sincere effort and a job well done.
 
-![A stack of cheerleaders making a lopsided pyramid. An man is stabilizing the center, looking uncomfortable. ](/static/img/img_1440-2.jpeg "You stack all kinds of things.")
+![A stack of cheerleaders making a lopsided pyramid. An man is stabilizing the center, looking uncomfortable. ](/static/img/img_1440-2.webp "You stack all kinds of things.")
 
 ## Your First Game.
 

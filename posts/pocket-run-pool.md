@@ -16,7 +16,7 @@ Because phone games often lack the same tactility that the physical world presen
 
 ## Why I Love Pocket Run Pool
 
-![](/static/img/img_5121.jpg)
+![](/static/img/img_5121.webp)
 
 Pocket Run Pool uses generous interface elements, sharp audio/haptic feedback, and a clever interface trick to reinforce the concept that you are “playing pool”.
 

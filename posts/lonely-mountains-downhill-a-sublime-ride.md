@@ -21,7 +21,7 @@ The focus of *Lonely Mountain* is on the player’s ability to navigate the diff
 
 ## Going Downhill
 
-![A player on a bike going through a checkpoint](/static/img/checkpoint.jpg "Checkpoint")
+![A player on a bike going through a checkpoint](/static/img/checkpoint.webp "Checkpoint")
 
 There are some clever, subtle designs that highlight how *Downhill* helps players achieve game-feel, without pushing them over the edge to get there.  When you first encounter a new course on a mountain (i.e. “explorer” mode), it’s pretty much all guardrails.  There are no objectives or achievements to unlock.  There are roughly 7 gates (save checkpoints) per course that you have to cross to unlock the next set of goals for the course, but no time limits to encounter.  This sets up a sort of exploratory mode for the player, where you can make your way down the mountain, trying new things out, but with the main goal of getting a feel for the course.  It’s also not so exploratory that someone like me (who likes guardrails) gets lost. 
 
@@ -31,7 +31,7 @@ There are other small touches that make the game seem to sing as well.  The soun
 
 ## This Flow Thing
 
-![A player drifting with dirt colored voxels spitting out of the back tire.](/static/img/drift.jpg "Drifting")
+![A player drifting with dirt colored voxels spitting out of the back tire.](/static/img/drift.webp "Drifting")
 
 The sparsity of *Lonely Mountains* does a good job of reinforcing the fact that I was alone, playing a video game.  And in the year 2020, where social/political unrest run rampant and a pandemic is completely out of control, being alone playing a video game (a game that reminded me I was alone), feels indulgent and almost pointless.
 
@@ -50,7 +50,7 @@ The literal motion of my arm through the air.  Feeling my muscles tense and rele
 
 ## Doing Stuff is Hard
 
-![A player and bike being thrown into the rocks with red voxels spilling everywhere.](/static/img/crash.jpg "Crashing")
+![A player and bike being thrown into the rocks with red voxels spilling everywhere.](/static/img/crash.webp "Crashing")
 
 One was the act of doing the thing, and two was the act of learning to do the thing well.  Doing something a lot means a lot of failure.  As a pitcher in high school, I would throw the ball to a place I didn’t exactly intend.  It’s a reminder that getting our bodies to do a specific thing we want is not automatic.  In fact, it is frequently difficult.  I cannot tell you how many times after practice I would go home with a sore arm, or end a game disappointed with the results.  But I will also never forget the time I worked with my pitching coach to get the correct shoulder motion to increase the velocity of the ball when I threw it.  
 

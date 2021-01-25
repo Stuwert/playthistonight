@@ -26,7 +26,7 @@ My initial reaction to *Good Sudoku* was interest and elation.  As one comentor 
 
 There’s a few key pieces of UX that Good Sudoku does really well, that differentiate it from other games. The notation system for *Good Sudoku* is inspired, and it makes it easy to think about, see, and represent my thoughts on the game screen.  
 
-![A good sudoku house with regular, bold, and crossed out notations.](/static/img/img_0238-2.jpeg "Good Sudoku Notation")
+![A good sudoku house with regular, bold, and crossed out notations.](/static/img/img_0238-2.webp "Good Sudoku Notation")
 
 There are three main ways to note items in *Good Sudoku*: note a number in a box, bold the number, cross out the number. Each of these representations feels at once easy to understand, but also extends the metaphor of paper, so that using it is also easy. It makes working across the board fluid. Filling out the squares and seeing each of the potential spots is quick. It means you can get to the crunchy parts of the game, and hopefully solve them.
 
@@ -44,7 +44,7 @@ The speaks to feedback being a core challenge that newer players have with puzzl
 
  I noticed I cared more and more about the speed I executed moves and I felt increasingly limited by my inability to find Y-wings and X-wings. The games somehow felt boring because I would quickly solve the first half a puzzle and then insurmountable when I couldn’t get any further. So I stopped. The conclusion I came to is that *Good Sudoku* ends up as an exercise in pattern matching (searching for the right tool and deploying it), than the feeling of experimentation and discovery I appreciate about puzzles. I learned all the core concepts but I didn’t feel like I deployed them in interesting ways, more that I was hunting and pecking for the “right” thing to do.
 
-![A screenhsot of good sudoku with 6 highlighted.](/static/img/img_0240.jpeg "An Example of a Highlighted Six")
+![A screenhsot of good sudoku with 6 highlighted.](/static/img/img_0240.webp "An Example of a Highlighted Six")
 
 It’s important to note, here, that there are a number of settings that can be customized and turned off, here. It’s possible to turn every game into a “Classic” edition but I’m analyzing the game from the default perspective as I think it’s the most productive to discuss design intent. 
 
@@ -62,17 +62,17 @@ If *Good Sudoku* rekindled my interest in sudoku and puzzles, *Cracking the Cryp
 
 If *Good Sudoku* takes a lot of modern commercial game design concepts and applies them to the puzzle, *Cracking the Cryptic* appreciates the design concepts of the rules of sudoku. How “setters” can use rules and clever number placement to give the smallest possible number of starting clues to unfold an entire puzzle. There are also a number of iOS/Android/PC games that take different twists on the sudoku format and pull them into interactive forms. These include Chess Sudoku, which adds chess moves to sudoku blocking; killer sudoku, which adds special boxes that restrict numbers based on sum, among others. 
 
-![The Chess Sudoku Screen with 9 Highlighted in the 3rd house (top left).](/static/img/img_0241.jpeg "The Chess Sudoku Screen with 9 Highlighted")
+![The Chess Sudoku Screen with 9 Highlighted in the 3rd house (top left).](/static/img/img_0241.webp "The Chess Sudoku Screen with 9 Highlighted")
 
 Comparing the applications to *Good Sudoku* is somewhat unfair. From a pure UX perspective, *Cracking the Cryptic* is much less friendly than *Good Sudoku*. There’s the base challenge that the targets for selecting numbers are small and in a row, so it’s easy to hit the wrong number accidentally. The two numeric notation systems aren’t well explained and don’t play well with one another. I figured out the best way to use them by watching the YouTube channel. 
 
-![A house is shown with the side-by-side notation and positional notation displayed.](/static/img/img_0244-2.jpeg "The two types of notation are incompatible")
+![A house is shown with the side-by-side notation and positional notation displayed.](/static/img/img_0244-2.webp "The two types of notation are incompatible")
 
 The hint system feels like it’s from a decade ago, compared to *Good Sudoku*’s.  Ask for a hint in *Chess Sudoku* (the game I’m playing at the moment) and a text box will pop up with a series of potential explanations. This might be helpful at the start of the game but will become unusable if you’ve taken a different path through the system. The hint system in *Good Sudoku* uses machine learning to figure out where you’re at, your path to the solution, and then gives you a single technique (along with an explainer) to keep you moving down the puzzle. The hint system in *Good Sudoku* is absolute magic. 
 
 There are also some highlighting tweaks that I appreciate. For one, when I select a number, it will highlight the associated notations in boxes for me. This helps me see the board when it gets filled up without making it blindingly obvious where a row or column elimination might be, so I still get to feel smart when I make a simple discovery. It also allows you to highlight multiple boxes and then shows you the set of boxes that are covered up by both. This is helpful for seeing combinations that might be unlocked at harder parts in the game. 
 
-![The 7 is highlighted. Squares with 7s are orange and squares with the 7 noted are yellow.](/static/img/img_0243.jpeg "An example of highlighting with Chess Sudoku")
+![The 7 is highlighted. Squares with 7s are orange and squares with the 7 noted are yellow.](/static/img/img_0243.webp "An example of highlighting with Chess Sudoku")
 
 For all the gaps and inconsistencies , I’ve spent more time playing *Chess Sudoku* than I’ve spent playing *Good Sudoku* in the last month. The counterpoint to the challenges with *Chess Sudoku*’s notation system is that because it isn’t opinionated it feels more like a set of coloring tools that I can use however I want. This is inefficient for a beginner, who likely wants to be told the most efficient way to use notations, but is somewhat freeing where I’m at, when I want to experiment with how I think about the game. Part of the fun of these apps is in the “playing along”, or getting the opportunity to use similar techniques that you see the hosts of *Cracking the Cryptic* play in the games that you play.  Playing with the associated apps feels fun because of their connection to the YouTube channel, and I’m not sure I would enjoy them as much without it.
 

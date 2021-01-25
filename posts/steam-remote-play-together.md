@@ -5,7 +5,7 @@ date: 2020-05-05T18:18:33.648Z
 summary: "A new technology that solves some of online multiplayer's inherent problems. "
 writingType: article
 ---
-![Screenshot of Overcooked! Chefs preparing food on a wooden ship. ](/static/img/img_0420-2.png "Working together is good for your mental health.")
+![Screenshot of Overcooked! Chefs preparing food on a wooden ship. ](/static/img/img_0420-2.webp "Working together is good for your mental health.")
 
 Social distancing is an important tool for fighting the Covid-19 pandemic, but it’s costly for our emotional wellbeing. I'm introverted enough to schedule alone-time into my calendar, but I still need *some* social interaction, at least some of the time. But when we can't meet up in person, when we can't grab a coffee, or go see a movie, what do we do? How can we take time to intentionally connect with others?
 
@@ -28,7 +28,7 @@ I recently started playing *Lovers In A Dangerous Spacetime* with a friend who l
 
 ## What Are Its Limitations?
 
-![Screenshot of Lovers In A Dangerous Spacetime. Cute animals back up as reactor explodes. ](/static/img/img_0418-2.jpeg "It's a useful technology, but not a flawless one.")
+![Screenshot of Lovers In A Dangerous Spacetime. Cute animals back up as reactor explodes. ](/static/img/img_0418-2.webp "It's a useful technology, but not a flawless one.")
 
 Remote Play Together is essentially a video stream from the host computer to your friends' devices, and like any video stream, lag and stuttering are a risk. Most of my games have been stable, but your group's internet connection is going to be a factor in how playable your game is. 
 
