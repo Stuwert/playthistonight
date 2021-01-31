@@ -10,7 +10,7 @@ writingType: review
 ---
 I love board games but I don't play a ton of them. Getting together with friends to play looks something like playing a game or two after work or getting together for a couple of hours on a weekend. I try to find a few, streamlined games that are quick to learn and pack a punch in terms of experience instead of chasing all of the new hotness or finding expansive experiences. This means games like *Modern Art* spend more time at the table than a beautiful and complex game like *Root*.
 
-![]()
+![The Modern Art Box Cover](/static/img/img_0343.jpeg "The Modern Art Box Cover")
 
 *Modern Art*, the game I'm talking about today, streamlines the auction mechanic to its purest form. Each player takes on the role of a curator for a famous museum (with a generic name) trying to collect modern paintings. This metaphor doesn't quite hold up as you spend more focus selling art than you do collecting it, but it sets the mood and theme. Each round players take turns auctioning different pieces of art by one of five modern artists. The goal of the game is to sell each piece of art for the highest amount possible by manipulating the market so that the artists you collect are the most popular and thus the most valuable.
 
