@@ -52,6 +52,8 @@ To me, auction games are a lot like deck-building games in that there aren’t m
 
 The art world is a perfect setting because it encapsulates the arbitrary feeling of the monetary value of art, with the cutthroat way that the art values have a direct impact on your ranking in the game. It also encapsulates the capricious swings that can occur when an artist you were pumping up suddenly has their value disappear.
 
+![The card is a piece by Manuel Carvalho and is an open auction card.](/static/img/img_0348.jpeg "One of the Example Cards")
+
 It’s also possible that a different economic setting could map onto these mechanics, but the art framing helps create a light, disconnected mood. And the art itself is fun to look at. In many of the games, I played players would tell a story about the art as they put it up for auction. Many versions of *Modern Art* have been released and each one uses a different set of artwork to represent. The one I have, by CMON games, features big cards with images that bleed to the edge. The cards feel like you can hold them in two hands which adds weight and heft to them. The borders make them feel expansive and give them presence.
 
 ## Find the Right Setting and Play the Game!
