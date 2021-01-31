@@ -48,6 +48,8 @@ This isn’t to say social pressure disappears from the game. There are still op
 
 To me, auction games are a lot like deck-building games in that there aren’t many different ways you can dress them up to change the shape of the game. To that end, I think *Modern Art* marries the theme of the art world with the craft of the auction mechanics to create the defining entry in the auction genre.
 
+![The text says "New York Art Gallery" and the design of the building looks like Guggenheim New York.](/static/img/img_0345.jpeg "The \"New York Art Gallery\" player cover.")
+
 The art world is a perfect setting because it encapsulates the arbitrary feeling of the monetary value of art, with the cutthroat way that the art values have a direct impact on your ranking in the game. It also encapsulates the capricious swings that can occur when an artist you were pumping up suddenly has their value disappear.
 
 It’s also possible that a different economic setting could map onto these mechanics, but the art framing helps create a light, disconnected mood. And the art itself is fun to look at. In many of the games, I played players would tell a story about the art as they put it up for auction. Many versions of *Modern Art* have been released and each one uses a different set of artwork to represent. The one I have, by CMON games, features big cards with images that bleed to the edge. The cards feel like you can hold them in two hands which adds weight and heft to them. The borders make them feel expansive and give them presence.
