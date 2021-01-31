@@ -22,6 +22,8 @@ This is the opposite of a game like *[Food Chain Island](https://playthistonight
 
 There are four different types of auctions (Open, One Offer, Hidden, and Fixed Price). Technically there is a fifth, but it amounts to auctioning 2 pieces of art off instead of 1, so it’s a level of intrigue I’ll let you discover on your own. Each type of auction is straightforward and easy to understand, adding variety without much complexity.
 
+![The text has the "Price Tag" auction and the art is by Ramon Martins, titled Tete.](/static/img/img_0346.jpeg "An example art border.")
+
 In the single bid scenario, you go around in a circle once, with each player either raising the previous bid or stepping out of the bid, ending with the player who called the auction. Each player has time to think or gracefully bow out, and the person who played the card is in full control of the situation.
 
 In the hidden bid scenario, everyone selects an amount of money, hides it in their hand, and then reveals it all at once. The highest bidder pays the cash and takes the art. Once again it’s a discrete, single bid. You decide the amount you’re willing to pay, and you put it in.
@@ -29,6 +31,8 @@ In the hidden bid scenario, everyone selects an amount of money, hides it in the
 In the fixed price bid situation, the auctioneer names a price. Then each person goes around the circle and decides to buy it or not. If they agree to pay the money, they pay the auctioneer and get the piece, no one else has an opportunity. This one also has a number of guardrails here for the auctioneer. If they’re nervous about what amount to spend, they can choose the highest reasonable number they would be comfortable putting down. Or, they can risk it and try to see how much money they can wrench from their opposition’s hands.
 
 The final, open auction format, is the loudest and most boisterous. It’s what we think of when we think auction. Players bid each other up until the auctioneer decides it’s over. But when the mood gets set by the relative calm of the other rounds, the open auction tends to be less boisterous and more of a delightful diversion. Like a hum that slowly increases in a library only to be shushed by the librarian and back to quietude.
+
+![Artist value layout with the top two rows filled with corresponding tokens.](/static/img/img_0349.jpeg "Example Artist Value Layout")
 
 But the payout system holds the shifty magic of the game. The round ends whenever the 5th piece of any artist has been put up for auction. Then, each artist is ranked for that round based on the number of pieces sold. The artist with the most work sold adds 30k to their value, the second most is 20k, and the first most add 10k, the remaining artists get nothing. Players then exchange their art for the value of the artist. This creates tension within the round (which artist will take the top spot?) and throughout the game (how can I add to the cumulative value to the art in my hand?). This leads to moments of delight when an artist spikes in value or disappointment when a piece of art you spent a lot on becomes worthless.
 
