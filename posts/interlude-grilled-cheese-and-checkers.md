@@ -6,6 +6,7 @@ summary: Reflecting on the life and my relationship with my grandparents through
 platforms:
   - Tabletop
 writingType: article
+instaImage: IMG_0453-2.jpeg
 ---
 Why read reviews of games? Most of the reviews people read will not result in a game being purchased or played. In fact, most reviews exist within a sphere of the internet where people who read the reviews identify as gamers and read them to keep up to date with the latest news and opinions about the hobby. 
 

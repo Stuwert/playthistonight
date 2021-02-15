@@ -493,3 +493,18 @@ pre[class*="language-"] {
   background-color: var(--link-color);
   color: var(--brand-color);
 }
+
+.insta-flex {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+}
+
+.insta {
+  flex-basis: 20%;
+  max-width: 20%;
+  height: auto;
+  width: auto;
+  align-self: flex-end;
+}
