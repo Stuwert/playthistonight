@@ -3,3 +3,18 @@ node_modules/
 package-lock.json
 .vscode/
 .DS_Store
+
+# dependencies installed by npm
+node_modules
+
+# build artefacts
+public
+src/css
+social
+
+# secrets and errors
+.env
+.log
+
+# macOS related files
+.DS_Store

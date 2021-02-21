@@ -129,24 +129,59 @@ module.exports = function (eleventyConfig) {
     markdownIt(options).use(markdownItAnchor, opts)
   );
 
+  eleventyConfig.addPlugin(socialImages);
+  eleventyConfig.addPlugin(syntaxHighlight);
+  eleventyConfig.addPlugin(pluginRss);
+
+  eleventyConfig.addWatchTarget("./src/sass/");
+
+  eleventyConfig.addPassthroughCopy("./src/css");
+  eleventyConfig.addPassthroughCopy("./src/fonts");
+  eleventyConfig.addPassthroughCopy("./src/img");
+  eleventyConfig.addPassthroughCopy("./src/favicon.png");
+
+  eleventyConfig.addShortcode("year", () => `${new Date().getFullYear()}`);
+  eleventyConfig.addShortcode("packageVersion", () => `v${packageVersion}`);
+
+  eleventyConfig.addFilter("slug", (str) => {
+    if (!str) {
+      return;
+    }
+
+    const regex = emojiRegex();
+    // Remove Emoji first
+    let string = str.replace(regex, "");
+
+    return slugify(string, {
+      lower: true,
+      replacement: "-",
+      remove: /[*+~·,()'"`´%!?¿:@\/]/g,
+    });
+  });
+
+  /* Markdown Overrides */
+  const markdownLibrary = markdownIt({
+    html: true,
+  }).use(markdownItAnchor, {
+    permalink: true,
+    permalinkClass: "tdbc-anchor",
+    permalinkSymbol: "#",
+    permalinkSpace: false,
+    level: [1, 2, 3],
+    slugify: (s) =>
+      s
+        .trim()
+        .toLowerCase()
+        .replace(/[\s+~\/]/g, "-")
+        .replace(/[().`,%·'"!?¿:@*]/g, ""),
+  });
+  eleventyConfig.setLibrary("md", markdownLibrary);
+
   return {
-    templateFormats: ["md", "njk", "html", "liquid"],
-
-    // If your site lives in a different subdirectory, change this.
-    // Leading or trailing slashes are all normalized away, so don’t worry about it.
-    // If you don’t have a subdirectory, use "" or "/" (they do the same thing)
-    // This is only used for URLs (it does not affect your file structure)
-    pathPrefix: "/",
-
-    markdownTemplateEngine: "liquid",
-    htmlTemplateEngine: "njk",
-    dataTemplateEngine: "njk",
     passthroughFileCopy: true,
     dir: {
-      input: ".",
-      includes: "_includes",
-      data: "_data",
-      output: "_site",
+      input: "src",
+      output: "public",
     },
   };
 };
