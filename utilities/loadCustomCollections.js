@@ -1,17 +1,16 @@
-const customPlatforms = [ "Nintendo Switch", "Windows", "Mac", "Apple Arcade" , "iOS", "PS4", "PS5", "Xbox", "Android", "Tabletop", "Stadia", "Luna", "Wii", "Wii U", "PS3", "Nintendo DS", "PS Vita", "Xbox One", "Xbox Series S/X", "Steam" ];
+const customPlatforms = ['Nintendo Switch', 'Windows', 'Mac', 'Apple Arcade', 'iOS', 'PS4', 'PS5', 'Xbox', 'Android', 'Tabletop', 'Stadia', 'Luna', 'Wii', 'Wii U', 'PS3', 'Nintendo DS', 'PS Vita', 'Xbox One', 'Xbox Series S/X', 'Steam'];
 const verticals = ['piledriver'];
 
 module.exports = (eleventyConfig) => {
-
 /**
  * Stuff about Tags
- *  
- */  
-eleventyConfig.addCollection("tagList", function(collection) {
-    let tagSet = new Set();
-    collection.getAll().forEach(function(item) {
-      if( "tags" in item.data ) {
-        const tags = item.data.tags.filter((item) => !["all", "nav", "post", "post"].includes(item));
+ *
+ */
+  eleventyConfig.addCollection('tagList', (collection) => {
+    const tagSet = new Set();
+    collection.getAll().forEach((item) => {
+      if ('tags' in item.data) {
+        const tags = item.data.tags.filter((item) => !['all', 'nav', 'post', 'post'].includes(item));
 
         for (const tag of tags) {
           tagSet.add(tag);
@@ -26,30 +25,23 @@ eleventyConfig.addCollection("tagList", function(collection) {
   /**
    * Stuff about Platforms
    */
-  customPlatforms.forEach( (platform) => {
-    eleventyConfig.addCollection(platform, (collectionList) => {
-      return collectionList.getAll().filter( ({ data: { platforms } }) => {
-        if (!platforms) return false;
+  customPlatforms.forEach((platform) => {
+    eleventyConfig.addCollection(platform, (collectionList) => collectionList.getAll().filter(({ data: { platforms } }) => {
+      if (!platforms) return false;
 
-        return platforms.includes(platform);
-      })
-    })
+      return platforms.includes(platform);
+    }));
   });
 
-  eleventyConfig.addCollection("platformList", () => customPlatforms);
-  
+  eleventyConfig.addCollection('platformList', () => customPlatforms);
+
   /**
    * Stuff About Verticals
    */
-  
-  verticals.forEach( (vertical) => {
-    eleventyConfig.addCollection(vertical, (collectionList) => {
-      return collectionList.getAll().filter( ({ data: { vertical: articleInVertical } }) => {
-        return vertical === articleInVertical;
-      })
-    })
-  })
 
-  eleventyConfig.addCollection("verticalList", () => verticals);
+  verticals.forEach((vertical) => {
+    eleventyConfig.addCollection(vertical, (collectionList) => collectionList.getAll().filter(({ data: { vertical: articleInVertical } }) => vertical === articleInVertical));
+  });
 
-}
+  eleventyConfig.addCollection('verticalList', () => verticals);
+};

@@ -129,7 +129,7 @@ module.exports = function (eleventyConfig) {
     markdownIt(options).use(markdownItAnchor, opts)
   );
 
-  eleventyConfig.addPlugin(socialImages);
+  // eleventyConfig.addPlugin(socialImages);
   eleventyConfig.addPlugin(syntaxHighlight);
   eleventyConfig.addPlugin(pluginRss);
 
