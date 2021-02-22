@@ -1,5 +1,5 @@
 ---
-title: "Fox in the Forest: A Delicate Dance"
+title: "The Fox in the Forest: A Delicate Dance"
 author: Stuart Urback
 date: 2021-02-22T06:28:44.229Z
 summary: Fox in the Forest is one of my favorite two-player card games.
