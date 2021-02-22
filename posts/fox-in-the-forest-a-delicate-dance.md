@@ -43,7 +43,7 @@ The 7 alters the scoring of the game and gives opportunities for each player to 
 
 ## Shoot the Moon
 
-Hearts scoring works a bit differently. In the game you're trying to avoid collecting heart-suited cards, the fewer you get, the better. However, if you happen to collect **all the** heart-suited cards instead of losing, you will win and the other players in the deal will lose. (This is an oversimplification. Here are the full heart rules for clarification:) This is called “Shooting the Moon” because it's so risky and unlikely to pull off. But when you do it feels like a huge success. 
+Hearts scoring works a bit differently. In the game you're trying to avoid collecting heart-suited cards, the fewer you get, the better. However, if you happen to collect **all the** heart-suited cards instead of losing, you will win and the other players in the deal will lose. (This is an oversimplification. Here are the full heart rules for clarification: https://bicyclecards.com/how-to-play/hearts/) This is called “Shooting the Moon” because it's so risky and unlikely to pull off. But when you do it feels like a huge success. 
 
 *Fox in the Forest* captures the feeling of shooting the moon without replicating the exact rule. Because you can win a deal by having the fewest won tricks (0-2), forcing your opponent to win trick after trick can feel like shooting the moon. You're pushing them further and further, knowing that if you slip up once, it will fall apart and your opponent will win. Mimicking the feel of a game I'd rare, so when it happens I savor and appreciate it.
 
