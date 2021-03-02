@@ -1,0 +1,14 @@
+<nav class="flex-break ">
+  <ul>
+    {# {%- for nav in collections.nav | dataSort('priority') -%}
+      <li>
+        <a href="{{ nav.url | url }}" {% if nav.url == page.url %} data-current="current item" {% endif %}>{{ nav.data.navtitle }}</a>
+      </li>
+    {%- endfor -%} #}
+    <li>
+      <a href="/reviews">
+        <button>Find a Game</button>
+      </a>
+    </li>
+  </ul>
+</nav>

@@ -1,0 +1,40 @@
+--- 
+  layout: base-post.njk 
+  section: post 
+---
+<h1>{{ title }}</h1>
+
+<div class="flex-grid">
+
+  <div class="flex-grid__item flex-grid__item--no-hover flex-grid__item--full-width">
+    <p>
+      <small>
+        <time datetime="{{ date | machinedate }}">{{ date | readableDate }}</time>
+      by
+      {{ author }}
+      </small>
+    </p>
+
+    {{ layoutContent | safe }}
+
+    <hr/>
+
+    <p>
+      <small>
+        <time datetime="{{ date | machinedate }}">Published:
+            {{ date | readableDate }}</time>
+      </small>
+    </p>
+
+    <p>Want to get notified when a new article drops?</p>
+    <iframe 
+      src="https://playthistonight.substack.com/embed" 
+      width="480" 
+      height="320"
+      frameborder="0" 
+      scrolling="no"
+    >
+    </iframe>
+  </div>
+</div>
+</article>

@@ -1,0 +1,35 @@
+---
+layout: base.njk
+section: page
+permalink: /insta/index.html
+---
+
+{{ layoutContent | safe }}
+
+{% set postslist = collections.posts %}
+<div class="flex-grid flex-grid--wrap">
+	{% for post in postslist | reverse %}
+		<a href="{{ post.url | url }}" {% if post.url == url %} data-current="current item" {% endif %} class="insta-flex flex-grid__item flex-grid__item--full-width">
+			<div>
+                <h3 class="home-title">
+                    {% if post.data.title %}
+                        {{ post.data.title }}
+                    {% else %}
+                        Untitled
+                    {% endif %}
+                </h3>
+                <p>
+                    <time datetime="{{ post.date | machinedate}}">
+                        <small>
+                            {{ post.date | readableDate }}
+                        </small>
+                    </time>
+                </p>
+            </div>
+            {% set imageSource = "/static/img/" + post.data.instaImage if post.data.instaImage else (post.data.content | getFirst("img")).src %}
+            {% if imageSource %}
+                <img class="insta" src="{{imageSource}}" alt="{{image.alt}}" />
+            {% endif %}
+		</a>
+	{% endfor %}
+</div>
