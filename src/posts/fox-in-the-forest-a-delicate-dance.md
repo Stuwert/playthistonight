@@ -8,7 +8,6 @@ platforms:
 writingType: review
 ---
 *Fox in the Forest* is a trick taking game based on the classic “Hearts”, shifted from a 3-4 player game to a focus on two players. The structure of trick taking games comes from the restriction that you have to “follow suit”, i.e. play a card in the same suit as the other. The game is played over the course of a number of deals. With each player winning points based on how many tricks they win each round. First to 21 points wins. 
----
 
 ![The Title "The Fox in the Forest" sits above a Fox, sitting proudly](/static/img/img_0475.jpeg "The Fox in the Forest Game Cover")
 
