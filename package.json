@@ -3,13 +3,13 @@
   "version": "1.0.0",
   "description": "A website about games.",
   "scripts": {
-    "build": "npm-run-all sass npx eleventy",
-    "watch": "npx eleventy --watch",
-    "debug": "DEBUG=* npx eleventy",
-    "eleventy:dev": "npx eleventy --serve --watch",
+    "build": "npm-run-all sass eleventy",
+    "watch": "eleventy --watch",
+    "debug": "DEBUG=* eleventy",
+    "eleventy:dev": "eleventy --serve --watch",
     "dev": "npm-run-all sass --parallel eleventy:dev sass:local",
-    "sass:local": "npx node-sass -w src/sass/ -o _site/css/",
-    "sass": "npx node-sass src/sass/ -o _site/css/"
+    "sass:local": "node-sass -w src/sass/ -o _site/css/",
+    "sass": "node-sass src/sass/ -o _site/css/"
   },
   "repository": {
     "type": "git",
