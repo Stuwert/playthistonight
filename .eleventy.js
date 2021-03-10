@@ -11,6 +11,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSEO, require("./src/_data/metadata.json"));
 
+  eleventyConfig.addWatchTarget("./src/sass/");
+
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
   loadCustomCollections(eleventyConfig);
 
@@ -109,8 +111,9 @@ module.exports = function (eleventyConfig) {
 
   // Don't process folders with static assets e.g. images
   eleventyConfig.addPassthroughCopy("src/static/img");
+  eleventyConfig.addPassthroughCopy("src/fonts");
   eleventyConfig.addPassthroughCopy("admin");
-  eleventyConfig.addPassthroughCopy({ "src/_includes/assets/": "assets/"} );
+  // eleventyConfig.addPassthroughCopy({ "src/_includes/assets/": "assets/"} );
 
   /* Markdown Plugins */
   let markdownIt = require("markdown-it");

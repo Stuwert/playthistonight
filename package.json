@@ -7,9 +7,9 @@
     "watch": "npx eleventy --watch",
     "debug": "DEBUG=* npx eleventy",
     "eleventy:dev": "npx eleventy --serve --watch",
-    "dev": "npm-run-all eleventy:dev sass:local",
-    "sass:local": "npx node-sass -w src/styles/ -o _includes/assets/css/",
-    "sass": "npx node-sass src/styles/ -o _includes/assets/css/"
+    "dev": "npm-run-all sass --parallel eleventy:dev sass:local",
+    "sass:local": "npx node-sass -w src/sass/ -o _site/css/",
+    "sass": "npx node-sass src/sass/ -o _site/css/"
   },
   "repository": {
     "type": "git",
