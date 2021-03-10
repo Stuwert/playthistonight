@@ -1,4 +1,4 @@
-{%- set relatedPosts = collections.posts | getRelatedPosts({ platforms: platforms, title: title, writingType: writingType }) | head(3) %}
+{%- set relatedPosts = collections.post | getRelatedPosts({ platforms: platforms, title: title, writingType: writingType }) | head(3) %}
 
 {% if relatedPosts.length %}
   <h2 class='t-center'>Other Games You Might Enjoy</h2>

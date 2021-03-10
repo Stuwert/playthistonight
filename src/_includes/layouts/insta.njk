@@ -6,7 +6,7 @@ permalink: /insta/index.html
 
 {{ layoutContent | safe }}
 
-{% set postslist = collections.posts %}
+{% set postslist = collections.post %}
 <div class="flex-grid flex-grid--wrap">
 	{% for post in postslist | reverse %}
 		<a href="{{ post.url | url }}" {% if post.url == url %} data-current="current item" {% endif %} class="insta-flex flex-grid__item flex-grid__item--full-width">

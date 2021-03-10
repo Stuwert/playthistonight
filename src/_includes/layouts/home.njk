@@ -4,7 +4,7 @@
 ---
 <h1>Latest Post</h1>
 <div class="flex-grid flex-grid--wrap w-100">
-    {% set post = collections.posts | sort(attribute = "date") | last %}
+    {% set post = collections.post | sort(attribute = "date") | last %}
     <section class="flex-grid__item flex-grid__item--no-hover flex-grid__item--full-width">
         <h2 class="home">{{ post.data.title }}</h2>
         <p>

@@ -21,6 +21,10 @@ module.exports = function (eleventyConfig) {
     return DateTime.fromJSDate(dateObj).toFormat("dd LLL yyyy");
   });
 
+  eleventyConfig.addFilter("jsonStringify", (data) => JSON.stringify(data));
+
+  eleventyConfig.addFilter("keys", (data) => Object.keys(data))
+
   // From: https://flaviocopes.com/how-to-uppercase-first-letter-javascript/
   eleventyConfig.addFilter("capitalizeFirst", (str) => str.charAt(0).toUpperCase() + str.slice(1));
 
@@ -93,20 +97,6 @@ module.exports = function (eleventyConfig) {
         return platforms.includes(platformInCurrentPost);
       })
     })
-  });
-
-
-  // only content in the `posts/` directory
-  eleventyConfig.addCollection("posts", function (collection) {
-    return collection.getAllSorted().filter(function (item) {
-      return item.inputPath.match(/^\.\/posts\//) !== null;
-    });
-  });
-
-  eleventyConfig.addCollection("designs", function (collection) {
-    return collection.getAllSorted().filter(function (item) {
-      return item.inputPath.match(/^\.\/designs\//) !== null;
-    });
   });
 
   // Don't process folders with static assets e.g. images
