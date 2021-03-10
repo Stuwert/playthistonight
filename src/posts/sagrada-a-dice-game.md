@@ -2,7 +2,7 @@
 title: "Sagrada: A Dice Game"
 author: Stuart Urback
 date: 2020-05-25T17:50:14.463Z
-summary: A dice puzzle game about making stained glass windows.
+excerpt: A dice puzzle game about making stained glass windows.
 writingType: review
 platforms:
   - iOS

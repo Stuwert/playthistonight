@@ -2,7 +2,7 @@
 title: 'Octodad: Dadliest Catch'
 author: Dan McAlister
 date: 2019-11-06T00:50:25.081Z
-summary: >-
+excerpt: >-
   Octodad: Dadliest Catch evokes humor and heart by taking an absurd scenario
   seriously.
 writingType: review

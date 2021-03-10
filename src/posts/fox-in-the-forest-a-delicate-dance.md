@@ -2,12 +2,13 @@
 title: "The Fox in the Forest: A Delicate Dance"
 author: Stuart Urback
 date: 2021-02-22T06:28:44.229Z
-summary: Fox in the Forest is one of my favorite two-player card games.
+excerpt: Fox in the Forest is one of my favorite two-player card games.
 platforms:
   - Tabletop
 writingType: review
 ---
 *Fox in the Forest* is a trick taking game based on the classic “Hearts”, shifted from a 3-4 player game to a focus on two players. The structure of trick taking games comes from the restriction that you have to “follow suit”, i.e. play a card in the same suit as the other. The game is played over the course of a number of deals. With each player winning points based on how many tricks they win each round. First to 21 points wins. 
+---
 
 ![The Title "The Fox in the Forest" sits above a Fox, sitting proudly](/static/img/img_0475.jpeg "The Fox in the Forest Game Cover")
 

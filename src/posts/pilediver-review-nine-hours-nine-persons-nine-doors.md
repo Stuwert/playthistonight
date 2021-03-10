@@ -2,7 +2,7 @@
 title: "Pilediver Review: Nine Hours, Nine Persons, Nine Doors"
 author: Dan McAlister
 date: 2020-10-19T22:30:09.772Z
-summary: A mystery, a sinking ship, a lot of math.
+excerpt: A mystery, a sinking ship, a lot of math.
 writingType: review
 vertical: piledriver
 tags:

@@ -2,7 +2,7 @@
 title: 'Celeste: Pop Culture Marvel'
 author: Stuart Urback
 date: 2019-11-18T20:59:51.222Z
-summary: >-
+excerpt: >-
   Celeste, like other great pop cultural media, elevates common tropes through
   impeccable execution and the combination of gameplay, music, and story.
 writingType: article

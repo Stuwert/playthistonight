@@ -2,7 +2,7 @@
 title: "Dicey Dungeons: A Roll-icking Adventure"
 author: Stuart Urback
 date: 2021-01-03T17:32:21.037Z
-summary: It was one of my favorite games of 2018 and the re-release on Nintendo
+excerpt: It was one of my favorite games of 2018 and the re-release on Nintendo
   Switch feels like a great opportunity to take another look.
 platforms:
   - Nintendo Switch

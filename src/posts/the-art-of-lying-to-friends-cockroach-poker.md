@@ -2,7 +2,7 @@
 title: 'The Art of Lying To Friends: Cockroach Poker'
 author: Stuart Urback
 date: 2019-07-26T04:03:22.575Z
-summary: >-
+excerpt: >-
   In which our fearless author tries to convince you that lying to your friends
   is a good thing.
 writingType: review

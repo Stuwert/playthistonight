@@ -2,7 +2,7 @@
 title: "Carto: Game of 2020"
 author: Stuart Urback
 date: 2020-12-19T19:10:48.068Z
-summary: The best game of 2020.
+excerpt: The best game of 2020.
 platforms:
   - Nintendo Switch
   - Windows

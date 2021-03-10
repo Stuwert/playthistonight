@@ -2,7 +2,7 @@
 title: "Modern Art: A Game of Art and Commerce"
 author: Stuart Urback
 date: 2021-01-31T19:01:13.810Z
-summary: Modern Art by Reiner Knizia and published by CMON Games is the best
+excerpt: Modern Art by Reiner Knizia and published by CMON Games is the best
   auction game around.
 platforms:
   - Tabletop

@@ -2,7 +2,7 @@
 title: "Kingdom Rush: Silly Uncertainty"
 author: Stuart Urback
 date: 2020-04-12T23:27:20.576Z
-summary: Kingdom Rush is a tower defense game for mobile and desktop with cute
+excerpt: Kingdom Rush is a tower defense game for mobile and desktop with cute
   characters and a fun story.
 tags: 
   - strategy

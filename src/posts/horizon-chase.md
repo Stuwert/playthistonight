@@ -2,7 +2,7 @@
 title: Horizon Chase
 author: Dan McAlister
 date: 2019-09-09T00:21:48.464Z
-summary: >-
+excerpt: >-
   Horizon Chase is an arcade racing game that makes competition feel deeply
   personal.
 writingType: review 

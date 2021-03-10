@@ -2,7 +2,7 @@
 title: "Interlude: Grilled Cheese and Checkers"
 author: Stuart Urback
 date: 2021-02-15T05:58:01.281Z
-summary: Reflecting on the life and my relationship with my grandparents through games.
+excerpt: Reflecting on the life and my relationship with my grandparents through games.
 platforms:
   - Tabletop
 writingType: article

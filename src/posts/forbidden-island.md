@@ -2,7 +2,7 @@
 title: Forbidden Island
 author: Rebeca Hulme
 date: 2020-12-13T01:21:23.424Z
-summary: Collaborative games - unlike competitive games - work toward a common
+excerpt: Collaborative games - unlike competitive games - work toward a common
   goal; either all the players win together, or all the players lose
   together.  Call them socialism of the gaming world!  This collective
   experience aids in building community, as everyone is contributing their

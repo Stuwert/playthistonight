@@ -2,7 +2,7 @@
 title: Good Job! is a Great Game
 author: Stuart Urback
 date: 2020-11-24T05:06:31.840Z
-summary: Good Job!'s mix of humor, easy-going puzzles and fun art direction led
+excerpt: Good Job!'s mix of humor, easy-going puzzles and fun art direction led
   to the perfect fit for a time spent in lock down and COVID-uncertainty.
 writingType: review
 platforms:

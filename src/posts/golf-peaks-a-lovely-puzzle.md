@@ -2,7 +2,7 @@
 title: "Golf Peaks: A Lovely Puzzle"
 author: Stuart Urback
 date: 2021-01-24T23:21:30.022Z
-summary: Golf Peaks by Afterburn is one of my favorite mobile puzzle games in
+excerpt: Golf Peaks by Afterburn is one of my favorite mobile puzzle games in
   the last 5 years.
 platforms:
   - Windows

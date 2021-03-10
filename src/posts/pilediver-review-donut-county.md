@@ -2,7 +2,7 @@
 title: "Pilediver Review: Donut County"
 author: Dan McAlister
 date: 2020-10-11T01:56:28.614Z
-summary: Be a hole. Wreck the place.
+excerpt: Be a hole. Wreck the place.
 writingType: review
 vertical: piledriver
 platforms:

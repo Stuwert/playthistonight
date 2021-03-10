@@ -2,7 +2,7 @@
 title: "Pilediver Review: Resident Evil 4"
 author: Dan McAlister
 date: 2020-11-25T19:02:01.207Z
-summary: Horror, Action, and Camp
+excerpt: Horror, Action, and Camp
 writingType: review
 vertical: piledriver
 tags:

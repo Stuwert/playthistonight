@@ -8,7 +8,6 @@ const { truncate } = require('./utilities/truncate');
 const loadCustomCollections = require('./utilities/loadCustomCollections');
 
 module.exports = function (eleventyConfig) {
-  eleventyConfig.setFrontMatterParsingOptions({ excerpt: true, excerpt_alias: 'summary' })
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSEO, require("./src/_data/metadata.json"));
 

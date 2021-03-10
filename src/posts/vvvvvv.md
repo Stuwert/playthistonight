@@ -2,7 +2,7 @@
 title: VVVVVV
 author: Dan McAlister
 date: 2020-04-06T15:19:05.983Z
-summary: 'A minimalist exploration adventure. '
+excerpt: 'A minimalist exploration adventure. '
 writingType: review
 platforms: 
   - Windows

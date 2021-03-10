@@ -2,7 +2,7 @@
 title: Steam Remote Play Together
 author: Dan McAlister
 date: 2020-05-05T18:18:33.648Z
-summary: "A new technology that solves some of online multiplayer's inherent problems. "
+excerpt: "A new technology that solves some of online multiplayer's inherent problems. "
 writingType: article
 ---
 ![Screenshot of Overcooked! Chefs preparing food on a wooden ship. ](/static/img/img_0420-2.webp "Working together is good for your mental health.")

@@ -2,7 +2,7 @@
 title: "Pilediver Review: Dead Space Extraction"
 author: Dan McAlister
 date: 2020-10-30T02:57:57.190Z
-summary: "An interesting take on the rail shooter, but one that largely doesn’t work. "
+excerpt: "An interesting take on the rail shooter, but one that largely doesn’t work. "
 writingType: review
 vertical: piledriver
 platforms: 

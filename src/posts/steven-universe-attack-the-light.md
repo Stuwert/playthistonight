@@ -2,7 +2,7 @@
 title: 'Steven Universe: Attack The Light'
 author: Dan McAlister
 date: 2020-01-28T02:03:55.308Z
-summary: >-
+excerpt: >-
   Steven Universe: Attack The Light is a Role-Playing Game (RPG) for mobile
   devices that’s perfect for fans of the show, fans of RPGs, and folks who are
   new to both. 

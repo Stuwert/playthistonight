@@ -2,7 +2,7 @@
 title: Apple Arcade, 1 Year In
 author: Stuart Urback
 date: 2020-10-20T04:26:19.144Z
-summary: A collection of great games that is not quite a service.
+excerpt: A collection of great games that is not quite a service.
 platforms:
   - iOS
   - Apple

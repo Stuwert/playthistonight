@@ -2,7 +2,7 @@
 title: Pocket Run Pool
 author: Stuart Urback
 date: 2019-08-27T05:16:59.484Z
-summary: A game that uses clever design tricks to feel like pool.
+excerpt: A game that uses clever design tricks to feel like pool.
 writingType: review
 platforms:
   - iOS

@@ -2,7 +2,7 @@
 title: Hoplite
 author: Dan McAlister
 date: 2019-08-13T01:51:48.221Z
-summary: >-
+excerpt: >-
   I love strategy games. I’m also bad at them. Hoplite gives me space to love
   strategy, and be bad at it. 
 writingType: review

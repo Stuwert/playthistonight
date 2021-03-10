@@ -2,7 +2,7 @@
 title: "Guildlings: A Coming of Age RPG"
 author: Stuart Urback
 date: 2021-02-08T05:13:46.773Z
-summary: Guildlings for Apple Arcade follows the adventures of a group of plucky
+excerpt: Guildlings for Apple Arcade follows the adventures of a group of plucky
   teens as they investigate the strange events in their world and reconnect
   after a while apart.
 platforms:

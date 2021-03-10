@@ -2,7 +2,7 @@
 title: "Food Chain Island: Survival of the Solitaire"
 author: Stuart Urback
 date: 2021-01-11T02:37:54.238Z
-summary: A concise solitaire game that is reminiscent of genre staples but also
+excerpt: A concise solitaire game that is reminiscent of genre staples but also
   feels modern and fresh.
 platforms:
   - Tabletop

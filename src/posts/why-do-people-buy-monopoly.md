@@ -2,7 +2,7 @@
 title: Why Do People Buy Monopoly?
 author: Stuart Urback
 date: 2020-12-06T17:49:30.664Z
-summary: A look at why Monopoly has stood the test of time, even as newer
+excerpt: A look at why Monopoly has stood the test of time, even as newer
   experiences come along.
 platforms:
   - Tabletop

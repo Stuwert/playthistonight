@@ -2,7 +2,7 @@
 title: Fingle
 author: Dan McAlister
 date: 2019-10-10T00:49:05.320Z
-summary: >-
+excerpt: >-
   Fingle is a tablet game that reaches out of the device to make you
   uncomfortable.
 writingType: review

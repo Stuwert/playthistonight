@@ -2,7 +2,7 @@
 title: Part Time UFO
 date: 2019-07-16T23:28:29.449Z
 author: Dan McAlister
-summary: >-
+excerpt: >-
   Many games, classic and modern are empowerment fantasies, putting the player
   in the role of a capable hero shouldering a mighty responsibility. I love
   that! Empowerment is a comforting, familiar fantasy. But what I admire about

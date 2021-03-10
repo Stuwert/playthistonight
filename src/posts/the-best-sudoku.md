@@ -2,7 +2,7 @@
 title: The Best Sudoku
 author: Stuart Urback
 date: 2021-01-17T20:18:16.867Z
-summary: Comparing and contrasting my exploration of sudoku by playing Chess
+excerpt: Comparing and contrasting my exploration of sudoku by playing Chess
   Sudoku by the Cracking the Cryptic team and Good Sudoku by Zach Gage and Jack
   Schlesinger.
 platforms:

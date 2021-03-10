@@ -2,7 +2,7 @@
 title: 'Gris: A Puzzle-Platformer Masterpiece'
 author: Stacy Moore
 date: 2019-09-16T19:59:51.222Z
-summary: >-
+excerpt: >-
   Despite its brevity, Gris is far and away one of my favorite games of all
   time. The depth of the relatable story, exquisiteness of the water-color
   worlds, flow of the puzzles, and intensity of the music all come together

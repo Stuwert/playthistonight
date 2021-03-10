@@ -2,7 +2,7 @@
 title: Best Games of 2020
 author: Stuart Urback
 date: 2020-12-19T19:16:09.122Z
-summary: 2020 was a tough year, but I was lucky enough to play some great games.
+excerpt: 2020 was a tough year, but I was lucky enough to play some great games.
 platforms:
   - Nintendo Switch
   - Windows
