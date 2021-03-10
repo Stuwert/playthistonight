@@ -8,7 +8,7 @@
 					Untitled
 				{% endif %}
 			</h2>
-			{% if post.data.summary %}
+			{% if post.data.excerpt %}
 				<p>
 					<time datetime="{{ post.date | machinedate}}">
 						<small>
@@ -19,7 +19,7 @@
 					</time>
 				</p>
 				<p class="home-summary">
-					{{ post.data.summary }}
+					{{ post.data.excerpt }}
 				</p>
 			{% endif %}
 		</a>

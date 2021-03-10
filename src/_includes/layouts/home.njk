@@ -16,9 +16,9 @@
         {% if image %}
             <img src="{{image.src}}" alt="{{image.alt}}"/>
         {% endif %}
-        {% if post.data.summary %}
+        {% if post.data.excerpt %}
             <p class="home">
-                {{ post.data.summary }}
+                {{ post.data.excerpt }}
             </p>
         {% endif %}
         <a class="main-link home" href="{{ post.url | url }}">Read More ></a>

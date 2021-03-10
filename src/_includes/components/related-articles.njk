@@ -10,7 +10,7 @@
         {% if false %}
           <img src="{{image.src}}" alt="{{image.alt}}" height="150"/>
         {% endif %}
-        <p class="home-summary">{{ post.data.summary | truncate(150) }}</p>
+        <p class="home-summary">{{ post.data.excerpt | truncate(150) }}</p>
       </a>
     {% endfor %}
   </div>
