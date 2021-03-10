@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A website about games.",
   "scripts": {
-    "build": "npm run sass && npx eleventy",
+    "build": "npm-run-all sass npx eleventy",
     "watch": "npx eleventy --watch",
     "debug": "DEBUG=* npx eleventy",
     "eleventy:dev": "npx eleventy --serve --watch",
