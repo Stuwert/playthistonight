@@ -3,13 +3,14 @@
   "version": "1.0.0",
   "description": "A website about games.",
   "scripts": {
-    "build": "npm-run-all sass eleventy",
+    "build": "npm-run-all build:*",
     "watch": "eleventy --watch",
     "debug": "DEBUG=* eleventy",
-    "eleventy:dev": "eleventy --serve --watch",
-    "dev": "npm-run-all sass --parallel eleventy:dev sass:local",
-    "sass:local": "node-sass -w src/sass/ -o _site/css/",
-    "sass": "node-sass src/sass/ -o _site/css/"
+    "build:eleventy": "eleventy",
+    "dev:eleventy": "eleventy --serve --watch",
+    "dev": "npm-run-all build:sass --parallel dev:*",
+    "dev:sass": "node-sass -w src/sass/ -o _site/css/",
+    "build:sass": "node-sass src/sass/ -o _site/css/"
   },
   "repository": {
     "type": "git",
@@ -25,6 +26,7 @@
   "devDependencies": {
     "@11ty/eleventy": "^0.11.1",
     "@11ty/eleventy-plugin-rss": "^1.0.7",
+    "eleventy": "^1.0.6",
     "jsdom": "^16.2.2",
     "markdown-it": "^12.0.2",
     "markdown-it-anchor": "^6.0.1",
