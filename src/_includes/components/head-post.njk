@@ -10,9 +10,9 @@
   <link rel="stylesheet" href="{{ '/css/fonts.css' | url }}">
   <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
 
+  {% set image = (layoutContent | getFirst('img')).src %}
   {% seo "" %}
-  {% set img = layoutContent | getFirst('img') %}
-  <meta property="og:image" content="{{ img.src }}"/>
+  {# <meta property="og:image" content="{{ img.src }}"/> #}
   <!-- Fathom - beautiful, simple website analytics -->
   {% if (environmentVariables.environment == 'production') %}
     <script src="https://cdn.usefathom.com/script.js" data-site="PJHXPNYF" defer></script>
