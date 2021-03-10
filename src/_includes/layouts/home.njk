@@ -1,0 +1,36 @@
+--- 
+  layout: layouts/base.njk 
+  section: home     
+---
+<h1>Latest Post</h1>
+<div class="flex-grid flex-grid--wrap w-100">
+    {% set post = collections.post | sort(attribute = "date") | last %}
+    <section class="flex-grid__item flex-grid__item--no-hover flex-grid__item--full-width">
+        <h2 class="home">{{ post.data.title }}</h2>
+        <p>
+            <time datetime="{{ post.data.date | machinedate }}">
+                <small>{{ post.data.date | readableDate }} by {{ post.data.author }}</small>
+            </time>
+        </p>
+        {% set image = post.data.content | getFirst("img") %}
+        {% if image %}
+            <img src="{{image.src}}" alt="{{image.alt}}"/>
+        {% endif %}
+        {% if post.data.excerpt %}
+            <p class="home">
+                {{ post.data.excerpt }}
+            </p>
+        {% endif %}
+        <a class="main-link home" href="{{ post.url | url }}">Read More ></a>
+    </section>
+</div>
+<div class="flex-grid flex-grid--wrap w-100">
+    <iframe 
+        src="https://playthistonight.substack.com/embed" 
+        width="480" 
+        height="320"
+        frameborder="0" 
+        scrolling="no"
+    >
+    </iframe>
+</div>

@@ -1,0 +1,21 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="index,follow">
+  <title>{{ title }} | {{ metadata.title }}</title>
+  <link rel="icon" href="{{ metadata.siteUrl }}/static/images/favicon.png" type="image/png">
+  {% if summary %}
+    <meta name="description" content="{{ summary | safe }}">
+  {% endif %}
+  <link rel="stylesheet" href="{{ '/css/fonts.css' | url }}">
+  <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
+
+  {% set image = (layoutContent | getFirst('img')).src %}
+  {% seo "" %}
+  {# <meta property="og:image" content="{{ img.src }}"/> #}
+  <!-- Fathom - beautiful, simple website analytics -->
+  {% if (environmentVariables.environment == 'production') %}
+    <script src="https://cdn.usefathom.com/script.js" data-site="PJHXPNYF" defer></script>
+  {% endif %}
+  <!-- / Fathom -->
+</head>

@@ -9,7 +9,9 @@ const loadCustomCollections = require('./utilities/loadCustomCollections');
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
-  eleventyConfig.addPlugin(pluginSEO, require("./_data/metadata.json"));
+  eleventyConfig.addPlugin(pluginSEO, require("./src/_data/metadata.json"));
+
+  eleventyConfig.addWatchTarget("./src/sass/");
 
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
   loadCustomCollections(eleventyConfig);
@@ -18,6 +20,10 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("readableDate", (dateObj) => {
     return DateTime.fromJSDate(dateObj).toFormat("dd LLL yyyy");
   });
+
+  eleventyConfig.addFilter("jsonStringify", (data) => JSON.stringify(data));
+
+  eleventyConfig.addFilter("keys", (data) => Object.keys(data))
 
   // From: https://flaviocopes.com/how-to-uppercase-first-letter-javascript/
   eleventyConfig.addFilter("capitalizeFirst", (str) => str.charAt(0).toUpperCase() + str.slice(1));
@@ -93,24 +99,11 @@ module.exports = function (eleventyConfig) {
     })
   });
 
-
-  // only content in the `posts/` directory
-  eleventyConfig.addCollection("posts", function (collection) {
-    return collection.getAllSorted().filter(function (item) {
-      return item.inputPath.match(/^\.\/posts\//) !== null;
-    });
-  });
-
-  eleventyConfig.addCollection("designs", function (collection) {
-    return collection.getAllSorted().filter(function (item) {
-      return item.inputPath.match(/^\.\/designs\//) !== null;
-    });
-  });
-
   // Don't process folders with static assets e.g. images
-  eleventyConfig.addPassthroughCopy("static/img");
+  eleventyConfig.addPassthroughCopy("src/static/img");
+  eleventyConfig.addPassthroughCopy("src/fonts");
   eleventyConfig.addPassthroughCopy("admin");
-  eleventyConfig.addPassthroughCopy({ "_includes/assets/": "assets/"} );
+  // eleventyConfig.addPassthroughCopy({ "src/_includes/assets/": "assets/"} );
 
   /* Markdown Plugins */
   let markdownIt = require("markdown-it");
@@ -143,7 +136,7 @@ module.exports = function (eleventyConfig) {
     dataTemplateEngine: "njk",
     passthroughFileCopy: true,
     dir: {
-      input: ".",
+      input: "src",
       includes: "_includes",
       data: "_data",
       output: "_site",

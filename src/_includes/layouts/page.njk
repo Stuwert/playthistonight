@@ -1,0 +1,23 @@
+---
+layout: layouts/base-post.njk
+section: page
+---
+
+<div class="flex-grid">
+
+  <div class="flex-grid__item flex-grid__item--no-hover flex-grid__item--full-width">
+
+    {{ layoutContent | safe }}
+
+    {% if subcollection %}
+      {% for item in collections[subcollection] %}
+        <h2>
+          <a href="{{item.data.externalUrl}}" >{{item.data.title}}</a>
+        </h2>
+        <p>{{item.data.excerpt}}</p>
+      {% endfor %}
+    {% endif %}
+
+  </div>
+
+</div>
