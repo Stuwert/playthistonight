@@ -9,7 +9,7 @@ const loadCustomCollections = require('./utilities/loadCustomCollections');
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
-  eleventyConfig.addPlugin(pluginSEO, require("./_data/metadata.json"));
+  eleventyConfig.addPlugin(pluginSEO, require("./src/_data/metadata.json"));
 
   eleventyConfig.addLayoutAlias("post", "layouts/post.njk");
   loadCustomCollections(eleventyConfig);
@@ -108,9 +108,9 @@ module.exports = function (eleventyConfig) {
   });
 
   // Don't process folders with static assets e.g. images
-  eleventyConfig.addPassthroughCopy("static/img");
+  eleventyConfig.addPassthroughCopy("src/static/img");
   eleventyConfig.addPassthroughCopy("admin");
-  eleventyConfig.addPassthroughCopy({ "_includes/assets/": "assets/"} );
+  eleventyConfig.addPassthroughCopy({ "src/_includes/assets/": "assets/"} );
 
   /* Markdown Plugins */
   let markdownIt = require("markdown-it");
@@ -143,7 +143,7 @@ module.exports = function (eleventyConfig) {
     dataTemplateEngine: "njk",
     passthroughFileCopy: true,
     dir: {
-      input: ".",
+      input: "src",
       includes: "_includes",
       data: "_data",
       output: "_site",

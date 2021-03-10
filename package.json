@@ -8,8 +8,8 @@
     "debug": "DEBUG=* npx eleventy",
     "eleventy:dev": "npx eleventy --serve --watch",
     "dev": "npm-run-all eleventy:dev sass:local",
-    "sass:local": "npx node-sass -w styles/ -o _includes/assets/css/",
-    "sass": "npx node-sass styles/ -o _includes/assets/css/"
+    "sass:local": "npx node-sass -w src/styles/ -o _includes/assets/css/",
+    "sass": "npx node-sass src/styles/ -o _includes/assets/css/"
   },
   "repository": {
     "type": "git",
