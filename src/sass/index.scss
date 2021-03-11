@@ -32,6 +32,14 @@ body {
   font-size: 18px;
 }
 
+h1 {
+  color: var(--link-color);
+  font-size: 60px;
+  margin: 40px 0;
+  padding: 0 20px;
+  text-align: center;
+}
+
 body h1,
 h2,
 h3,
@@ -41,23 +49,15 @@ h6 {
   font-family: 'marbachlig', 'Helvetica', sans-serif;
 }
 
-h1 {
-  color: var(--link-color);
-  font-size: 60px;
-  margin: 40px 0;
-  padding: 0 20px;
-  text-align: center;
-}
-
 p {
   line-height: 29px;
   margin: 0 0 10px;
 }
 
-a,
-a:visited {
-  color: var(--link-color);
-}
+// a,
+// a:visited {
+//   color: var(--link-color);
+// }
 
 img {
   width: 100%;
@@ -98,11 +98,11 @@ pre {
   padding: 10px;
 }
 
-.siteTitle h2 {
+.site-title h2 {
   margin: 0;
 }
 
-.siteTitle a {
+.site-title a {
   color: var(--green-dark-med);
   text-decoration: none;
 }
@@ -117,13 +117,14 @@ header {
   width: 950px;
 }
 
+.home {
+  color: var(--green-med);
+}
+
 .home:hover {
   color: auto;
 }
 
-.home {
-  color: var(--green-med);
-}
 
 .main-link:hover {
   font-weight: bold;
@@ -253,20 +254,6 @@ nav ul :last-child {
   margin-right: 0;
 }
 
-nav li {
-  display: inline-block;
-  font-size: 20px;
-  margin: 0 0.5em;
-}
-
-nav li a,
-nav li a:visited {
-  color: var(--green-dark-med);
-  opacity: 0.6;
-  text-decoration: none;
-  transition: 0.3s ease all;
-}
-
 nav li a:hover {
   opacity: 1;
   text-decoration: underline;
@@ -329,7 +316,7 @@ button {
 }
 
 @media screen and (max-width: 768px) {
-  .siteTitle h2 {
+  .site-title h2 {
     text-align: center;
   }
 
@@ -388,12 +375,7 @@ pre[class*='language-'] {
   color: #ccc;
   font-family: 'marbachlig', Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
   hyphens: none;
-  hyphens: none;
-  hyphens: none;
-  hyphens: none;
   line-height: 1.5;
-  tab-size: 4;
-  tab-size: 4;
   tab-size: 4;
   text-align: left;
   white-space: pre;

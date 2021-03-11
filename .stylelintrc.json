@@ -1,7 +1,11 @@
 {
     "extends": [
         "stylelint-config-standard",
-        "stylelint-config-prettier",
-        "stylelint-config-sass-guidelines"
+        "stylelint-config-prettier"
+    ],
+    "plugins": [
+        "stylelint-selector-bem-pattern",
+        "stylelint-scss",
+        "stylelint-order"
     ]
 }

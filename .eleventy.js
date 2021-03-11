@@ -92,7 +92,7 @@ module.exports = function setupEleventy(eleventyConfig) {
 
   eleventyConfig.addFilter(
     "getRelatedPosts",
-    function getRelatedPosts(
+    function (
       posts,
       {
         platforms: platformsForCurrentPost,
