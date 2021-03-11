@@ -44,6 +44,10 @@ module.exports = function setupEleventy(eleventyConfig) {
     return DateTime.fromJSDate(dateObj).toFormat("yyyy-MM-dd");
   });
 
+  eleventyConfig.addFilter("isoDate", (dateObj) => {
+    return DateTime.fromJSDate(dateObj).toISO();
+  });
+
   // Get the first n elements of an array
   eleventyConfig.addFilter("head", (array, n) => {
     if (n < 0) {
@@ -74,6 +78,18 @@ module.exports = function setupEleventy(eleventyConfig) {
     return htmlDoc.querySelector(htmlEl);
   });
 
+  eleventyConfig.addFilter("getAll", (postContent, htmlEl, htmlProperty) => {
+    const {
+      window: { document: htmlDoc },
+    } = new JSDOM(postContent, "text/html");
+
+    const mappedElements = [];
+
+    return htmlDoc.querySelectorAll(htmlEl).forEach((element) => {
+      mappedElements.push(element[htmlProperty]);
+    });
+  });
+
   // Minify HTML output
   eleventyConfig.addTransform(
     "htmlmin",
@@ -92,7 +108,7 @@ module.exports = function setupEleventy(eleventyConfig) {
 
   eleventyConfig.addFilter(
     "getRelatedPosts",
-    function (
+    function getRelatedPosts(
       posts,
       {
         platforms: platformsForCurrentPost,
