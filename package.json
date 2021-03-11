@@ -12,7 +12,7 @@
     "dev:sass": "node-sass -w src/sass/ -o _site/css/",
     "build:sass": "node-sass src/sass/ -o _site/css/",
     "lint:css": "stylelint **/*.scss",
-    "lint:js": "eslint"
+    "lint:js": "eslint .eleventy.js src/**/*.js"
   },
   "repository": {
     "type": "git",
@@ -58,5 +58,9 @@
   "engines": {
     "node": "14.x",
     "npm": "6.x"
+  },
+  "volta": {
+    "node": "14.16.0",
+    "npm": "7.6.2"
   }
 }
