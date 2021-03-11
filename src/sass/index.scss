@@ -1,5 +1,13 @@
+// New Colors
+$darkGreen: #026670;
+$mintGreen: #9FEDD7;
+$lightYellow: #FEF9C7;
+$mustardYellow: #FCE181;
+$grey: #EDEAE5;
+
+
 :root {
-  --green-light: #eaf5f4;
+  --green-light: $grey; // This variable name should be updated. But for now, leave it.
   --green-med-light: #82c7bf;
   --green-med: #2fa295;
   --green-dark-med: #147066;
@@ -13,12 +21,6 @@
   --link-color: var(--green-med);
 }
 
-// New Colors
-$darkGreen: #026670;
-$mintGreen: #9FEDD7;
-$lightYellow: #FEF9C7;
-$mustardYellow: #FCE181;
-$grey: #EDEAE5;
 
 *,
 *::before,
