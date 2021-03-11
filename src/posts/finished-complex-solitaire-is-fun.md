@@ -2,8 +2,7 @@
 title: "Finished!: Complex Solitaire is Fun"
 author: Stuart Urback
 date: 2021-03-07T18:06:07.659Z
-excerpt: Finished! by Friedemann Friese is a surprisingly complex solitaire game
-  that delivers on a fun mental puzzle with lots of room for experimentation.
+excerpt: Finished! by Friedemann Friese is a surprisingly complex solitaire game that delivers on a fun mental puzzle with lots of room for experimentation.
 platforms:
   - Tabletop
   - iOS
