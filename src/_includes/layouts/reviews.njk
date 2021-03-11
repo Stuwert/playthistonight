@@ -18,6 +18,7 @@ layout: layouts/base.njk
 
 {% set postslist = collections[title] %}
 {% include "components/postslist.njk" %}
+{{ layoutContent | safe }}
 
 <div class="flex-grid t-center">
   <a class="flex-grid__item" href="{{ '/blog' | url }}">
