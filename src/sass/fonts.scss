@@ -22,12 +22,12 @@
  *
  */
 
- @font-face {
-    font-family: 'marbachlig';
-    src: url('../fonts/marbachlig-webfont.woff2') format('woff2'),
-         url('../fonts/marbachlig-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap; 
+@font-face {
+  font-display: swap;
+  font-family: 'marbachlig';
+  font-style: normal;
+  font-weight: normal;
+  src: url('../fonts/marbachlig-webfont.woff2') format('woff2'),
+    url('../fonts/marbachlig-webfont.woff') format('woff'); 
 }
 
