@@ -18,4 +18,25 @@
     <script src="https://cdn.usefathom.com/script.js" data-site="PJHXPNYF" defer></script>
   {% endif %}
   <!-- / Fathom -->
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": {{ "BlogPosting" if writingType == 'review' else "Article" }},
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://google.com/article"
+      },
+      "headline": {{title}},
+      "image": {{ layoutContent | getAll('img', 'src') }},
+      "datePublished": {{ date | isoDate }},
+      "author": {
+        "@type": "Person",
+        "name": {{ author }}
+      },
+       "publisher": {
+        "@type": "Organization",
+        "name": {{ metadata.title }},
+      }
+    }
+    </script>
 </head>

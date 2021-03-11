@@ -1,6 +1,5 @@
 ---
-layout: layouts/page.njk
+layout: layouts/reviews.njk
 title: Recommendations
 navtitle: Game Recs
-permalink: /reviews/pilderiver/index.html
 ---
