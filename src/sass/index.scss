@@ -54,10 +54,20 @@ p {
   margin: 0 0 10px;
 }
 
-a,
-a:visited {
+a {
   color: var(--link-color);
 }
+
+nav li a {
+  color: var(--green-dark-med);
+  opacity: 0.6;
+  text-decoration: none;
+  transition: 0.3s ease all;
+}
+
+// a:visited {
+//   color: var(--link-color);
+// }
 
 img {
   width: 100%;
@@ -253,6 +263,19 @@ nav ul :first-child {
 nav ul :last-child {
   margin-right: 0;
 }
+
+nav li {
+  display: inline-block;
+  font-size: 20px;
+  margin: 0 0.5em;
+}
+
+// nav li a:visited {
+//   color: var(--green-dark-med);
+//   opacity: 0.6;
+//   text-decoration: none;
+//   transition: 0.3s ease all;
+// }
 
 nav li a:hover {
   opacity: 1;
