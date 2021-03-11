@@ -26,7 +26,7 @@ permalink: /insta/index.html
                     </time>
                 </p>
             </div>
-            {% set imageSource = "/static/img/" + post.data.instaImage if post.data.instaImage else (post.data.content | getFirst("img")).src %}
+            {% set imageSource = ("/static/img/" + post.data.instaImage) if post.data.instaImage else (post.templateContent | getFirst("img")).src %}
             {% if imageSource %}
                 <img class="insta" src="{{imageSource}}" alt="{{image.alt}}" />
             {% endif %}
