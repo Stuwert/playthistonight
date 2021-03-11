@@ -11,7 +11,7 @@ writingType: review
 ---
 *Finished!*, designed by Friedemann Friese in 2017 is a twist on solitaire that removes suits and adds resources and restrictions to the popular archetype. You shuffle a deck of cards labeled 1 to 48 and have to sort them into ascending order but can only work with them in groups of three. You play as a data entry specialist, trying to sort the units so the computer can run. The result is a surprisingly complex but fun game that repackages a lot of the concepts of solitaire into a new theme and format.
 
-![An example of the Finished! board game state. 20, 28, 34 are in the discard pile, 05, 17, 32 are in the tableau and 01 is in the Ace Pile. Resources are to the right.](https://cvws.icloud-content.com/B/AbvUTiUHSGCmWWVMBcgaUJVOlZuDARxsY9EiUd_fN1tRiYjErMStc1C-/IMG_0526.jpeg?o=AsNGxCWBmTKgMfezwCNmr1AMVpJ7qNShyQmDUdTtWoQ9&v=1&x=3&a=CAogojJqLnS_C5fh3--y-x4YCJNef88p6mj6tFmiKONMwKoSbRDwxbPvgC8YkL3q74AvIgEAUgROlZuDWgStc1C-aiZIyDH2_5bdjCibE8vA4HhkS2FIDznoM1KtvAzJdbSbBKfBL2Ofj3ImgIDhs8G_8eVk0Iwhk8cbvdGss-MobqbUL5DrHRbJuT_fYHu6lxE&e=1615142231&fl=&r=d9883a16-c1d0-4185-93b7-fd6a09d3a4f5-1&k=OU8aLOv7M59WIiUBhZXcGA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=40&s=rKYDyaxw2BlF1ikuDqHT3h7uN9c&cd=i "Finished! Board Game Board")
+![An example of the Finished! board game state. 20, 28, 34 are in the discard pile, 05, 17, 32 are in the tableau and 01 is in the Ace Pile. Resources are to the right.](/static/img/IMG_0526.jpeg "Finished! Board Game Board")
 
 ## Heavy Weight
 
