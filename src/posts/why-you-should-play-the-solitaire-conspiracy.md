@@ -1,5 +1,5 @@
 ---
-title: Why you should The Solitaire Conspiracy
+title: Why You Should Play The Solitaire Conspiracy
 author: Stuart Urback
 date: 2021-03-15T05:05:27.684Z
 excerpt: My best solitaire game of 2020 that just so happens to have a great story.
