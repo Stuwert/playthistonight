@@ -12,7 +12,7 @@ Solitaire has been a staple of most computer installations for the last 30 years
 
 Bithell games, the game studio famous for hits such as *[Thomas Was Alone](https://store.steampowered.com/app/220780/Thomas_Was_Alone/)* and *[Volume*](https://www.bithellgames.com/volume) started a new set of games in the last five years called "Shorts". Rather than building these up into huge titles, they add a lot of polish to games that are quick to play through and centered on a single idea. They started with *[Subsurface Circular](https://store.steampowered.com/app/676820/Subsurface_Circular/),* an erstwhile text adventure, and have expanded the concept here, to *[The Solitaire Conspiracy](https://store.steampowered.com/app/1424980/The_Solitaire_Conspiracy/).*
 
-![An overview of the beginning game board](/src/static/img/the-game-board.jpeg "The game board")
+![An overview of the beginning game board](/static/img/the-game-board.jpeg "The game board")
 
 I'm predisposed to like these types of games. I love the "Shorts" concept that sets expectations for the type of experience players are going to get, and I appreciate that the game doesn't add a lot of content to juice the "value" I get from playing it. It's also a solitaire game, which I'm predisposed to like as is. 
 
@@ -20,7 +20,7 @@ I'm predisposed to like these types of games. I love the "Shorts" concept that s
 
 *[The Solitaire Conspiracy](https://store.steampowered.com/app/1424980/The_Solitaire_Conspiracy/)* resembles FreeCell, a game I remember growing up watching my dad play, though it comes from the [Streets and Alleys](https://bicyclecards.com/how-to-play/streets-and-alleys/) variant. Unlike FreeCell, the number of suits that make the deal change from round to round and there is fewer columns to play with. The tableau contains three columns with four rows each. The game reserves the middle column for the Ace Piles and deals the cards in the deck into the outer column. *[The Solitaire Conspiracy](https://store.steampowered.com/app/1424980/The_Solitaire_Conspiracy/)* is less restrictive than FreeCell. Instead of requiring cards to be adjacent, i.e. a black 7 only goes on top of a red 8, you can play any suit card on top of any other suit card as long as that card is higher. I.e. a 2 of any suit goes on top of a 3, 4, 5, 6, 7, 8, 9, 10, Jack, Queen, or King of any other suit.
 
-![](/src/static/img/the-ability-readout.jpeg "A Tooltip Hover")
+![](/static/img/the-ability-readout.jpeg "A Tooltip Hover")
 
 But the life of the game comes from the special powers the face cards contain. Each face card has a single use power. Some abilities are unambiguously good, like Drive Team Six's ability to send cards buried deep in a stack straight to the ace pile. Other abilities, like the "Blood Legacy" suit, reorders the stack you play the cards from smallest to biggest. It's not obvious because pulling the larger cards to the front of the stack is typically bad. However, it can help pull out the face cards to the top of the stack. 
 
@@ -30,7 +30,7 @@ I don't want to lose site of the story either. The story revolves around a hacki
 
 It took me about three and a half hours to make my way through the game the first time. That short amount of time makes it easy to recommend to just about anyone. While the game feels simple and easy to play, marrying story and game mechanics is challenging, Challenging gameplay can sideline even the best of stories, and an over the top story can make any gameplay feel onerous and boring. 
 
-![A freeze-frame of the opening animation](/src/static/img/deal-animation.jpeg "The deal appears")
+![A freeze-frame of the opening animation](/static/img/deal-animation.jpeg "The deal appears")
 
 In *[The Solitaire Conspiracy](https://store.steampowered.com/app/1424980/The_Solitaire_Conspiracy/)* the story segments are long enough to keep my attention, help me understand what's going on in the game's world without making me lose focus on the games. And playing on the default mode ensured that getting to the next story was a matter of when. 
 
@@ -42,7 +42,7 @@ The default mode was a better experience my first play through, and might be a b
 
 A lot of indie games ignore what sometimes gets called the game feel. Game Feel is a combination of UI, sound, and other effects that relate to the gameplay that make a game feel sharp and dynamic. The traditional solitaire example of this would be the end of a successful game when the cards come spilling out from the top, filling up the screen. Indie studios ignore these because of the budget. Finishing touches like these can be expensive, hard to pull off, and can end up looking worse if they're not executed perfectly. That's what makes them so spectacular here. 
 
-![Four suits are shown top to bottom under the "A Thouse Faces" level title](/src/static/img/show-the-spread.jpeg "The game end screen")
+![Four suits are shown top to bottom under the "A Thouse Faces" level title](/static/img/show-the-spread.jpeg "The game end screen")
 
 At the start of every round, the animation of the deck being dealt out plays as the camera zooms in and out of the table. When you pick up a card, it tilts slightly, and as you drag them around the screen, they lag slightly, as if they have weight and heft. When the face cards are active, they light up, and when they get played, a flash of light appears as the special ability takes effect. And when the game ends, the cards in each suit get spread across the table, like a nod to a dealer spreading the cards across a poker table. Games don't need to have these types of flourishes, but the focus of *[The Solitaire Conspiracy](https://store.steampowered.com/app/1424980/The_Solitaire_Conspiracy/)* on the glamorous fictional world of international espionage fits with this treatment. 
 
