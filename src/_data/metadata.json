@@ -3,6 +3,7 @@
   "title": "Play This Tonight",
   "tagline": "Lovingly curated game recommendations.",
   "url": "https://www.playthistonight.com",
+  "favicon": "/static/img/favicon.png",
   "author": {
     "name": "Stuart Urback",
     "email": "hello@playthistonight.com"
