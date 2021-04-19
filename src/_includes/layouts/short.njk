@@ -1,0 +1,33 @@
+--- 
+  layout: layouts/base-post.njk 
+  section: short 
+---
+<div class="flex-grid">
+
+  <div class="flex-grid__item flex-grid__item--no-hover flex-grid__item--full-width">
+    <h3>{{ title }}</h3>
+
+    <img src={{ image }} />
+
+    <br />
+
+    {{ layoutContent | safe }}
+
+    <button>Link to Purchase</button>
+
+  </div>
+</div>
+<div class="flex-grid">
+  <iframe 
+    class="m-60"
+    src="https://playingwithrules.substack.com/embed" 
+    width="480" 
+    height="320"
+    frameborder="0" 
+    scrolling="no"
+    title="Substack Signup"
+    allowtransparency="true"
+  >
+  </iframe>
+</div>
+</article>
