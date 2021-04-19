@@ -2,7 +2,7 @@
 /* eslint-disable global-require */
 module.exports = {
   plugins: [
-    require("tailwindcss"),
+    require("tailwindcss")("./tailwind.config.js"),
     require("autoprefixer"),
     require("postcss-simple-vars"),
   ],
