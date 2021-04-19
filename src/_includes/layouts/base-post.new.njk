@@ -1,0 +1,20 @@
+<!doctype html>
+<html {% if section %} data-current="{{ section }}"{% endif %} lang="en">
+
+    {% include "components/head-post.new.njk" %}
+
+    <body>
+
+        {% include "components/header.njk" %}
+
+        {{ layoutContent | safe }}
+
+        {% if (writingType == 'review') %}
+            {% include "components/related-articles.njk" %}
+        {% endif %}
+
+        {% include "components/footer.njk" %}
+
+    </body>
+
+</html>
