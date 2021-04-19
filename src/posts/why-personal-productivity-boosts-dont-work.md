@@ -41,7 +41,7 @@ This isn't to say that you should ignore the scrum and agile concepts discussed 
 
 ## We Don't Plan Enough
 
-The pronouncement here isn't for knowledge workers to implement simple queueing systems to take control over their days, it's for leadership and management to take a more active role in understanding who, how and when people in their organization communicate. *A World Without Email* reframes communication as a competitive advantage. Getting informational flow right means speed in execution and reduced stress for the participants. 
+The pronouncement here shouldn't be for knowledge workers to implement simple queueing systems to take control over their days, it's for leadership and management to take a more active role in understanding who, how and when people in their organization communicate. *A World Without Email* reframes communication as a competitive advantage. Getting informational flow right means speed in execution and reduced stress for the participants. 
 
 But the implications of how and why to get communication flows right gets muddled a bit. In part 2, Newport talks about how a group of small businesses used systems like these to improve the lives of their employees. These are good examples of businesses with a lot of alignment in terms of priorities and a relatively small number of competing internal stakeholders. Doing this stuff at larger organizations or organizations that want to move fast doesn't just require better systems, it requires rethinking project planning and interdepartmental relationships altogether. 
 
