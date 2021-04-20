@@ -1,7 +1,7 @@
 ---
 title: Building out an Ingestion System
 author: Stuart Urback
-date: 2021-04-20T05:04:44.110Z
+date: 2021-04-18
 excerpt: An overview of a financial ingestion data structure.
 platforms:
   - Windows
