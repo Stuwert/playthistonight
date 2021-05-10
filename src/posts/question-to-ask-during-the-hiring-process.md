@@ -27,7 +27,7 @@ I have a few goals when it comes to asking good interview questions (as the inte
 2. **Not Too Specific**: I want the question to orthogonally get at other deeper truths without being explicit about the ask.
 
    * Going back to the previous situation about work life balance, asking them point blank, "do you value work life balance?" or "do people work nights and weekends?" is also unhelpful because there's a clear right answer. Also getting too specific can be a problem "Tell me about a time you had to work more than 40 hours a week." might leave the interviewer without a solid answer (they're probably not tracking their time), which will likely result in the same initial vagueness I was trying to avoid.
-3. **Knocking The Out of their Scripts:** I want to get a perspective on the company, but not from the default answers they always give, but closer to an honest interpretation of how they feel about the company.
+3. **Getting Off Script:** I want to get a perspective on the company, but not from the default answers they always give, but closer to an honest interpretation of how they feel about the company.
 
    * The idea here isn't that I'm going to trick them into saying something bad, it's that often people default to the normal good stuff that is pretty common at every company. Asking a question that they haven't heard gets them to pause and recalibrate answers in a way that's productive for me.
 4. **Opportunities for Follow-up:** The other goal is to ask questions that let me ask a follow up if necessary. It's not always (and given the limited amount of time, often isn't), but I want to set myself up for the possibility. 
