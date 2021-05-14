@@ -72,7 +72,7 @@ As an engineer I'll be working with product managers and other stakeholders to s
 
 3. What type of work cycles do you work in?
 
-How often work gets pulled in and shipped shapes a lot of how projects get scoped and developed. I like to get a sense of the cadence that they work in and how often they're learning. A good follow up question here might be: "Tell me about a really good retro and what you took away from it" to dig into how they're reflecting and improving their process.
+* How often work gets pulled in and shipped shapes a lot of how projects get scoped and developed. I like to get a sense of the cadence that they work in and how often they're learning. A good follow up question here might be: "Tell me about a really good retro and what you took away from it" to dig into how they're reflecting and improving their process.
 
 ## Dealing with Issues and Specifics
 
