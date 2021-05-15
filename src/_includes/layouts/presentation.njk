@@ -9,6 +9,7 @@
   {% endif %}
   {# <link rel="stylesheet" href="{{ '/css/fonts.css' | url }}"> #}
   <link rel="stylesheet" href="{{ '/css/presentation.css' | url }}">
+  <link rel="stylesheet" href="{{ '/css/presentation-theme.css' | url }}">
 
   {% set image = (layoutContent | getFirst('img')).src %}
   {% seo "" %}
@@ -45,3 +46,4 @@
 
 {{ layoutContent | safe }}
 
+<script src="static/js/presentation.js" defer></script>

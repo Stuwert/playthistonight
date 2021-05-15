@@ -11,10 +11,13 @@ platforms:
   - Tabletop
 ---
 
- <div class="reveal">
-      <div class="slides">
-        <section>Slide 1</section>
-        <section>Slide 2</section>
-      </div>
-    </div>
-<script src="static/js/presentation.js"></script>
+<div class="reveal">
+  <div class="slides">
+    <section><h1>Horizontal Slide<h1></section>
+    <section>
+      <section>Vertical Slide 1</section>
+      <section>Vertical Slide 2</section>
+    </section>
+  </div>
+</div>
+<script src="static/js/presentation.js" defer></script>

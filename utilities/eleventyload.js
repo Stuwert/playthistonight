@@ -4,7 +4,7 @@ module.exports = function loadEleventyConfig(eleventyConfig) {
   eleventyConfig.addPlugin(require("eleventy-load"), {
     rules: [
       {
-        test: /\.(md|html)$/,
+        test: /\.(md|html|njk)$/,
         loaders: [
           {
             loader: require("eleventy-load-html"),
