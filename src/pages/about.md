@@ -20,3 +20,7 @@ Play This Tonight wants to be part of the trend that makes talking about and pla
 ### Website
 
 Stacks Theme by [Bradley Taunt](https://bradleytaunt.com).
+
+### Disclaimer
+
+The views expressed in the blog are those of the authors and do not necessarily reflect the opinion of any other employer, agency, or company.
