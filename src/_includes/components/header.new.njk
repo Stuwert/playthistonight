@@ -1,0 +1,22 @@
+<header class="flex flex-col md:flex-row md:justify-between">
+    <div class="text-center md:text-left">
+        <h2>
+            <a href="/">{{metadata.title}}</a>
+        </h2>
+        <span>{{ metadata.tagline }}</p>
+    </div>
+    <nav>
+        <ul>
+            {%- for nav in collections.nav | dataSort('priority') -%}
+            <li>
+                <a href="{{ nav.url | url }}" {% if nav.url == page.url %} data-current="current item" {% endif %}>{{ nav.data.navtitle }}</a>
+            </li>
+            {%- endfor -%}
+            <li>
+            <a href="/reviews">
+                <button>Find a Game</button>
+            </a>
+            </li>
+        </ul>
+    </nav>
+</header>
