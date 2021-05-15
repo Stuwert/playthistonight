@@ -26,8 +26,12 @@
   "license": "MIT",
   "homepage": "https://playthistonight.com",
   "devDependencies": {
-    "@11ty/eleventy": "^0.11.1",
+    "@11ty/eleventy": "^0.12.1",
     "eleventy": "^1.0.6",
+    "eleventy-load": "^0.2.0",
+    "eleventy-load-file": "^0.1.0",
+    "eleventy-load-html": "^0.1.0",
+    "eleventy-load-js": "^0.1.0",
     "eslint": "^7.21.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-config-prettier": "^8.1.0",
@@ -35,9 +39,9 @@
     "eslint-plugin-prettier": "^3.3.1",
     "npm-run-all": "^4.1.5",
     "prettier": "^2.2.1",
-    "stylelint": "^13.12.0",
+    "stylelint": "^9.3.0",
     "stylelint-config-prettier": "^8.0.2",
-    "stylelint-config-sass-guidelines": "^8.0.0",
+    "stylelint-config-sass-guidelines": "^5.1.0",
     "stylelint-config-standard": "^21.0.0"
   },
   "dependencies": {
@@ -52,7 +56,8 @@
     "markdown-it": "^12.0.4",
     "markdown-it-anchor": "^7.1.0",
     "node-sass": "^5.0.0",
-    "stylelint-order": "^4.1.0",
+    "reveal.js": "^4.1.0",
+    "stylelint-order": "^0.8.1",
     "stylelint-scss": "^3.19.0",
     "stylelint-selector-bem-pattern": "^2.1.0",
     "uglify-es": "^3.3.9",
@@ -60,7 +65,7 @@
   },
   "engines": {
     "node": "14.x",
-    "npm": "6.x"
+    "npm": "7.x"
   },
   "volta": {
     "node": "14.16.0",

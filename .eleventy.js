@@ -7,12 +7,15 @@ const { JSDOM } = require("jsdom");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 const { truncate } = require("./utilities/truncate");
+const loadEleventyConfig = require("./utilities/eleventyload");
 const loadCustomCollections = require("./utilities/loadCustomCollections");
 const seoConfig = require("./src/_data/metadata.json");
 
 module.exports = function setupEleventy(eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSEO, seoConfig);
+  // Sets up so that the loader will work
+  loadEleventyConfig(eleventyConfig);
 
   eleventyConfig.addWatchTarget("./src/sass/");
 
