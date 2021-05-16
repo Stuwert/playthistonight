@@ -1,9 +1,14 @@
-// New Colors
-$darkGreen: #026670;
-$mintGreen: #9FEDD7;
-$lightYellow: #FEF9C7;
-$mustardYellow: #FCE181;
-$grey: #EDEAE5;
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+@import './fonts.css';
+
+/* New Colors
+@darkGreen: #026670;
+@mintGreen: #9FEDD7;
+@lightYellow: #FEF9C7;
+@mustardYellow: #FCE181; */
 
 :root {
   --green-light: #eaf5f4;
@@ -11,7 +16,7 @@ $grey: #EDEAE5;
   --green-med: #2fa295;
   --green-dark-med: #147066;
   --green-dark: #030e0d;
-  --purple-light: #{$grey}; // This variable name should be updated to be more inclusive.
+  --purple-light: #EDEAE5; /* This variable name should be updated to be more inclusive. */
   --purple-med-light: #8d8a9e;
   --purple-med: #2e294e;
   --purple-dark-med: #151324;
@@ -75,10 +80,6 @@ nav li a {
   text-decoration: none;
   transition: 0.3s ease all;
 }
-
-// a:visited {
-//   color: var(--link-color);
-// }
 
 img {
   width: 100%;
@@ -284,13 +285,6 @@ nav li {
   font-size: 20px;
   margin: 0 0.5em;
 }
-
-// nav li a:visited {
-//   color: var(--green-dark-med);
-//   opacity: 0.6;
-//   text-decoration: none;
-//   transition: 0.3s ease all;
-// }
 
 nav li a:hover {
   opacity: 1;
