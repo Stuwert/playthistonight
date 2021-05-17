@@ -60,6 +60,24 @@ module.exports = function setupEleventy(eleventyConfig) {
     return array.slice(0, n);
   });
 
+  eleventyConfig.addFilter("lastUnhidden", (array) => {
+    let i = array.length - 1;
+
+    while (i > 0) {
+      const post = array[i];
+
+      const {
+        data: { negative: isNegative, hidden: isHidden },
+      } = post;
+
+      if (!isNegative && !isHidden) {
+        return post;
+      }
+
+      i -= 1;
+    }
+  });
+
   // Minify JS
   eleventyConfig.addFilter("jsmin", function minifyJs(code) {
     const minified = UglifyJS.minify(code);
