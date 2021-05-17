@@ -7,12 +7,15 @@ const { JSDOM } = require("jsdom");
 const markdownIt = require("markdown-it");
 const markdownItAnchor = require("markdown-it-anchor");
 const { truncate } = require("./utilities/truncate");
+const loadEleventyConfig = require("./utilities/eleventyload");
 const loadCustomCollections = require("./utilities/loadCustomCollections");
 const seoConfig = require("./src/_data/metadata.json");
 
 module.exports = function setupEleventy(eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(pluginSEO, seoConfig);
+  // Sets up so that the loader will work
+  loadEleventyConfig(eleventyConfig);
 
   eleventyConfig.addWatchTarget("./src/sass/");
 
@@ -55,6 +58,24 @@ module.exports = function setupEleventy(eleventyConfig) {
     }
 
     return array.slice(0, n);
+  });
+
+  eleventyConfig.addFilter("lastUnhidden", (array) => {
+    let i = array.length - 1;
+
+    while (i > 0) {
+      const post = array[i];
+
+      const {
+        data: { negative: isNegative, hidden: isHidden },
+      } = post;
+
+      if (!isNegative && !isHidden) {
+        return post;
+      }
+
+      i -= 1;
+    }
   });
 
   // Minify JS

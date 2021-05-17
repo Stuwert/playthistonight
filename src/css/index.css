@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities; */
 
-@import './fonts.css';
+@import "./fonts.css";
 
 /* New Colors
 @darkGreen: #026670;
@@ -16,7 +16,7 @@
   --green-med: #2fa295;
   --green-dark-med: #147066;
   --green-dark: #030e0d;
-  --purple-light: #EDEAE5; /* This variable name should be updated to be more inclusive. */
+  --purple-light: #edeae5; /* This variable name should be updated to be more inclusive. */
   --purple-med-light: #8d8a9e;
   --purple-med: #2e294e;
   --purple-dark-med: #151324;
@@ -37,8 +37,8 @@ em {
 
 html,
 body {
-  font-family: 'marbachlig', -apple-system, 'SF UI Text', 'Avenir Next',
-    'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: "marbachlig", -apple-system, "SF UI Text", "Avenir Next",
+    "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin: 0;
   padding: 0;
 }
@@ -62,7 +62,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'marbachlig', 'Helvetica', sans-serif;
+  font-family: "marbachlig", "Helvetica", sans-serif;
 }
 
 p {
@@ -147,7 +147,6 @@ header {
   color: auto;
 }
 
-
 .main-link:hover {
   font-weight: bold;
 }
@@ -214,7 +213,7 @@ header {
   margin: 20px;
   max-width: calc(40% - 20px);
   padding: 10px 5px;
-  width: calc(20% - 20px); 
+  width: calc(20% - 20px);
 }
 
 .flex-grid__item--no-hover:hover {
@@ -226,8 +225,6 @@ header {
 .flex-grid__item--no-hover p {
   margin: 0 0 20px;
 }
-
-
 
 /* Widths */
 .w-100 {
@@ -291,15 +288,15 @@ nav li a:hover {
   text-decoration: underline;
 }
 
-nav li a[data-current='current item'] {
+nav li a[data-current="current item"] {
   font-weight: bold;
   opacity: 1;
   text-decoration: underline;
 }
 
 /* Tags */
-a[rel='tag'],
-a[rel='tag']:visited {
+a[rel="tag"],
+a[rel="tag"]:visited {
   background: var(--link-color);
   border-radius: 5px;
   color: white;
@@ -320,7 +317,7 @@ form label {
 input,
 textarea,
 button {
-  font-family: 'marbachlig', 'Avenir Next', sans-serif;
+  font-family: "marbachlig", "Avenir Next", sans-serif;
   font-size: 1rem;
   margin-bottom: 1em;
   padding: 1em;
@@ -401,11 +398,11 @@ https://prismjs.com/download.html#themes=prism-tomorrow&languages=markup+css+cli
  * @author Rose Pritchard
  */
 
-code[class*='language-'],
-pre[class*='language-'] {
+code[class*="language-"],
+pre[class*="language-"] {
   background: none;
   color: #ccc;
-  font-family: 'marbachlig', Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+  font-family: "marbachlig", Monaco, "Andale Mono", "Ubuntu Mono", monospace;
   hyphens: none;
   line-height: 1.5;
   tab-size: 4;
@@ -417,19 +414,19 @@ pre[class*='language-'] {
 }
 
 /* Code blocks */
-pre[class*='language-'] {
+pre[class*="language-"] {
   margin: 0 0 20px;
   overflow: auto;
   padding: 1em;
 }
 
-:not(pre) > code[class*='language-'],
-pre[class*='language-'] {
+:not(pre) > code[class*="language-"],
+pre[class*="language-"] {
   background: #2d2d2d;
 }
 
 /* Inline code */
-:not(pre) > code[class*='language-'] {
+:not(pre) > code[class*="language-"] {
   border-radius: 0.3em;
   padding: 0.1em;
   white-space: normal;

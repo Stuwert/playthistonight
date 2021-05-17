@@ -1,0 +1,49 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="robots" content="index,follow">
+  <title>{{ title }} | {{ metadata.title }}</title>
+  <link rel="icon" href="{{ metadata.favicon | url }}" type="image/png">
+  {% if summary %}
+    <meta name="description" content="{{ summary | safe }}">
+  {% endif %}
+  {# <link rel="stylesheet" href="{{ '/css/fonts.css' | url }}"> #}
+  <link rel="stylesheet" href="{{ '/css/presentation.css' | url }}">
+  <link rel="stylesheet" href="{{ '/css/presentation-theme.css' | url }}">
+
+  {% set image = (layoutContent | getFirst('img')).src %}
+  {% seo "" %}
+  {# <meta property="og:image" content="{{ img.src }}"/> #}
+  <!-- Fathom - beautiful, simple website analytics -->
+  {% if (environmentVariables.environment == 'production') %}
+    <script src="https://cdn.usefathom.com/script.js" data-site="PJHXPNYF" defer data-included-domains="playthistonight.com"></script>
+    <script async defer data-domain="playthistonight.com" src="https://plausible.io/js/plausible.js"></script>
+  {% endif %}
+  <!-- / Fathom -->
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": {{ "BlogPosting" if writingType == 'review' else "Article" }},
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://google.com/article"
+      },
+      "headline": {{title}},
+      "image": {{ layoutContent | getAll('img', 'src') }},
+      "datePublished": {{ date | isoDate }},
+      "author": {
+        "@type": "Person",
+        "name": {{ author }}
+      },
+       "publisher": {
+        "@type": "Organization",
+        "name": {{ metadata.title }},
+      }
+    }
+    </script>
+</head>
+
+
+{{ layoutContent | safe }}
+
+<script src="static/js/presentation.js" defer></script>
