@@ -12,11 +12,9 @@ writingType: article
 
 For some Americans who grew up in the ‘80s and ‘90s, the roll and move mechanic represents games at their worst: boring affairs that make the prospect of putting cardboard and plastic on a table seem bleak. Culturally dominant games like *Monopoly*, *Clue*, *Parcheesi*, *Sorry!*, and *Aggravation* feature the roll and move mechanic where players would roll dice and then move a piece around a board based on the rolled number. 
 
+At a rough level “roll and move” means that a player rolls a die and then uses the result to determine how many spaces they can move. In a game like *Candyland* they don’t have much control over what they do with the results, but in *Backgammon* players have a lot of control.
+
 The games themselves are considered unfun and unfair luck-driven affairs. And for that reason, the mechanic has also mostly fallen out of vogue in modern board game design which features tight feedback mechanisms, catch up features, and dramatic endings. Playing *Machi Koro: Legacy* got me to reconsider that belief.
-
-## The (Briefest) History
-
-In America, when we think of roll and move games *Monopoly*, and *Clue* come to mind, but older games like *Parcheesi* (based on the Indian game *Pachisi*), *Backgammon*, game *Snakes and Ladders* also use roll and move mechanics. At a rough level “roll and move” means that a player rolls a die and then uses the result to determine how many spaces they can move. In a game like *Candyland* they don’t have much control over what they do with the results, but in *Backgammon* players have a lot of control.
 
 ## The Beauty of Roll and Move
 
@@ -33,14 +31,6 @@ I think rolling and moving is a delightful and cozy mechanic that draws players 
 I think what makes roll and moves so great is the fun of operating a machine and seeing it unfold. The enjoyment of being the machinery of the game without needing to make decisions about it. This is the physical variant of games like *The Sims* or more recent entries like *Loop Hero* where you make decisions and then see what happens. While it can’t recover an otherwise unplayable game, it was a fun moment of delight that could be deployed more effectively in other titles. 
 
  **Brief Machi Koro: Legacy spoilers below**
-
-
-
-
-
-
-
-
 
 I wouldn’t recommend playing *Machi Koro: Legacy*. For those who aren’t familiar, the original *Machi Koro* takes *Catan* and asks “what if we used cards instead of a map?”. Players purchase cards that give them coins based on the number of dice rolled each turn. *Machi Koro: Legacy* complicates this by creating a 10 game campaign that changes the cards that can be purchased and the special goals each game, while adding some additional mechanics and storyline. It does not solve *Machi Koro*’s underlying problems. Dice rolls cluster: 6-10 are way more likely to be rolled than any other number. Players tend to win if their cards get activated the most. But there’s one component of the game I found delightful: the visitor’s dice. This dice, rolled on every round, had a face for a sea turtle, an oni, and a princess. Depending on which one came up, the corresponding figure would move around and either dish out coins or cause chaos.
 
