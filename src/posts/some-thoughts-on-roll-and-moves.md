@@ -55,6 +55,10 @@ However, there is a game that manages to both compensate skill and also capture 
 
 I think _Machi Koro: Legacy_ offers an interesting direction forward for roll and move mechanics. By distancing themselves from the centerpiece of the game it allows them to create a narrative (the “visitors” moving around town) and also be a complexifier for the game (players have to respond to the results). _Machi Koro: Legacy_’s biggest problem is that the complexification doesn’t change the game enough to be meaningful. By the end of the games the visitor dice became a side effect that wasn’t enough to shift the outcome one way or another. It would be fun to see what happens if the result of the visitors move became central to the outcome of the game.
 
+## Want to See Some Prototypes for How I Might Design a Roll and Move?
+
+[Sign up for my e-mail list](https://playingwithrules.substack.com)
+
 \* You could argue here that if “Roll and Write” games are “Roll and Move” that games like _Machi Koro_ or _Catan_ are also roll and move. The distinction I try to make here is that in Roll and Moves you can’t manipulate the results of the outcome but have to deal with them as you build your strategy. In both _Machi Koro_ and _Catan_, the rolling exists purely to distribute resources.\*\* This is a tenuous difference, but I don’t think it ultimately weakens the argument I’m trying to make.
 
 \*\* You could absolutely argue that roll and move or roll and write is also resource distribution, but I think decoupling resources from the dice creates enough of a separation that I’m happy with where it landed.
